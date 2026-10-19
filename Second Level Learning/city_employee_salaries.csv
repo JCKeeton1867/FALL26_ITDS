@@ -1,0 +1,1209 @@
+Id,EmployeeName,JobTitle,Department,Gender,Age,EducationLevel,YearsOfService,HireYear,Status,UnionMember,RemoteEligible,PerformanceRating,SickDaysUsed,CommuteMiles,BasePay,OvertimePay,OtherPay,Benefits,TotalPay,TotalPayBenefits,Year
+1,Robert Hernandez,Clerk,Administrative Services,Male,51,Bachelor,19,2003,FT,Yes,Yes,3,6,18.8,57322.04,0.0,0.0,18907.67,57322.04,76229.71,2022
+2,Jose Taylor,Firefighter,Fire,F,49,High School,8,2017,PT,Yes,No,3,8,17.7,85115.78,2836.78,0.0,7184.38,87952.56,95136.94,2025
+3,David Moore,IT Operations Support Admin,Technology,Male,,Associate,3,2019,FT,No,Yes,3,8,4.7,117698.62,0.0,0.0,38105.18,117698.62,155803.8,2022
+4,Luis Hall,Accountant,Controller,Male,37,Doctorate,5,2018,FT,Yes,Yes,2,1,2.9,161489.93,0.0,0.0,52402.66,161489.93,213892.59,2023
+5,Nicole Tran,Librarian,Library,Female,37,High School,1,2021,FT,No,No,3,8,2.6,96182.5,0.0,0.0,31488.01,96182.5,127670.51,2022
+6,Emily Wilson,Transit Operator,Transportation,Female,38,Bachelor,0,2024,FT,Yes,No,4,3,14.1,87132.61,3833.8,686.16,24710.48,91652.57,116363.05,2024
+7,Carlos Jackson,Firefighter,Fire,Male,39,High School,11,2013,FT,Yes,No,1,6,21.8,171050.71,93172.41,0.0,55869.99,264223.12,320093.11,2024
+8,Jennifer Smith,IT Operations Support Admin,Technology,Female,37,Bachelor,5,2017,FT,Yes,Yes,4,11,11.5,124496.11,0.0,0.0,39934.74,124496.11,164430.85,2022
+9,Eric Wong,Parking Control Officer,Transportation,Male,41,High School,2,2020,FT,Yes,No,2,4,12.0,57891.15,0.0,0.0,16683.66,57891.15,74574.81,2022
+10,Linda Hall,Nursing Assistant,Public Health,Female,46,Associate,13,2011,FT,Yes,No,5,4,3.0,95409.54,5577.75,0.0,28239.66,100987.29,129226.95,2024
+11,Michael Miller,Clerk,Administrative Services,Male,39,High School,8,2015,FT,Yes,Yes,2,2,6.7,69057.41,0.0,0.0,22659.44,69057.41,91716.85,2023
+12,Laura Gonzalez,Nursing Assistant,Public Health,Female,37,Bachelor,10,2014,FT,Yes,No,3,9,15.5,87463.07,28245.18,0.0,30176.44,115708.25,145884.69,2024
+13,Robert Martinez,TRANSIT OPERATOR,Transportation,Male,23,Master,0,2024,FT,No,No,3,5,6.7,87031.77,0.0,0.0,25175.85,87031.77,112207.62,2024
+14,Nicole Tran,Gardener,Recreation & Parks,Female,53,Associate,13,2011,FT,Yes,No,4,1,31.3,78447.65,0.0,0.0,21983.1,78447.65,100430.75,2024
+15,Kevin Walker,Transit Operator,Transportation,Male,56,High School,17,2005,FT,Yes,No,2,4,6.7,86848.24,5389.4,7421.96,30887.02,99659.6,130546.62,2022
+16,Raj Tran,Firefighter,Fire,Male,35,Associate,2,2022,FT,Yes,No,5,8,4.5,127361.99,36600.01,0.0,39916.66,163962.0,203878.66,2024
+17,Brian Thomas,Custodian,Public Works,Male,44,Master,16,2007,FT,Yes,No,2,5,11.4,73342.98,0.0,0.0,23571.31,73342.98,96914.29,2023
+18,Daniel Brown,Deputy Sheriff,Sheriff,Male,37,Bachelor,0,2023,FT,Yes,No,4,4,4.8,116739.35,14929.07,7747.83,38230.86,139416.25,177647.11,2023
+19,Maria Miller,Nursing Assistant,Public Health,Female,57,Bachelor,10,2012,FT,Yes,No,5,9,2.6,78724.83,30600.61,0.0,22540.92,109325.44,131866.36,2022
+20,Tanya Hernandez,Fire Captain,Fire,Female,52,Bachelor,14,2008,FT,Yes,No,3,12,12.3,191564.41,11167.24,4556.38,65937.61,207288.03,273225.64,2022
+21,Sofia Garcia,Nursing Assistant,Public Health,Female,34,Bachelor,6,2016,FT,Yes,No,3,2,6.6,71055.35,0.0,0.0,22898.44,71055.35,93953.79,2022
+22,Carlos Patel,Transit Operator,Transportation,Male,30,High School,1,2022,FT,Yes,No,5,6,21.1,57476.78,15300.87,0.0,16170.87,72777.65,88948.52,2023
+23,Jennifer Tran,Gardener,Recreation & Parks,Female,30,Associate,7,2018,PT,No,No,3,5,11.9,40799.14,14769.34,0.0,3739.72,55568.48,59308.2,2025
+24,Aisha Martinez,Sergeant,Police,Female,51,Master,10,2015,FT,Yes,No,3,10,17.1,189953.68,0.0,0.0,64772.49,189953.68,254726.17,2025
+25,Priya Jones,Firefighter,Fire,Female,38,High School,3,2022,FT,Yes,No,4,11,8.7,128597.47,3069.79,25408.68,39506.45,157075.94,196582.39,2025
+26,Laura Taylor,Police Officer,Police,Female,54,Bachelor,18,2006,FT,No,No,4,12,19.8,107741.5,36464.88,1987.88,34953.55,146194.26,181147.81,2024
+27,Michael Lewis,Senior Data Analyst,Technology,Male,33,Bachelor,5,2020,PT,Yes,Yes,1,6,5.1,65355.24,0.0,0.0,7273.7,65355.24,72628.94,2025
+28,Mary Kim,Transit Operator,Transportation,Female,20,High School,0,2022,FT,Yes,No,2,7,8.9,65236.13,2720.87,15156.55,20802.33,83113.55,103915.88,2022
+29,Tuan Smith,Transit Operator,Transportation,Male,42,Associate,4,2019,FT,No,No,3,14,9.9,96218.54,11719.18,0.0,31555.69,107937.72,139493.41,2023
+30,Steven Tran,Fire Captain,Fire,Male,28,Bachelor,0,2023,FT,Yes,No,4,7,3.5,164197.18,29814.52,13864.74,52704.08,207876.44,260580.52,2023
+31,Susan Taylor,Sergeant,Police,Female,47,High School,9,2015,FT,Yes,No,4,10,19.4,164401.97,47645.21,0.0,48521.17,212047.18,260568.35,2024
+32,Kevin Scott,Registered Nurse,Public Health,Male,59,High School,8,2016,FT,No,No,3,5,8.3,163025.57,35525.47,10197.99,53627.52,208749.03,262376.55,2024
+33,Raj Martin,Firefighter,Fire,Male,46,Bachelor,21,2003,FT,No,No,4,6,14.8,154921.05,36742.03,7023.11,44009.49,198686.19,242695.68,2024
+34,Tuan Moore,Sergeant,Police,Male,44,Master,4,2018,FT,No,No,3,13,3.7,161389.54,64506.42,11725.32,56231.93,237621.28,293853.21,2022
+35,David Anderson,Senior Data Analyst,Technology,Male,42,Associate,9,2013,PT,Yes,No,4,7,11.1,86379.28,0.0,0.0,11399.11,86379.28,97778.39,2022
+36,Linda Hall,Transit Operator,Transportation,Female,38,Bachelor,10,2014,FT,Yes,No,4,10,6.2,78695.9,25277.74,883.38,22887.87,104857.02,127744.89,2024
+37,Jennifer Martin,Registered Nurse,Public Health,Female,33,Associate,2,2020,PT,Yes,No,3,6,15.3,76133.4,0.0,3403.77,6115.09,79537.17,85652.26,2022
+38,Sofia Anderson,Registered Nurse,Public Health,Female,29,Associate,0,2022,FT,Yes,No,2,5,16.5,121815.84,0.0,0.0,39384.59,121815.84,161200.43,2022
+39,Luis Young,Library Technician,Library,Male,42,Bachelor,14,2011,FT,Yes,No,3,6,19.2,81463.0,0.0,0.0,28773.63,81463.0,110236.63,2025
+40,Karen Johnson,IT Operations Support Admin,Technology,Female,39,Master,14,2010,FT,Yes,Yes,3,6,8.7,108428.26,9937.73,0.0,36500.7,118365.99,154866.69,2024
+41,Robert Tran,Transit Operator,Transportation,Male,32,,0,2024,FT,Yes,No,3,10,9.0,68121.44,0.0,0.0,21693.76,68121.44,89815.2,2024
+42,William Martin,Registered Nurse,Public Health,Male,38,Bachelor,5,2020,FT,No,No,4,4,14.1,181954.79,0.0,0.0,64919.51,181954.79,246874.3,2025
+43,Karen Clark,Nursing Assistant,Public Health,Female,39,Master,9,2013,FT,No,No,5,13,16.0,81539.55,0.0,0.0,26656.27,81539.55,108195.82,2022
+44,Emily Wong,Firefighter,Fire,Female,19,High School,0,2022,FT,No,No,3,12,1.9,95904.32,19599.23,0.0,27484.95,115503.55,142988.5,2022
+45,Susan Garcia,Police Officer,Police,Female,36,High School,8,2017,FT,Yes,No,4,12,2.1,129469.17,5127.19,0.0,45445.55,134596.36,180041.91,2025
+46,Tuan Patel,Recreation Leader,Recreation & Parks,Male,46,Master,13,2011,PT,Yes,No,3,4,2.1,25359.99,0.0,0.0,1825.62,25359.99,27185.61,2024
+47,Tuan Patel,Custodian,Public Works,Male,43,Associate,8,2014,FT,Yes,No,3,10,24.1,80164.67,0.0,2959.25,25364.36,83123.92,108488.28,2022
+48,Michael Rodriguez,Sergeant,Police,Male,42,Associate,5,2019,FT,Yes,No,4,10,7.2,147016.23,0.0,0.0,,147016.23,192729.52,2024
+49,Maria Hernandez,Police Officer,Police,Female,48,High School,10,2014,PT,Yes,No,3,11,12.2,72988.01,23869.21,3946.24,7821.89,100803.46,108625.35,2024
+50,Raj Wright,Custodian,Public Works,Male,45,High School,11,2013,PT,Yes,No,4,9,12.6,38967.17,6395.2,1129.07,2560.99,46491.44,49052.43,2024
+51,Tuan Lewis,Gardener,Recreation & Parks,Male,31,Associate,13,2011,FT,Yes,No,3,3,7.7,80450.96,0.0,0.0,24071.51,80450.96,104522.47,2024
+52,Patricia Smith,Department Head,Administrative Services,Female,61,Master,13,2010,FT,No,Yes,3,6,22.4,335631.68,0.0,0.0,103963.65,335631.68,439595.33,2023
+53,Anthony Wilson,Recreation Leader,Recreation & Parks,Male,49,Bachelor,11,2013,FT,Yes,No,3,4,,38944.94,948.88,0.0,11174.45,39893.82,51068.27,2024
+54,Laura Moore,Deputy Sheriff,Sheriff,Female,33,Associate,1,2022,FT,Yes,No,1,4,11.0,104362.63,30160.85,0.0,35720.08,134523.48,170243.56,2023
+55,Angela Rodriguez,Registered Nurse,Public Health,Female,64,Master,18,2005,FT,Yes,No,1,6,7.6,199911.9,0.0,0.0,60046.29,199911.9,259958.19,2023
+56,James Wright,Parking Control Officer,Transportation,Male,22,Associate,2,2022,FT,Yes,No,4,10,6.5,59113.57,15498.1,0.0,16575.98,74611.67,91187.65,2024
+57,Laura Lewis,Transit Operator,Transportation,Female,42,Bachelor,2,2020,FT,Yes,No,4,12,6.1,86193.94,19520.85,0.0,29594.0,105714.79,135308.79,2022
+58,Luis Jones,Sergeant,Police,Male,39,Associate,2,2023,FT,Yes,No,3,16,9.4,160473.41,72187.78,0.0,54152.41,232661.19,286813.6,2025
+59,Sofia Miller,Firefighter,Fire,Female,38,Associate,8,2016,FT,Yes,No,4,4,1.9,130843.99,71123.36,3247.14,42923.33,205214.49,248137.82,2024
+60,Kevin Wilson,IT Operations Support Admin,Technology,Male,35,Master,8,2017,FT,Yes,Yes,4,6,,114040.7,0.0,0.0,34129.22,114040.7,148169.92,2025
+61,Karen Martin,Librarian,Library,Female,39,Bachelor,4,2020,FT,Yes,No,4,3,8.1,91430.07,0.0,0.0,27520.74,91430.07,118950.81,2024
+62,Laura Wright,Transit Operator,Transportation,Female,56,Doctorate,20,2005,FT,No,No,4,6,11.4,104851.55,0.0,6565.03,33917.34,111416.58,145333.92,2025
+63,Luis Allen,Sergeant,Police,Male,55,Bachelor,11,2011,FT,Yes,No,2,11,15.1,153199.67,15374.48,0.0,46895.64,168574.15,215469.79,2022
+64,Daniel Martinez,Librarian,Library,Male,30,Bachelor,1,2024,FT,Yes,No,3,6,27.2,0.0,0.0,0.0,34678.12,104665.34,139343.46,2025
+65,Susan Lewis,Police Officer,Police,Female,57,Master,15,2008,PT,No,No,3,6,9.9,100868.08,41409.67,0.0,6861.52,142277.75,149139.27,2023
+66,Robert Allen,Police Officer,Police,Male,42,Bachelor,9,2016,PT,Yes,No,4,10,4.7,63220.37,2971.57,0.0,9259.64,66191.94,75451.58,2025
+67,Linda Miller,Gardener,Recreation & Parks,Female,33,Associate,5,2020,PT,Yes,No,3,9,,29358.96,0.0,0.0,3777.48,29358.96,33136.44,2025
+68,Linda Wilson,Clerk,Administrative Services,Female,44,High School,8,2017,PT,Yes,Yes,3,6,6.1,29545.17,2701.18,0.0,1932.26,32246.35,34178.61,2025
+69,Sofia Clark,Police Officer,Police,Female,47,Doctorate,6,2016,FT,Yes,No,4,8,8.5,129301.16,9525.06,1977.41,44658.31,140803.63,185461.94,2022
+70,Jose Allen,Registered Nurse,Public Health,Male,51,Bachelor,14,2011,FT,Yes,No,4,3,5.0,151785.09,0.0,0.0,45950.03,151785.09,197735.12,2025
+71,Linda Williams,Firefighter,Fire,Female,43,High School,11,2012,FT,Yes,No,4,5,5.3,84728.28,6273.15,0.0,24868.73,91001.43,115870.16,2023
+72,Robert Kim,Parking Control Officer,Transportation,Male,43,Master,10,2013,FT,Yes,No,3,6,15.7,73391.84,0.0,0.0,23858.94,73391.84,97250.78,2023
+73,Aisha Martin,Firefighter,Fire,Female,49,Bachelor,5,2019,PT,Yes,No,5,2,8.2,91246.38,16087.85,0.0,6210.0,107334.23,113544.23,2024
+74,Eric Walker,Recreation Leader,Recreation & Parks,Male,37,Bachelor,9,2013,FT,Yes,No,4,5,6.9,48517.05,0.0,0.0,14308.4,48517.05,62825.45,2022
+75,Andre Gonzalez,Library Technician,Library,Male,57,Bachelor,18,2007,FT,No,No,2,7,,76266.56,0.0,0.0,21381.06,76266.56,97647.62,2025
+76,Raj Rodriguez,Deputy Sheriff,Sheriff,Male,53,Bachelor,12,2013,FT,Yes,No,4,13,15.1,145875.34,0.0,5376.4,46482.52,151251.74,197734.26,2025
+77,Mei Wilson,Registered Nurse,Public Health,Female,33,Master,6,2016,FT,Yes,No,4,2,11.3,158671.17,0.0,0.0,54187.06,158671.17,212858.23,2022
+78,Patricia Thomas,Fire Captain,Fire,Female,57,Associate,15,2008,FT,Yes,No,5,14,29.9,194121.4,123748.04,0.0,61153.59,317869.44,379023.03,2023
+79,Karen Nguyen,Nursing Assistant,Public Health,Female,50,High School,8,2016,FT,No,No,4,10,30.0,61918.28,13235.82,1098.44,18610.86,76252.54,94863.4,2024
+80,John Anderson,Police Officer,Police,Male,54,High School,21,2002,FT,No,No,3,7,4.6,132902.2,8304.27,5380.82,42949.69,146587.29,189536.98,2023
+81,Jose Patel,Sergeant,Police,Male,38,Associate,2,2020,FT,Yes,No,3,11,16.1,161304.38,0.0,3776.93,54375.75,165081.31,219457.06,2022
+82,Carlos Lewis,Firefighter,Fire,Male,50,Associate,11,2012,PT,Yes,No,4,9,39.8,80240.37,22421.71,518.33,8542.64,103180.41,111723.05,2023
+83,James Jackson,Fire Captain,Fire,Male,38,High School,9,2014,FT,No,No,4,7,22.9,189906.18,0.0,9743.44,59578.93,199649.62,259228.55,2023
+84,John Walker,Firefighter,Fire,Male,45,Master,2,2020,FT,No,No,3,8,4.1,118159.36,2450.02,2959.51,33748.52,123568.89,157317.41,2022
+85,Steven Wong,Sergeant,Police,Nonbinary,44,Bachelor,6,2017,PT,Yes,No,4,13,23.0,88313.7,9853.21,0.0,6077.97,98166.91,104244.88,2023
+86,Mary Tran,Library Technician,Library,Female,55,Associate,21,2001,FT,Yes,No,2,5,3.1,85031.44,0.0,0.0,27344.44,85031.44,112375.88,2022
+87,Rosa Wilson,Police Officer,Police,Female,72,High School,20,2002,FT,Yes,No,3,14,7.6,134267.48,49085.83,0.0,46281.4,183353.31,229634.71,2022
+88,Laura Davis,Police Officer,Police,Female,22,Master,0,2022,FT,Yes,No,3,9,13.7,136290.97,31225.65,0.0,45164.62,167516.62,212681.24,2022
+89,Laura Williams,Transit Operator,Transportation,Female,43,Associate,7,2016,FT,Yes,No,3,11,16.7,82823.98,22403.43,0.0,,105227.41,131432.86,2023
+90,Mary Kim,Custodian,Public Works,Female,60,Bachelor,15,2008,FT,Yes,No,4,7,10.9,70385.38,0.0,0.0,24938.56,70385.38,95323.94,2023
+91,Tuan Nguyen,Transit Operator,Transportation,Nonbinary,64,Bachelor,23,2000,FT,Yes,No,4,12,4.8,89817.07,16309.76,0.0,29237.55,106126.83,135364.38,2023
+92,Raj Martinez,Transit Operator,Transportation,Male,38,Master,4,2021,FT,Yes,No,5,6,7.2,98992.27,12990.57,0.0,33646.91,111982.84,145629.75,2025
+93,Linda Jackson,Sergeant,Police,Female,23,High School,0,2022,FT,No,No,3,16,14.1,133720.89,12405.02,0.0,46358.04,146125.91,192483.95,2022
+94,Raj Hernandez,IT Operations Support Admin,Technology,Male,51,Bachelor,15,2010,FT,No,Yes,3,9,8.3,146872.28,0.0,6033.94,52232.9,152906.22,205139.12,2025
+95,Tuan Jones,Custodian,Public Works,Male,40,Associate,10,2015,FT,Yes,No,3,8,2.8,70050.61,0.0,0.0,21634.49,70050.61,91685.1,2025
+96,Brian Chen,Fire Captain,Fire,Male,57,Bachelor,12,2013,FT,Yes,No,4,9,15.9,160786.29,0.0,0.0,46350.91,160786.29,207137.2,2025
+97,Emily Walker,Transit Operator,Transportation,Female,36,Master,11,2012,FT,Yes,No,4,16,4.6,85481.91,6602.55,0.0,24475.65,92084.46,116560.11,2023
+98,Mary Clark,Transit Operator,Transportation,Female,45,Bachelor,13,2011,PT,Yes,No,4,7,12.8,48753.48,3821.04,0.0,6192.13,52574.52,58766.65,2024
+99,Hannah Young,Senior Data Analyst,Technology,Female,25,Master,4,2019,PT,Yes,Yes,3,11,11.1,63947.28,0.0,0.0,8189.26,63947.28,72136.54,2023
+100,Susan Scott,Parking Control Officer,Transportation,Female,47,Bachelor,9,2016,PT,Yes,No,4,8,7.8,39170.29,5867.13,0.0,2851.8,45037.42,47889.22,2025
+101,Susan Johnson,REGISTERED NURSE,Public Health,Female,54,Bachelor,5,2017,PT,Yes,No,3,7,28.0,77665.77,0.0,0.0,6849.15,77665.77,84514.92,2022
+102,Nicole Brown,Nursing Assistant,Public Health,Female,,Bachelor,21,2001,FT,Yes,No,3,8,6.9,83620.26,0.0,5243.06,24256.73,88863.32,113120.05,2022
+103,Emily Taylor,IT Operations Support Admin,Technology,Female,62,Master,16,2006,FT,Yes,Yes,4,5,14.5,125807.99,0.0,0.0,39519.08,125807.99,165327.07,2022
+104,Wei Martin,Nursing Assistant,Public Health,Male,49,Bachelor,16,2008,PT,Yes,No,2,5,10.4,47829.09,16603.69,0.0,2684.01,64432.78,67116.79,2024
+105,Karen Smith,Electrician,Public Works,Female,50,Master,23,2002,FT,No,No,4,3,7.8,136176.5,0.0,1766.39,43786.23,137942.89,181729.12,2025
+106,Jennifer Jones,Sergeant,Police,Female,,Bachelor,10,2012,FT,Yes,No,4,2,6.4,179125.42,115015.96,0.0,52383.62,294141.38,346525.0,2022
+107,Karen Hall,Registered Nurse,Public Health,Female,45,Associate,14,2011,FT,Yes,No,3,2,10.6,147629.1,37953.25,12037.1,50266.55,197619.45,247886.0,2025
+108,Linda Lopez,Transit Operator,Transportation,Female,37,Doctorate,5,2018,PT,Yes,No,3,11,5.8,40200.6,9231.06,485.52,3047.42,49917.18,52964.6,2023
+109,Brian Lewis,Police Officer,Police,Male,25,Master,0,2025,FT,No,No,5,12,1.9,110423.62,31596.45,0.0,34737.82,142020.07,176757.89,2025
+110,Carlos Jackson,Electrician,Public Works,Male,25,Master,5,2020,PT,Yes,No,5,6,5.5,61050.01,0.0,0.0,5375.56,61050.01,66425.57,2025
+111,Eric Brown,Transit Operator,Transportation,Male,57,Bachelor,10,2014,PT,No,No,4,10,16.0,43326.26,0.0,0.0,5898.52,43326.26,49224.78,2024
+112,Maria Young,Transit Operator,Transportation,Female,50,Associate,7,2017,FT,No,No,3,11,7.8,90288.99,11215.21,0.0,32163.37,101504.2,133667.57,2024
+113,Mei Smith,Transit Operator,Transportation,Female,47,Associate,9,2015,PT,Yes,No,2,8,1.9,38244.28,17645.98,2217.76,5671.75,58108.02,63779.77,2024
+114,Nicole Wilson,Senior Data Analyst,Technology,Female,61,Bachelor,22,2001,FT,Yes,No,3,1,48.8,158519.62,0.0,0.0,55901.44,158519.62,214421.06,2023
+115,Tuan Wright,Police Officer,Police,Male,38,Bachelor,11,2014,FT,No,No,4,9,13.2,138740.01,52136.88,3449.64,49031.87,194326.53,243358.4,2025
+116,Emily Hall,Library Technician,Library,Female,47,Master,9,2014,FT,No,No,3,3,,81673.05,0.0,0.0,24513.02,81673.05,106186.07,2023
+117,Hannah Rodriguez,Electrician,Public Works,Female,44,Master,5,2019,FT,Yes,No,5,5,10.7,121656.63,14990.02,0.0,41138.28,136646.65,177784.93,2024
+118,Hannah Smith,Firefighter,Fire,Female,48,Bachelor,11,2014,PT,Yes,No,5,4,16.9,91372.74,18993.23,7619.76,10278.38,117985.73,128264.11,2025
+119,Andre Davis,Transit Operator,Transportation,Male,46,Master,0,2023,FT,No,No,3,4,11.6,76585.83,17595.69,0.0,24730.78,94181.52,118912.3,2023
+120,Laura Rodriguez,Fire Captain,Fire,Female,51,Associate,13,2010,FT,No,No,2,9,3.5,187722.01,0.0,27773.76,62086.18,215495.77,277581.95,2023
+121,Jose Clark,Police Officer,Police,Male,41,Associate,8,2017,FT,Yes,No,3,17,12.1,139898.23,23538.93,5377.57,47354.21,168814.73,216168.94,2025
+122,Jennifer Patel,Library Technician,Library,Female,32,Associate,6,2019,FT,No,No,4,6,3.9,74244.25,0.0,0.0,23948.98,74244.25,98193.23,2025
+123,Marcus Lewis,IT Operations Support Admin,Technology,Male,51,High School,9,2015,FT,Yes,Yes,4,6,5.8,124291.55,0.0,0.0,35103.05,124291.55,159394.6,2024
+124,Karen Rodriguez,Registered Nurse,Public Health,Female,57,Master,17,2006,PT,No,No,1,5,4.3,76682.74,26210.31,58.97,6334.99,102952.02,109287.01,2023
+125,Patricia Wright,Accountant,Controller,Female,41,Bachelor,8,2014,FT,Yes,No,2,9,3.1,136185.29,0.0,0.0,38467.33,136185.29,174652.62,2022
+126,Patricia Anderson,Police Officer,Police,Female,20,Associate,1,2023,FT,No,No,3,10,3.3,127462.05,5269.11,6703.48,38247.86,139434.64,177682.5,2024
+127,Daniel Wilson,Custodian,Public Works,Male,44,Associate,14,2008,FT,No,No,3,5,8.9,63346.29,0.0,0.0,20412.9,63346.29,83759.19,2022
+128,Mary Gonzalez,Accountant,Controller,Female,42,Bachelor,8,2015,FT,Yes,Yes,3,7,6.1,120822.18,0.0,0.0,43021.75,120822.18,163843.93,2023
+129,Tuan Thomas,Firefighter,Fire,Male,,Bachelor,0,2022,PT,Yes,No,3,7,19.7,64003.84,13256.71,6114.94,6560.36,83375.49,89935.85,2022
+130,Nicole Miller,IT Operations Support Admin,Technology,Female,50,Master,13,2009,FT,Yes,No,1,8,10.6,149618.65,0.0,0.0,52323.57,149618.65,201942.22,2022
+131,Jose Walker,Transit Operator,Transportation,Male,32,Bachelor,4,2020,FT,Yes,No,2,10,16.1,86785.78,27564.99,0.0,29329.27,114350.77,143680.04,2024
+132,Patricia Nguyen,Firefighter,Fire,Female,36,Associate,0,2023,FT,Yes,No,3,6,10.4,117376.05,391.12,0.0,39674.19,117767.17,157441.36,2023
+133,Daniel Martin,Recreation Leader,Recreation & Parks,Male,42,Bachelor,9,2013,FT,No,No,3,4,19.4,40650.9,1434.3,0.0,13308.35,42085.2,55393.55,2022
+134,John Wright,Police Officer,Police,Male,38,High School,0,2023,FT,No,No,3,8,18.5,122369.41,19008.45,1878.86,36566.49,143256.72,179823.21,2023
+135,James Clark,Registered Nurse,Public Health,Nonbinary,56,High School,16,2008,FT,Yes,No,3,9,21.6,162017.28,0.0,16806.7,48626.76,178823.98,227450.74,2024
+136,Robert Nguyen,FIREFIGHTER,Fire,Male,27,High School,0,2023,FT,Yes,No,3,12,6.2,124144.08,10679.61,1815.13,,136638.82,174300.42,2023
+137,Grace Hernandez,Deputy Sheriff,Sheriff,Female,36,Bachelor,12,2010,FT,Yes,No,1,10,9.8,97502.61,64974.38,0.0,32240.18,162476.99,194717.17,2022
+138,Eric Tran,Transit Operator,Transportation,Male,45,Master,6,2019,FT,Yes,No,3,8,3.3,85314.07,18057.66,4369.12,26678.58,107740.85,134419.43,2025
+139,Daniel Wong,Clerk,Administrative Services,Male,42,Associate,10,2012,FT,Yes,Yes,4,5,11.9,46055.09,0.0,0.0,13238.88,46055.09,59293.97,2022
+140,William Clark,Clerk,Administrative Services,Male,42,Bachelor,14,2011,PT,Yes,Yes,4,4,13.4,31461.32,0.0,0.0,4405.98,31461.32,35867.3,2025
+141,Anthony Tran,Firefighter,Fire,Male,37,Bachelor,10,2013,PT,Yes,No,1,11,4.0,70875.37,17776.61,0.0,5184.09,88651.98,93836.07,2023
+142,Linda Johnson,Transit Operator,Transportation,Female,51,Associate,6,2019,FT,Yes,No,4,8,11.8,58338.0,3515.44,3863.88,19488.39,65717.32,85205.71,2025
+143,David Martinez,Registered Nurse,Public Health,Male,28,Bachelor,0,2023,PT,Yes,No,3,5,19.8,64635.52,0.0,0.0,5981.02,64635.52,70616.54,2023
+144,Rosa Wong,Sergeant,Police,Female,51,Associate,15,2007,FT,Yes,No,2,8,10.2,150336.27,20317.01,2397.57,42985.51,173050.85,216036.36,2022
+145,Andre Davis,Recreation Leader,Recreation & Parks,Male,46,Bachelor,17,2005,FT,No,No,3,3,6.9,49624.09,0.0,0.0,14001.11,49624.09,63625.2,2022
+146,Nicole Young,REGISTERED NURSE,Public Health,Female,40,Bachelor,19,2004,PT,Yes,No,3,2,6.0,58724.62,6536.68,0.0,4372.51,65261.3,69633.81,2023
+147,Anthony Taylor,Police Officer,Police,Male,44,Master,8,2016,FT,Yes,No,3,10,2.2,138153.52,51657.86,1266.03,44224.54,191077.41,235301.95,2024
+148,John Hall,Registered Nurse,Public Health,Male,26,Bachelor,0,2025,FT,No,No,3,2,11.3,153900.94,29366.13,11011.63,48306.84,194278.7,242585.54,2025
+149,Andre Garcia,Firefighter,Fire,Male,45,Bachelor,4,2019,FT,Yes,No,2,12,4.7,132013.6,57886.55,0.0,40292.75,189900.15,230192.9,2023
+150,Susan Martinez,Police Officer,Police,Female,48,Associate,14,2008,PT,No,No,4,11,4.3,68021.71,6096.37,5107.03,9794.26,79225.11,89019.37,2022
+151,Wei Martinez,Nursing Assistant,Public Health,Male,37,Master,6,2017,FT,No,No,3,6,5.3,100180.39,0.0,0.0,30818.16,100180.39,130998.55,2023
+152,Linda Williams,Gardener,Recreation & Parks,Female,63,High School,25,1997,FT,Yes,No,3,6,7.1,79146.92,7197.09,0.0,22237.81,86344.01,108581.82,2022
+153,Anthony Young,Department Head,Administrative Services,Male,46,,14,2010,PT,No,Yes,4,5,8.3,109168.46,0.0,1584.11,11338.97,110752.57,122091.54,2024
+154,Mei Nguyen,Recreation Leader,Recreation & Parks,Female,39,High School,5,2020,FT,Yes,No,4,6,3.4,40097.51,0.0,0.0,13489.21,40097.51,53586.72,2025
+155,Hannah Patel,Police Officer,Police,Female,30,Associate,2,2022,FT,Yes,No,2,12,7.1,137782.82,5158.46,0.0,41089.68,142941.28,184030.96,2024
+156,Michael Nguyen,Library Technician,Library,Male,33,Master,0,2022,FT,No,No,5,8,23.1,66687.53,0.0,0.0,19488.61,66687.53,86176.14,2022
+157,Daniel Kim,Nursing Assistant,Public Health,Male,32,Associate,6,2017,FT,No,No,3,5,27.0,86702.29,31674.88,0.0,24289.64,118377.17,142666.81,2023
+158,Luis Jones,Police Officer,Police,Male,32,Master,8,2014,FT,Yes,No,4,8,9.0,127228.77,0.0,0.0,36939.61,127228.77,164168.38,2022
+159,Maria Brown,Librarian,Library,Female,42,Bachelor,16,2009,FT,Yes,No,3,11,14.5,122177.76,0.0,0.0,36841.83,122177.76,159019.59,2025
+160,Tanya Rodriguez,Deputy Sheriff,Sheriff,Female,42,Master,8,2016,FT,Yes,No,5,11,10.4,106556.71,11284.03,2355.51,32859.03,120196.25,153055.28,2024
+161,Luis Walker,IT Operations Support Admin,Technology,Male,38,Associate,6,2017,FT,No,Yes,5,2,5.8,145351.21,0.0,0.0,43455.86,145351.21,188807.07,2023
+162,Kevin Kim,Sergeant,Police,Male,60,High School,23,2001,FT,Yes,No,3,7,5.2,180922.9,41692.42,8308.09,54335.99,230923.41,285259.4,2024
+163,Brian Allen,Police Officer,Police,Male,58,Associate,16,2008,FT,Yes,No,4,7,26.8,119379.4,48098.49,491.33,34034.27,167969.22,202003.49,2024
+164,Nicole Garcia,Transit Operator,Transportation,Female,52,Bachelor,13,2012,FT,No,No,1,7,4.5,79066.02,7442.14,204.67,24270.02,86712.83,110982.85,2025
+165,Michael Jackson,Parking Control Officer,Transportation,Male,28,Master,8,2014,FT,Yes,No,2,8,13.5,65468.95,0.0,0.0,23044.19,65468.95,88513.14,2022
+166,Carlos Hall,Police Officer,Police,Male,34,Bachelor,4,2021,PT,No,No,3,7,6.4,51348.04,4714.98,0.0,7444.16,56063.02,63507.18,2025
+167,Robert Anderson,Registered Nurse,Public Health,Male,27,Associate,3,2020,FT,Yes,No,3,4,10.2,138025.16,38549.18,2348.49,46383.7,178922.83,225306.53,2023
+168,Jose Scott,Transit Operator,Transportation,Male,64,Bachelor,21,2001,PT,Yes,No,3,7,8.1,41595.58,0.0,0.0,2986.09,41595.58,44581.67,2022
+169,Steven Lee,Deputy Sheriff,Sheriff,Male,44,Bachelor,3,2021,FT,Yes,No,3,12,3.5,145368.25,30729.8,0.0,48094.33,176098.05,224192.38,2024
+170,Robert Wong,Police Officer,Police,Male,34,Master,11,2013,PT,Yes,No,3,8,,61762.06,4042.18,0.0,3354.96,65804.24,69159.2,2024
+171,Karen Martin,Police Officer,Police,Nonbinary,56,Associate,24,1999,FT,Yes,No,3,8,13.6,134774.08,4690.98,0.0,47086.79,139465.06,186551.85,2023
+172,John Wong,Custodian,Public Works,Male,49,Bachelor,18,2005,FT,Yes,No,3,8,5.5,79387.11,5640.38,0.0,24282.55,85027.49,109310.04,2023
+173,William Tran,Clerk,Administrative Services,Male,,,3,2020,PT,No,No,4,7,15.6,35547.48,15477.49,0.0,2413.09,51024.97,53438.06,2023
+174,Eric Nguyen,Deputy Sheriff,Sheriff,Male,41,High School,5,2017,FT,Yes,No,2,9,21.2,100761.81,20064.39,0.0,28349.1,120826.2,149175.3,2022
+175,Maria Gonzalez,Police Officer,Police,Female,56,High School,22,2001,PT,Yes,No,4,16,4.2,63793.06,20209.21,0.0,4855.6,84002.27,88857.87,2023
+176,Michael Hernandez,Transit Operator,Transportation,Male,49,Bachelor,8,2016,PT,No,No,3,5,6.2,37774.16,7262.36,0.0,5122.07,45036.52,50158.59,2024
+177,Nicole Kim,Parking Control Officer,Transportation,Female,38,Associate,8,2017,FT,Yes,No,3,5,16.8,90622.46,0.0,18286.14,27175.89,108908.6,136084.49,2025
+178,Emily Walker,Accountant,Controller,Female,43,Bachelor,5,2019,FT,No,No,3,6,5.8,122616.33,0.0,0.0,35966.92,122616.33,158583.25,2024
+179,Jose Hall,Police Officer,Police,Male,52,Master,16,2007,FT,Yes,No,4,7,7.5,137028.07,18977.31,9985.33,48767.26,165990.71,214757.97,2023
+180,Marcus Jones,Gardener,Recreation & Parks,Male,34,Master,0,2025,FT,No,No,4,6,12.8,70831.21,0.0,0.0,24161.42,70831.21,94992.63,2025
+181,Eric Wright,Fire Captain,Fire,Male,44,Associate,14,2010,PT,No,No,3,10,8.4,106073.25,24062.55,0.0,11803.22,130135.8,141939.02,2024
+182,Michael Wright,Clerk,Administrative Services,Male,25,Bachelor,3,2021,FT,Yes,No,3,7,4.8,63873.83,0.0,0.0,18939.48,63873.83,82813.31,2024
+183,David Brown,Police Officer,Police,Male,44,Master,10,2012,FT,Yes,No,3,8,4.7,136449.76,39981.67,0.0,42245.26,176431.43,218676.69,2022
+184,Tuan Jackson,Firefighter,Fire,Male,54,Bachelor,13,2010,FT,No,No,5,9,7.9,141726.71,13448.86,0.0,50034.21,155175.57,205209.78,2023
+185,Daniel Thomas,Deputy Sheriff,Sheriff,Male,39,Associate,11,2011,FT,Yes,No,3,13,11.1,119104.89,24800.56,3469.02,39837.58,147374.47,187212.05,2022
+186,James Wright,Library Technician,Library,Male,53,Master,11,2012,FT,Yes,No,3,9,16.6,73811.3,0.0,0.0,21288.66,73811.3,95099.96,2023
+187,Nicole Wilson,Firefighter,Fire,Female,49,High School,8,2014,FT,Yes,No,3,5,6.2,142896.23,10546.33,0.0,45243.64,153442.56,198686.2,2022
+188,Brian Walker,Police Officer,Police,Male,50,Associate,8,2015,PT,Yes,No,3,8,4.1,51767.67,38845.68,441.77,,91055.12,97290.11,2023
+189,Kevin Martin,Firefighter,Fire,Male,28,Bachelor,4,2019,FT,Yes,No,4,10,18.4,104306.08,32958.72,42.88,31244.82,137307.68,168552.5,2023
+190,Brian Chen,Transit Operator,Transportation,Male,35,Bachelor,0,2023,FT,Yes,No,3,7,10.6,95846.76,15644.34,0.0,28688.16,111491.1,140179.26,2023
+191,Carlos Hernandez,Electrician,Public Works,Male,55,Bachelor,14,2008,FT,Yes,No,3,5,12.6,137819.74,0.0,0.0,46044.47,137819.74,183864.21,2022
+192,Mei Lopez,Registered Nurse,Public Health,Female,54,High School,13,2009,FT,Yes,No,4,5,5.5,172727.72,0.0,0.0,53973.19,172727.72,226700.91,2022
+193,Michael Patel,Library Technician,Library,Nonbinary,48,High School,17,2007,FT,Yes,No,2,3,15.6,58692.98,8463.75,3337.75,19262.13,70494.48,89756.61,2024
+194,Andre Thomas,IT Operations Support Admin,Technology,Male,50,Master,15,2007,FT,Yes,Yes,3,9,9.3,152060.67,0.0,0.0,53669.91,152060.67,205730.58,2022
+195,Susan Taylor,Transit Operator,Transportation,Nonbinary,38,Bachelor,9,2013,FT,Yes,No,2,8,7.8,77935.72,14582.99,0.0,27988.7,92518.71,120507.41,2022
+196,Anthony Rodriguez,Transit Operator,Transportation,Male,52,Bachelor,13,2009,PT,Yes,No,3,7,15.5,45760.3,5330.64,2117.09,4545.12,53208.03,57753.15,2022
+197,Tanya Nguyen,LIBRARIAN,Library,Female,62,Bachelor,23,2000,FT,No,No,2,5,10.0,124686.15,0.0,0.0,41759.17,124686.15,166445.32,2023
+198,Marcus Gonzalez,Police Officer,Police,Male,50,Doctorate,10,2013,FT,Yes,No,4,12,3.2,163912.62,27251.36,0.0,57648.08,191163.98,248812.06,2023
+199,Raj Gonzalez,Parking Control Officer,Transportation,Male,46,Master,8,2015,FT,Yes,No,4,7,21.7,65533.66,0.0,0.0,23222.11,65533.66,88755.77,2023
+200,John Taylor,Sergeant,Police,Male,34,Bachelor,7,2017,FT,Yes,No,4,10,5.4,161818.57,0.0,9142.44,52298.45,170961.01,223259.46,2024
+201,Michael Garcia,Sergeant,Police,Male,57,High School,18,2006,FT,Yes,No,3,12,,156342.71,0.0,6984.99,56163.87,163327.7,219491.57,2024
+202,Michael Clark,Custodian,Public Works,Nonbinary,30,Master,0,2025,FT,No,No,3,5,15.1,64170.68,23904.45,0.0,19379.5,88075.13,107454.63,2025
+203,Carlos Thomas,Library Technician,Library,Male,41,Bachelor,6,2017,FT,Yes,No,3,6,5.1,63761.93,0.0,0.0,22015.21,63761.93,85777.14,2023
+204,Mary Brown,Registered Nurse,Public Health,Female,55,Master,17,2008,FT,Yes,No,4,6,14.1,170651.49,16445.16,0.0,50221.41,187096.65,237318.06,2025
+205,Patricia Lopez,Nursing Assistant,Public Health,Female,55,Bachelor,10,2015,FT,Yes,No,4,4,7.3,79874.27,6747.91,0.0,25159.85,86622.18,111782.03,2025
+206,Mary Lopez,Electrician,Public Works,Female,37,Bachelor,1,2022,FT,No,No,3,8,6.8,124503.3,34886.91,3614.38,38184.02,163004.59,201188.61,2023
+207,Angela Young,Custodian,Public Works,Female,22,Bachelor,0,2022,FT,Yes,No,3,4,7.9,69067.23,8651.2,0.0,23453.59,77718.43,101172.02,2022
+208,Angela Smith,Firefighter,Fire,Female,31,Bachelor,13,2011,FT,Yes,No,3,7,8.6,165155.33,52474.12,0.0,51282.78,217629.45,268912.23,2024
+209,Maria Chen,Registered Nurse,Public Health,Female,37,High School,3,2021,FT,No,No,4,5,8.8,131757.67,0.0,7031.67,45678.22,138789.34,184467.56,2024
+210,William Davis,Firefighter,Fire,Male,44,Bachelor,4,2020,FT,Yes,No,4,7,13.1,147905.56,35729.04,0.0,48590.32,183634.6,232224.92,2024
+211,Tanya Scott,Librarian,Library,Female,43,Associate,6,2017,FT,No,No,4,10,17.4,90744.86,0.0,0.0,28528.57,90744.86,119273.43,2023
+212,Wei Tran,Firefighter,Fire,Male,59,Master,15,2008,FT,Yes,No,4,5,11.3,127157.33,16619.04,0.0,40409.19,143776.37,184185.56,2023
+213,Raj Wong,Deputy Sheriff,Sheriff,Male,45,Bachelor,12,2012,PT,No,No,4,11,3.1,51074.02,29223.35,4097.54,2923.19,84394.91,87318.1,2024
+214,Emily Young,Deputy Sheriff,Sheriff,Female,38,High School,11,2011,FT,Yes,No,4,8,8.2,101312.82,16170.51,2799.77,33575.31,120283.1,153858.41,2022
+215,Tanya Patel,Clerk,Administrative Services,Female,43,Master,13,2009,FT,No,Yes,3,6,2.8,74641.9,0.0,0.0,23119.06,74641.9,97760.96,2022
+216,Eric Williams,Transit Operator,Transportation,Male,44,Associate,12,2012,PT,Yes,No,4,8,6.0,43382.91,7320.8,2064.26,6451.24,52767.97,59219.21,2024
+217,Andre Martinez,Gardener,Recreation & Parks,Male,39,Bachelor,13,2012,FT,No,No,3,5,15.2,77578.88,0.0,0.0,23604.46,77578.88,101183.34,2025
+218,Andre Thomas,Clerk,Administrative Services,Male,35,Master,1,2023,FT,Yes,Yes,4,6,12.4,62070.89,0.0,0.0,18449.93,62070.89,80520.82,2024
+219,Mary Gonzalez,Clerk,Administrative Services,Female,39,High School,5,2020,FT,Yes,Yes,4,8,16.3,51891.84,3304.97,0.0,18244.83,55196.81,73441.64,2025
+220,Steven Brown,Police Officer,Police,Male,39,Master,12,2010,FT,Yes,No,3,3,22.5,112122.35,25047.01,15132.57,39594.8,152301.93,191896.73,2022
+221,Rosa Tran,Gardener,Recreation & Parks,Female,47,Master,22,2002,FT,Yes,No,3,6,3.3,121486.3,0.0,0.0,38244.73,121486.3,159731.03,2024
+222,Carlos Martin,Library Technician,Library,Male,45,Bachelor,9,2013,FT,No,No,3,11,9.1,68718.28,0.0,0.0,23683.12,68718.28,92401.4,2022
+223,William Young,Police Officer,Police,Male,44,Bachelor,11,2012,FT,Yes,No,3,15,9.3,113933.04,44511.4,0.0,34869.51,158444.44,193313.95,2023
+224,Hannah Wong,Parking Control Officer,Transportation,Female,63,Associate,23,2001,FT,No,No,3,5,6.6,75749.53,0.0,0.0,22729.11,75749.53,98478.64,2024
+225,Priya Thomas,Registered Nurse,Public Health,Female,39,Master,4,2021,FT,Yes,No,4,8,7.5,146630.75,0.0,0.0,51493.88,146630.75,198124.63,2025
+226,Michael Hall,Police Officer,Police,Male,44,Bachelor,5,2018,FT,Yes,No,4,7,10.4,118079.2,19706.72,13550.31,,151336.23,191001.04,2023
+227,Patricia Taylor,IT Operations Support Admin,Technology,Female,44,Master,9,2016,FT,Yes,No,4,4,20.5,102804.44,0.0,0.0,33123.24,102804.44,135927.68,2025
+228,Anthony Moore,Recreation Leader,Recreation & Parks,Male,45,Associate,15,2009,FT,Yes,No,3,6,8.6,45107.76,0.0,0.0,13181.68,45107.76,58289.44,2024
+229,John Moore,Nursing Assistant,Public Health,Male,51,High School,17,2007,FT,No,No,2,8,8.0,88513.25,15824.63,0.0,29157.4,104337.88,133495.28,2024
+230,William Anderson,Custodian,Public Works,Male,34,Master,6,2019,FT,Yes,No,4,7,6.1,76128.96,0.0,0.0,24831.06,76128.96,100960.02,2025
+231,Anthony Gonzalez,Librarian,Library,Male,29,Associate,11,2011,FT,Yes,No,3,6,6.5,132004.26,0.0,0.0,40863.33,132004.26,172867.59,2022
+232,Tuan Lewis,LIBRARIAN,Library,Male,20,Bachelor,1,2023,FT,No,No,5,7,14.1,107608.26,0.0,0.0,37896.61,107608.26,145504.87,2024
+233,Lisa Williams,Accountant,Controller,Female,48,High School,13,2009,FT,No,Yes,4,7,9.0,130161.9,0.0,6401.56,36897.96,136563.46,173461.42,2022
+234,Marcus Allen,Transit Operator,Transportation,Male,53,,18,2005,FT,Yes,No,3,9,2.8,94449.88,21307.64,8015.39,32252.87,123772.91,156025.78,2023
+235,Sofia Brown,Police Officer,Police,Female,37,High School,11,2014,FT,Yes,No,2,5,28.1,119980.91,19166.98,0.0,39328.73,139147.89,178476.62,2025
+236,William Walker,Sergeant,Police,Male,38,Bachelor,3,2021,FT,Yes,No,3,7,18.3,156041.15,62882.45,0.0,47608.61,218923.6,266532.21,2024
+237,Tanya Patel,Police Officer,Police,Female,19,High School,0,2023,FT,Yes,No,4,10,11.3,97562.93,7007.88,2916.45,31148.96,107487.26,138636.22,2023
+238,Wei Scott,Recreation Leader,Recreation & Parks,Male,43,Master,1,2022,FT,Yes,No,3,6,7.8,55985.66,0.0,0.0,17048.48,55985.66,73034.14,2023
+239,Tanya Lopez,Custodian,Public Works,Female,37,Master,10,2015,FT,No,No,5,10,12.7,75118.57,21074.84,0.0,22613.97,96193.41,118807.38,2025
+240,Kevin Lewis,Deputy Sheriff,Sheriff,Male,49,High School,17,2006,FT,Yes,No,3,7,15.7,119791.72,0.0,12039.83,40915.61,131831.55,172747.16,2023
+241,Raj Garcia,Custodian,Public Works,Male,33,High School,0,2023,FT,Yes,No,3,6,8.6,54728.11,0.0,1319.97,18001.66,56048.08,74049.74,2023
+242,Emily Hernandez,Custodian,Public Works,Female,19,Bachelor,0,2025,FT,No,No,4,6,10.8,59718.53,6887.4,4096.59,19503.51,70702.52,90206.03,2025
+243,Grace Clark,Registered Nurse,Public Health,Female,49,Master,13,2011,FT,No,No,3,9,10.4,189383.36,0.0,0.0,63170.32,189383.36,252553.68,2024
+244,David Smith,Clerk,Administrative Services,Male,27,High School,3,2020,FT,Yes,Yes,4,8,5.5,63728.25,0.0,0.0,21463.84,63728.25,85192.09,2023
+245,Daniel Chen,Registered Nurse,Public Health,Male,32,Associate,3,2022,FT,Yes,No,4,6,9.8,139309.97,0.0,3306.89,47900.92,142616.86,190517.78,2025
+246,Jose Scott,Registered Nurse,Public Health,Male,41,Associate,14,2010,FT,Yes,No,3,9,5.3,181921.95,7925.62,0.0,53034.81,189847.57,242882.38,2024
+247,Nicole Wong,Deputy Sheriff,Sheriff,Female,36,Bachelor,12,2011,FT,Yes,No,2,13,13.3,117265.72,0.0,3605.27,38987.4,120870.99,159858.39,2023
+248,Kevin Moore,Registered Nurse,Public Health,Male,51,Master,17,2007,FT,Yes,No,2,3,12.7,178532.16,0.0,0.0,53584.08,178532.16,232116.24,2024
+249,David Martin,Gardener,Recreation & Parks,Male,39,Master,11,2014,PT,No,No,3,5,10.1,34533.47,0.0,2541.53,4760.34,37075.0,41835.34,2025
+250,Marcus Johnson,Parking Control Officer,Transportation,Male,35,,8,2016,FT,Yes,No,4,7,9.8,71464.78,0.0,0.0,25052.07,71464.78,96516.85,2024
+251,Robert Wong,Parking Control Officer,Transportation,Male,27,High School,7,2017,PT,Yes,No,3,4,7.3,31147.11,0.0,0.0,4008.61,31147.11,35155.72,2024
+252,Carlos Martin,CUSTODIAN,Public Works,Male,25,Bachelor,0,2025,FT,No,No,3,10,4.1,56932.87,17749.77,0.0,20126.43,74682.64,94809.07,2025
+253,Susan Patel,Department Head,Administrative Services,Female,33,Bachelor,1,2022,FT,No,Yes,5,2,10.3,282728.29,0.0,902.83,80123.31,283631.12,363754.43,2023
+254,Daniel Wilson,Transit Operator,Transportation,Male,35,High School,12,2011,FT,Yes,No,3,13,12.9,93276.1,16119.35,2296.52,29256.89,111691.97,140948.86,2023
+255,William Clark,Deputy Sheriff,Sheriff,Male,56,Bachelor,18,2006,FT,Yes,No,2,6,11.9,154668.04,7965.9,0.0,46638.84,162633.94,209272.78,2024
+256,Raj Anderson,Nursing Assistant,Public Health,Male,29,Bachelor,0,2024,FT,Yes,No,5,8,6.4,68122.4,0.0,0.0,20117.05,68122.4,88239.45,2024
+257,Hannah Taylor,Sergeant,Police,Female,53,Bachelor,21,2002,FT,Yes,No,4,9,14.6,174728.71,105729.88,0.0,49144.94,280458.59,329603.53,2023
+258,Marcus Miller,Registered Nurse,Public Health,Male,41,High School,15,2010,FT,Yes,No,4,4,6.8,136439.59,7131.15,11412.07,42636.98,154982.81,197619.79,2025
+259,Wei Garcia,Registered Nurse,Public Health,Male,38,High School,8,2017,FT,No,No,3,7,4.1,131386.9,0.0,6069.82,42542.78,137456.72,179999.5,2025
+260,Sofia Kim,Clerk,Administrative Services,Female,37,Master,11,2012,FT,Yes,Yes,5,5,1.9,72093.16,0.0,0.0,21138.54,72093.16,93231.7,2023
+261,Linda Jones,SENIOR DATA ANALYST,Technology,Female,35,High School,15,2010,FT,No,Yes,3,6,6.9,133993.08,0.0,0.0,44281.09,133993.08,178274.17,2025
+262,Robert Taylor,Accountant,Controller,Male,20,High School,2,2022,FT,Yes,No,4,7,25.4,82853.46,0.0,0.0,23985.22,82853.46,106838.68,2024
+263,Steven Jones,Custodian,Public Works,Male,51,High School,11,2012,FT,Yes,No,4,6,4.3,64663.59,11100.66,0.0,23006.7,75764.25,98770.95,2023
+264,David Martinez,Firefighter,Fire,Male,28,High School,6,2018,PT,Yes,No,4,7,16.3,56036.88,4547.45,1231.51,5907.89,61815.84,67723.73,2024
+265,Jennifer Scott,Gardener,Recreation & Parks,Female,46,High School,9,2016,FT,Yes,No,3,8,6.9,70087.9,0.0,0.0,19908.7,70087.9,89996.6,2025
+266,Tanya Garcia,Police Officer,Police,Female,34,Bachelor,6,2018,FT,Yes,No,3,9,27.1,128325.85,47144.69,0.0,36489.63,175470.54,211960.17,2024
+267,Robert Williams,Librarian,Library,Male,42,Master,7,2017,FT,Yes,No,5,3,2.6,109672.5,0.0,0.0,31431.57,109672.5,141104.07,2024
+268,Wei Jones,Electrician,Public Works,Male,41,Bachelor,4,2020,FT,Yes,No,3,7,1.2,148075.38,62126.69,0.0,45169.57,210202.07,255371.64,2024
+269,Karen Anderson,Firefighter,Fire,Female,55,Bachelor,13,2010,FT,No,No,3,6,35.3,152748.1,24298.72,0.0,52397.0,177046.82,229443.82,2023
+270,Maria Thomas,Parking Control Officer,Transportation,Female,45,Bachelor,12,2012,FT,Yes,No,3,6,27.7,71260.02,0.0,0.0,21217.82,71260.02,92477.84,2024
+271,Daniel Miller,Custodian,Public Works,Male,52,Associate,11,2011,PT,Yes,No,5,3,14.3,20315.43,0.0,0.0,2276.76,20315.43,22592.19,2022
+272,Lisa Moore,POLICE OFFICER,Police,Female,42,Bachelor,10,2015,FT,Yes,No,4,13,2.3,117151.74,0.0,6516.64,38666.6,123668.38,162334.98,2025
+273,Kevin Lee,Accountant,Controller,Male,41,Master,12,2012,FT,Yes,Yes,2,5,6.0,132459.87,0.0,368.98,40954.86,132828.85,173783.71,2024
+274,Patricia Lee,Clerk,Administrative Services,Female,36,Master,4,2019,FT,Yes,No,2,4,7.6,67748.23,11509.01,0.0,22303.14,79257.24,101560.38,2023
+275,Kevin Miller,Registered Nurse,Public Health,Male,43,Master,15,2009,FT,Yes,No,2,3,5.4,184969.46,0.0,0.0,64740.79,184969.46,249710.25,2024
+276,Susan Hernandez,Registered Nurse,Public Health,Female,39,Associate,10,2014,FT,Yes,No,3,7,20.7,150116.17,22488.56,0.0,46103.3,172604.73,218708.03,2024
+277,Eric Scott,Firefighter,Fire,Male,38,Associate,8,2016,FT,Yes,No,4,5,13.2,136582.57,55261.31,14678.24,46151.92,206522.12,252674.04,2024
+278,Anthony Wright,Custodian,Public Works,Male,39,Bachelor,8,2015,FT,Yes,No,5,7,2.8,58485.9,11314.76,0.0,20714.01,69800.66,90514.67,2023
+279,James Wright,Parking Control Officer,Transportation,Male,22,Associate,2,2022,FT,Yes,No,4,10,6.5,59113.57,15498.1,0.0,16575.98,74611.67,91187.65,2024
+280,Lisa Smith,Firefighter,Fire,Female,20,High School,0,2024,FT,Yes,No,5,8,6.6,88977.71,1385.24,8383.75,27190.51,98746.7,125937.21,2024
+281,Wei Jones,Deputy Sheriff,Sheriff,Male,26,Bachelor,0,2022,PT,Yes,No,3,6,15.7,58689.63,28686.25,0.0,6712.02,87375.88,94087.9,2022
+282,Raj Kim,Registered Nurse,Public Health,Male,34,High School,5,2018,FT,No,No,3,10,12.7,138298.86,36534.54,14565.75,39196.37,189399.15,228595.52,2023
+283,Andre Anderson,Nursing Assistant,Public Health,Male,35,Bachelor,11,2012,FT,Yes,No,4,2,,81112.55,0.0,0.0,24428.8,81112.55,105541.35,2023
+284,Hannah Clark,Custodian,Public Works,Female,,Associate,14,2011,FT,No,No,3,3,9.3,78187.95,0.0,0.0,24242.05,78187.95,102430.0,2025
+285,Rosa Johnson,Clerk,Administrative Services,Female,53,Associate,16,2007,PT,Yes,Yes,3,5,2.3,39341.23,0.0,0.0,3678.5,39341.23,43019.73,2023
+286,Anthony Jones,Custodian,Public Works,Male,53,High School,12,2013,FT,Yes,No,2,4,12.5,60955.43,0.0,0.0,18072.51,60955.43,79027.94,2025
+287,Emily Thomas,Gardener,Recreation & Parks,Female,28,Bachelor,9,2016,FT,Yes,No,3,9,5.7,80065.59,55916.13,2421.36,23704.87,138403.08,162107.95,2025
+288,Grace Lewis,Library Technician,Library,Female,49,Master,15,2009,FT,No,No,5,7,15.5,70162.71,0.0,0.0,22067.68,70162.71,92230.39,2024
+289,Carlos Smith,Police Officer,Police,Male,33,Associate,7,2018,FT,No,No,4,23,13.4,147469.9,11367.64,24367.18,48756.02,183204.72,231960.74,2025
+290,Patricia Moore,Clerk,Administrative Services,Female,41,Associate,12,2010,PT,Yes,Yes,4,8,6.5,25583.84,0.0,0.0,2902.4,25583.84,28486.24,2022
+291,Rosa Jones,Custodian,Public Works,Female,37,Bachelor,15,2010,PT,Yes,No,4,5,31.1,34793.51,14478.9,0.0,2688.04,49272.41,51960.45,2025
+292,Linda Scott,Deputy Sheriff,Sheriff,Female,35,Bachelor,7,2015,FT,Yes,No,4,6,3.1,107155.8,64784.5,0.0,30867.89,171940.3,202808.19,2022
+293,Hannah Lopez,Clerk,Administrative Services,Female,44,Associate,3,2022,FT,Yes,Yes,3,9,13.8,70754.91,0.0,0.0,21627.59,70754.91,92382.5,2025
+294,Hannah Hernandez,Transit Operator,Transportation,Female,38,Bachelor,7,2017,FT,Yes,No,4,9,2.8,92959.62,0.0,0.0,29960.2,92959.62,122919.82,2024
+295,Carlos Hernandez,Custodian,Public Works,Male,33,High School,1,2023,PT,Yes,No,3,6,3.7,25747.29,5293.42,1190.08,2012.77,32230.79,34243.56,2024
+296,Marcus Martinez,Gardener,Recreation & Parks,Male,46,High School,10,2012,FT,Yes,No,3,10,7.4,57995.21,0.0,199.61,17394.03,58194.82,75588.85,2022
+297,Rosa Scott,Accountant,Controller,Female,44,Bachelor,7,2016,FT,No,Yes,3,9,9.4,114884.85,0.0,0.0,33583.65,114884.85,148468.5,2023
+298,Brian Anderson,Fire Captain,Fire,Male,50,Master,8,2016,FT,No,No,3,4,9.5,172675.08,26024.03,10044.08,54028.5,208743.19,262771.69,2024
+299,Kevin Nguyen,Transit Operator,Transportation,Male,42,Bachelor,10,2015,FT,Yes,No,5,15,10.4,97538.46,6098.57,0.0,31796.52,103637.03,135433.55,2025
+300,Tuan Scott,Sergeant,Police,Nonbinary,48,Associate,8,2017,PT,Yes,No,2,11,9.3,95525.79,28841.85,0.0,12243.32,124367.64,136610.96,2025
+301,Michael Chen,Librarian,Library,Male,26,Bachelor,7,2016,FT,Yes,No,4,4,12.7,131500.16,0.0,0.0,36899.65,131500.16,168399.81,2023
+302,Daniel Davis,Sergeant,Police,Male,32,Doctorate,0,2022,FT,Yes,No,3,9,4.9,157515.68,34168.66,32463.67,54644.74,224148.01,278792.75,2022
+303,Nicole Smith,Fire Captain,Fire,Female,32,High School,0,2022,FT,Yes,No,4,12,1.7,158065.46,35244.77,0.0,54696.99,193310.23,248007.22,2022
+304,William Young,Registered Nurse,Public Health,Male,49,High School,16,2007,FT,Yes,No,5,12,3.9,144050.8,52280.94,0.0,47640.56,196331.74,243972.3,2023
+305,Tuan Brown,Deputy Sheriff,Sheriff,Male,20,Associate,0,2025,PT,Yes,No,3,9,18.5,64982.69,15533.67,0.0,8002.39,80516.36,88518.75,2025
+306,Sofia Wilson,Librarian,Library,Female,39,Bachelor,9,2013,FT,Yes,No,3,6,11.4,112283.9,0.0,0.0,39299.85,112283.9,151583.75,2022
+307,Lisa Wong,Department Head,Administrative Services,Female,28,Doctorate,0,2025,PT,No,No,2,7,8.3,151091.74,0.0,0.0,10013.21,151091.74,161104.95,2025
+308,Carlos Nguyen,Registered Nurse,Public Health,Male,70,Doctorate,22,2003,FT,No,No,3,2,16.9,191687.42,2927.53,0.0,60100.14,194614.95,254715.09,2025
+309,Michael Patel,Library Technician,Library,Male,46,Master,11,2011,FT,Yes,No,4,5,7.1,79099.9,0.0,0.0,24780.13,79099.9,103880.03,2022
+310,Jose Miller,Firefighter,Fire,Male,34,Bachelor,2,2021,FT,Yes,No,3,9,15.4,119642.48,22832.81,14791.63,34607.22,157266.92,191874.14,2023
+311,Laura Wright,Sergeant,Police,Nonbinary,46,Master,7,2015,FT,Yes,No,4,9,11.8,158107.24,0.0,0.0,45756.29,158107.24,203863.53,2022
+312,Laura Taylor,Clerk,Administrative Services,Female,19,Bachelor,0,2022,FT,Yes,No,5,6,6.9,55612.41,0.0,0.0,16886.79,55612.41,72499.2,2022
+313,Marcus Nguyen,Transit Operator,Transportation,Male,46,Bachelor,6,2016,FT,Yes,No,3,11,18.4,104196.04,60631.43,0.0,36903.52,164827.47,201730.99,2022
+314,Brian Williams,Gardener,Recreation & Parks,Male,23,Master,0,2022,FT,Yes,No,3,5,9.7,81662.76,4319.92,0.0,28675.74,85982.68,114658.42,2022
+315,Nicole Scott,Registered Nurse,Public Health,Female,47,High School,5,2019,FT,Yes,No,4,6,16.9,122457.35,0.0,878.99,39231.47,123336.34,162567.81,2024
+316,Linda Scott,Sergeant,Police,Female,45,Bachelor,16,2006,PT,No,No,4,11,4.0,59823.3,375.58,0.0,7067.43,60198.88,67266.31,2022
+317,Luis Lewis,Police Officer,Police,Male,39,Associate,0,2025,FT,Yes,No,4,11,7.4,133318.31,22699.49,0.0,37990.55,156017.8,194008.35,2025
+318,Luis Clark,Police Officer,Police,Male,45,Master,8,2014,FT,Yes,No,5,10,14.4,157283.81,11475.09,4765.81,56558.48,173524.71,230083.19,2022
+319,Sofia Clark,Police Officer,Police,Female,55,Bachelor,14,2009,FT,Yes,No,1,10,18.4,139691.7,0.0,0.0,42872.85,139691.7,182564.55,2023
+320,Raj Wilson,Sergeant,Police,Male,47,Associate,15,2009,FT,No,No,3,11,32.4,140199.42,0.0,697.17,44031.14,140896.59,184927.73,2024
+321,Anthony Rodriguez,Custodian,Public Works,Male,42,Bachelor,8,2015,FT,Yes,No,5,3,,73538.18,13014.71,6593.33,23787.01,93146.22,116933.23,2023
+322,John Lewis,Recreation Leader,Recreation & Parks,Male,44,Master,8,2016,FT,Yes,No,2,5,10.1,48028.26,0.0,0.0,15432.04,48028.26,63460.3,2024
+323,Patricia Wong,Clerk,Administrative Services,Female,67,Bachelor,17,2007,FT,Yes,No,3,4,7.5,84224.31,15187.15,0.0,26640.36,99411.46,126051.82,2024
+324,Angela Martinez,Accountant,Controller,Female,50,Bachelor,23,1999,FT,Yes,Yes,3,7,13.2,113431.96,0.0,0.0,36740.64,113431.96,150172.6,2022
+325,Daniel Thomas,Library Technician,Library,Male,61,Associate,18,2005,FT,Yes,No,3,5,16.9,78228.55,0.0,0.0,27563.43,78228.55,105791.98,2023
+326,Michael Brown,Sergeant,Police,Male,56,High School,11,2012,FT,Yes,No,4,6,4.0,160736.39,50842.3,0.0,47031.25,211578.69,258609.94,2023
+327,Michael Wilson,Gardener,Recreation & Parks,Male,45,High School,11,2012,FT,No,No,3,3,10.8,82177.32,27665.86,0.0,27893.63,109843.18,137736.81,2023
+328,Lisa Scott,Electrician,Public Works,Female,46,High School,6,2019,FT,Yes,No,4,6,7.1,141475.07,0.0,0.0,41775.09,141475.07,183250.16,2025
+329,Daniel Wong,Parking Control Officer,Transportation,Male,23,Bachelor,5,2020,FT,Yes,No,3,16,8.5,70969.3,0.0,0.0,24868.82,70969.3,95838.12,2025
+330,Anthony Martin,POLICE OFFICER,Police,Male,54,Bachelor,19,2003,FT,Yes,No,4,9,13.9,169819.15,16424.58,0.0,55279.01,186243.73,241522.74,2022
+331,Maria Thomas,Firefighter,Fire,Female,24,Associate,3,2022,PT,Yes,No,5,7,14.0,60381.6,5126.44,0.0,3642.86,65508.04,69150.9,2025
+332,Raj Jones,Transit Operator,Transportation,Male,35,Associate,4,2020,FT,No,No,3,9,2.2,93287.53,0.0,0.0,26791.61,93287.53,120079.14,2024
+333,Carlos Thomas,Police Officer,Police,Male,38,Associate,13,2009,FT,No,No,5,11,2.1,132187.28,57529.73,0.0,37263.37,189717.01,226980.38,2022
+334,Priya Wong,Police Officer,Police,Female,41,Master,11,2014,FT,Yes,No,4,9,7.9,142735.07,30145.99,0.0,50009.37,172881.06,222890.43,2025
+335,Wei Rodriguez,Police Officer,Police,Male,34,Associate,2,2021,FT,Yes,No,3,12,17.1,129266.02,38270.89,0.0,36317.61,167536.91,203854.52,2023
+336,Tuan Wong,IT Operations Support Admin,Technology,Male,60,Master,18,2005,FT,Yes,Yes,2,7,34.5,128501.95,0.0,0.0,38754.91,128501.95,167256.86,2023
+337,John Young,Registered Nurse,Public Health,Nonbinary,34,Associate,7,2018,FT,Yes,No,3,16,13.3,105542.55,38230.0,5539.14,34769.82,149311.69,184081.51,2025
+338,Daniel Lopez,Senior Data Analyst,Technology,F,40,Associate,0,2022,FT,No,Yes,3,5,6.1,87036.61,0.0,0.0,29904.04,87036.61,116940.65,2022
+339,Hannah Davis,Transit Operator,Transportation,Female,39,Associate,17,2008,FT,Yes,No,4,7,27.1,87799.95,3723.94,0.0,25602.94,91523.89,117126.83,2025
+340,James Williams,Senior Data Analyst,Technology,Male,28,High School,9,2015,FT,Yes,No,4,9,14.1,135031.1,0.0,0.0,,135031.1,173354.34,2024
+341,Susan Thomas,POLICE OFFICER,Police,Female,,Master,0,2023,FT,Yes,No,3,10,6.3,131935.98,33700.43,0.0,,165636.41,209903.78,2023
+342,Raj Wilson,Accountant,Controller,Male,49,Associate,4,2018,FT,Yes,Yes,3,5,8.5,120860.79,0.0,0.0,,120860.79,162980.24,2022
+343,Hannah Brown,Police Officer,Police,Female,25,,1,2022,PT,Yes,No,3,7,3.4,59631.48,19736.52,0.0,4811.27,79368.0,84179.27,2023
+344,Linda Chen,Gardener,Recreation & Parks,Female,53,Doctorate,12,2012,PT,Yes,No,3,10,18.8,43207.96,8394.71,0.0,5258.29,51602.67,56860.96,2024
+345,Mary Miller,Recreation Leader,Recreation & Parks,Female,19,Master,1,2024,FT,No,No,3,7,25.7,46588.29,6120.2,0.0,15408.72,52708.49,68117.21,2025
+346,Rosa Davis,Gardener,Recreation & Parks,Female,32,Doctorate,2,2020,FT,Yes,No,3,5,4.6,76908.14,0.0,0.0,24422.71,76908.14,101330.85,2022
+347,Rosa Jackson,Registered Nurse,Public Health,Female,37,Bachelor,2,2021,PT,Yes,No,3,4,6.9,78973.15,0.0,1362.26,6753.51,80335.41,87088.92,2023
+348,Rosa Hall,Police Officer,Police,Female,58,Bachelor,12,2011,FT,No,No,3,6,11.3,156847.74,41604.53,0.0,47637.13,198452.27,246089.4,2023
+349,Nicole Moore,Police Officer,Police,Female,35,Master,0,2025,FT,Yes,No,4,11,24.4,130960.56,1790.09,0.0,43121.65,132750.65,175872.3,2025
+350,Steven Nguyen,Electrician,Public Works,Male,43,Bachelor,16,2009,PT,Yes,No,4,4,13.7,69634.81,9101.45,0.0,3732.85,78736.26,82469.11,2025
+351,Aisha Clark,Police Officer,Police,Female,40,Bachelor,7,2015,FT,Yes,No,4,7,4.1,158590.31,45256.0,1651.23,54625.73,205497.54,260123.27,2022
+352,Andre Jones,Firefighter,Fire,Male,28,Bachelor,0,2022,FT,No,No,3,12,12.9,140218.86,25523.52,0.0,41620.03,165742.38,207362.41,2022
+353,Andre Lee,IT Operations Support Admin,Technology,Male,42,Associate,1,2022,FT,Yes,Yes,3,6,4.1,115658.48,0.0,0.0,36540.32,115658.48,152198.8,2023
+354,Priya Jackson,CLERK,Administrative Services,Female,37,Bachelor,6,2018,FT,Yes,Yes,4,5,15.0,61832.18,0.0,0.0,21034.56,61832.18,82866.74,2024
+355,Emily Martin,Registered Nurse,Public Health,Female,35,Master,0,2025,FT,Yes,No,5,5,14.9,135990.37,0.0,0.0,47083.99,135990.37,183074.36,2025
+356,Robert Young,Parking Control Officer,Transportation,Male,38,Master,1,2021,PT,Yes,No,3,4,7.0,31663.36,4118.55,0.0,3331.02,35781.91,39112.93,2022
+357,William Williams,Firefighter,Fire,Male,31,Bachelor,0,2024,FT,No,No,4,3,30.4,115655.79,35803.45,2612.97,34841.57,154072.21,188913.78,2024
+358,Tuan Wilson,Fire Captain,Fire,Male,39,Bachelor,7,2018,FT,Yes,No,1,8,6.0,188402.2,23094.99,0.0,67765.77,211497.19,279262.96,2025
+359,Maria Kim,Gardener,Recreation & Parks,Female,,Master,18,2007,FT,Yes,No,2,8,19.2,83450.1,11721.93,1570.0,24866.06,96742.03,121608.09,2025
+360,William Garcia,FIREFIGHTER,Fire,Male,49,Bachelor,15,2010,FT,No,No,5,9,7.0,135647.53,39073.73,7510.6,40699.19,182231.86,222931.05,2025
+361,Susan Wong,Custodian,Public Works,Female,43,Bachelor,8,2017,FT,Yes,No,3,5,5.5,65175.18,37408.96,0.0,18841.66,102584.14,121425.8,2025
+362,Susan Wright,Registered Nurse,Public Health,Female,30,Bachelor,3,2022,FT,Yes,No,4,4,17.3,161424.98,36106.33,0.0,47671.28,197531.31,245202.59,2025
+363,James Kim,Police Officer,Police,Nonbinary,28,Associate,2,2023,PT,No,No,4,6,6.9,47527.13,5516.7,2904.07,4891.83,55947.9,60839.73,2025
+364,Linda Clark,Gardener,Recreation & Parks,Female,49,,5,2020,FT,No,No,4,11,14.1,63910.07,0.0,0.0,20526.93,63910.07,84437.0,2025
+365,Lisa Patel,IT Operations Support Admin,Technology,Female,46,High School,13,2009,FT,Yes,No,3,6,13.0,113643.76,0.0,0.0,35040.09,113643.76,148683.85,2022
+366,Kevin Kim,Librarian,Library,Male,64,Master,21,2004,FT,Yes,No,4,3,16.1,130755.93,0.0,0.0,39044.7,130755.93,169800.63,2025
+367,Mei Smith,Transit Operator,Transportation,Female,38,High School,16,2008,FT,Yes,No,3,12,15.0,82016.5,636.73,0.0,24792.71,82653.23,107445.94,2024
+368,Mary Brown,Transit Operator,Transportation,Female,19,Bachelor,1,2023,FT,Yes,No,3,13,1.8,80850.96,9635.09,1273.22,23921.37,91759.27,115680.64,2024
+369,Patricia Johnson,Gardener,Recreation & Parks,Female,34,High School,5,2018,FT,Yes,No,3,5,15.9,59673.1,0.0,0.0,20450.94,59673.1,80124.04,2023
+370,Emily Allen,Sergeant,Police,Female,52,Bachelor,6,2018,FT,No,No,4,8,6.0,160855.8,24725.78,0.0,48392.91,185581.58,233974.49,2024
+371,Grace Jones,Firefighter,Fire,Female,34,Bachelor,0,2023,FT,Yes,No,3,8,19.9,119087.81,31754.54,0.0,34489.14,150842.35,185331.49,2023
+372,Angela Hall,Transit Operator,Transportation,Female,41,Bachelor,6,2017,FT,Yes,No,4,15,9.7,74958.59,9333.55,5207.91,24404.59,89500.05,113904.64,2023
+373,Nicole Taylor,Clerk,Administrative Services,Female,57,Bachelor,7,2018,FT,Yes,Yes,3,8,8.2,56931.76,0.0,0.0,16277.82,56931.76,73209.58,2025
+374,Marcus Hall,Recreation Leader,Recreation & Parks,Male,37,High School,12,2010,FT,Yes,No,4,7,15.2,43938.71,0.0,0.0,14680.61,43938.71,58619.32,2022
+375,John Gonzalez,Transit Operator,Transportation,Male,32,Bachelor,9,2013,FT,Yes,No,3,5,6.7,80755.27,65922.52,0.0,27354.31,146677.79,174032.1,2022
+376,Brian Chen,Parking Control Officer,Transportation,Male,55,High School,14,2008,PT,Yes,No,3,8,24.0,49622.3,0.0,0.0,6390.14,49622.3,56012.44,2022
+377,John Smith,Librarian,Library,Male,36,High School,0,2022,FT,Yes,No,3,9,,93998.3,0.0,0.0,31541.59,93998.3,125539.89,2022
+378,Karen Clark,Police Officer,Police,Female,54,High School,21,2004,PT,No,No,2,9,6.6,55084.7,0.0,2686.79,5657.54,57771.49,63429.03,2025
+379,Tuan Lee,Police Officer,Police,Male,50,Bachelor,9,2015,PT,Yes,No,3,15,10.2,71914.44,0.0,0.0,9484.78,71914.44,81399.22,2024
+380,Daniel Wong,Registered Nurse,Public Health,Male,42,Bachelor,0,2024,FT,Yes,No,3,5,29.6,147768.7,0.0,539.57,47890.94,148308.27,196199.21,2024
+381,Marcus Williams,Parking Control Officer,Transportation,Male,38,High School,1,2021,FT,Yes,No,5,3,9.1,56281.73,0.0,5562.3,16237.76,61844.03,78081.79,2022
+382,Tuan Gonzalez,Firefighter,Fire,Male,32,Doctorate,4,2021,FT,Yes,No,4,6,14.4,175940.28,90964.25,0.0,59111.27,266904.53,326015.8,2025
+383,Robert Kim,Nursing Assistant,Public Health,Male,30,Master,4,2021,PT,Yes,No,5,7,6.8,40913.31,0.0,0.0,2893.39,40913.31,43806.7,2025
+384,Michael Nguyen,Custodian,Public Works,Male,47,Associate,9,2014,FT,Yes,No,4,15,12.7,66189.33,2655.21,0.0,,68844.54,89797.92,2023
+385,Andre Gonzalez,Library Technician,Library,Male,39,Master,2,2023,FT,No,No,3,7,3.6,72593.6,0.0,0.0,26026.4,72593.6,98620.0,2025
+386,Angela Clark,Transit Operator,Transportation,Female,37,Bachelor,10,2014,FT,Yes,No,5,12,18.1,66790.2,4693.22,0.0,20646.77,71483.42,92130.19,2024
+387,Karen Kim,Deputy Sheriff,Sheriff,Female,48,Master,8,2015,FT,Yes,No,5,7,51.0,95665.95,4471.93,0.0,28124.06,100137.88,128261.94,2023
+388,Eric Scott,Recreation Leader,Recreation & Parks,Male,33,Master,8,2015,FT,No,No,4,7,50.7,42090.62,0.0,0.0,14022.05,42090.62,56112.67,2023
+389,Karen Hernandez,Sergeant,Police,Female,41,Bachelor,10,2014,FT,Yes,No,3,8,12.6,143145.01,0.0,1216.65,51237.76,144361.66,195599.42,2024
+390,Maria Miller,Deputy Sheriff,Sheriff,Female,59,Bachelor,10,2014,FT,Yes,No,5,9,7.1,150490.65,38069.91,1669.14,47236.62,190229.7,237466.32,2024
+391,David Lewis,Transit Operator,Transportation,Male,29,Master,2,2021,FT,Yes,No,3,8,8.2,63249.45,16450.19,0.0,21830.32,79699.64,101529.96,2023
+392,Grace Smith,IT Operations Support Admin,Technology,Female,29,High School,0,2022,FT,Yes,Yes,4,3,,96014.29,0.0,0.0,27932.63,96014.29,123946.92,2022
+393,Susan Chen,Registered Nurse,Public Health,Female,68,Master,20,2003,FT,No,No,4,9,5.2,156819.44,66894.72,15126.22,54546.43,238840.38,293386.81,2023
+394,Patricia Williams,Registered Nurse,Public Health,Female,31,High School,6,2016,FT,No,No,3,5,8.3,167910.44,0.0,12381.01,48645.56,180291.45,228937.01,2022
+395,Rosa Walker,Firefighter,Fire,Female,,Bachelor,12,2013,FT,No,No,3,6,5.5,163770.89,0.0,0.0,52747.11,163770.89,216518.0,2025
+396,Carlos Hernandez,Electrician,Public Works,Male,48,Bachelor,24,2000,FT,Yes,No,3,8,11.6,129444.61,58245.66,0.0,45894.06,187690.27,233584.33,2024
+397,Carlos Patel,Fire Captain,Fire,Male,42,High School,6,2018,FT,Yes,No,4,10,7.7,153646.88,27842.7,2215.83,44035.13,183705.41,227740.54,2024
+398,Raj Jackson,Recreation Leader,Recreation & Parks,Male,40,Bachelor,7,2016,FT,Yes,No,5,7,29.3,47836.36,0.0,0.0,15625.23,47836.36,63461.59,2023
+399,Michael Chen,Nursing Assistant,Public Health,Male,,Bachelor,3,2020,FT,Yes,No,1,11,17.9,69179.82,0.0,2748.8,21745.31,71928.62,93673.93,2023
+400,Marcus Jackson,Registered Nurse,Public Health,Male,54,High School,13,2010,FT,Yes,No,4,6,8.3,160574.31,0.0,0.0,57010.48,160574.31,217584.79,2023
+401,Eric Nguyen,Clerk,Administrative Services,Male,44,Bachelor,15,2010,PT,Yes,Yes,3,7,10.8,23328.3,0.0,0.0,1941.6,23328.3,25269.9,2025
+402,Maria Nguyen,IT Operations Support Admin,Technology,Female,33,Master,5,2019,FT,Yes,Yes,3,6,12.3,157029.19,7586.98,0.0,51449.04,164616.17,216065.21,2024
+403,William Anderson,Registered Nurse,Public Health,Male,61,Associate,8,2016,FT,Yes,No,4,5,9.2,129311.14,0.0,0.0,39629.19,129311.14,168940.33,2024
+404,Tanya Young,Clerk,Administrative Services,Female,44,Master,3,2021,FT,Yes,Yes,3,3,6.4,60079.98,0.0,0.0,17084.06,60079.98,77164.04,2024
+405,Daniel Allen,Police Officer,Police,Male,29,High School,3,2020,FT,Yes,No,4,7,20.4,123238.92,17997.06,30390.29,36297.54,171626.27,207923.81,2023
+406,Grace Thomas,Registered Nurse,Public Health,Female,45,Associate,5,2019,FT,Yes,No,2,8,12.2,146487.58,33619.94,578.16,47570.28,180685.68,228255.96,2024
+407,John Garcia,Clerk,Administrative Services,Male,40,Master,10,2012,FT,Yes,No,5,5,4.9,68499.7,0.0,0.0,21340.19,68499.7,89839.89,2022
+408,John Jones,Nursing Assistant,Public Health,Male,49,High School,15,2008,FT,Yes,No,4,10,10.4,74697.44,26710.04,0.0,21514.44,101407.48,122921.92,2023
+409,Susan Tran,Nursing Assistant,Public Health,Female,47,Bachelor,6,2018,FT,No,No,4,5,18.4,78819.75,0.0,0.0,22206.97,78819.75,101026.72,2024
+410,Linda Jackson,Police Officer,Police,Female,42,Associate,14,2009,FT,No,No,1,11,5.1,131652.98,54800.25,11273.59,37887.56,197726.82,235614.38,2023
+411,Eric Johnson,Recreation Leader,Recreation & Parks,Male,57,Master,6,2018,FT,Yes,No,3,5,19.5,36268.18,0.0,0.0,10172.06,36268.18,46440.24,2024
+412,Jose Johnson,Gardener,Recreation & Parks,Male,37,High School,13,2009,FT,Yes,No,4,4,31.7,81329.52,4819.86,0.0,26198.76,86149.38,112348.14,2022
+413,Maria Miller,Nursing Assistant,Public Health,Female,57,Bachelor,10,2012,FT,Yes,No,5,9,2.6,78724.83,30600.61,0.0,22540.92,109325.44,131866.36,2022
+414,Patricia Lee,Accountant,Controller,Female,41,Associate,11,2013,FT,Yes,Yes,4,6,13.6,102764.24,0.0,0.0,34133.84,102764.24,136898.08,2024
+415,Aisha Nguyen,Fire Captain,Fire,Female,41,Bachelor,6,2017,FT,No,No,3,12,6.5,152576.36,0.0,13314.89,54467.38,165891.25,220358.63,2023
+416,Sofia Williams,Electrician,Public Works,Female,38,High School,0,2025,FT,Yes,No,4,7,10.2,130521.46,5640.29,0.0,39203.23,136161.75,175364.98,2025
+417,Jennifer Scott,Accountant,Controller,Female,62,Bachelor,12,2010,FT,Yes,Yes,4,11,21.9,126204.72,0.0,0.0,35951.81,126204.72,162156.53,2022
+418,Carlos Martinez,Parking Control Officer,Transportation,Male,49,High School,10,2012,PT,Yes,No,5,3,11.2,44094.11,15555.78,0.0,3094.09,59649.89,62743.98,2022
+419,William Nguyen,FIREFIGHTER,Fire,Male,47,Associate,10,2013,FT,No,No,4,9,4.9,119552.86,6913.26,2529.97,,128996.09,167282.53,2023
+420,Emily Wong,Police Officer,Police,Female,44,High School,11,2011,FT,Yes,No,4,5,10.7,128320.77,20195.77,6016.57,44188.37,154533.11,198721.48,2022
+421,Mary Allen,Transit Operator,Transportation,Female,57,Bachelor,15,2010,FT,Yes,No,4,7,5.2,85557.72,9655.98,0.0,29707.65,95213.7,124921.35,2025
+422,Tuan Jackson,Custodian,Public Works,Male,30,,1,2024,PT,Yes,No,3,12,6.4,38105.77,0.0,0.0,2005.28,38105.77,40111.05,2025
+423,Mei Miller,Deputy Sheriff,Sheriff,Female,45,Bachelor,11,2011,FT,No,No,4,13,5.6,112709.48,6372.09,5601.15,38106.74,124682.72,162789.46,2022
+424,Michael Thomas,Transit Operator,Transportation,Male,39,Bachelor,7,2016,FT,Yes,No,3,6,6.8,78900.91,14959.25,0.0,27914.09,93860.16,121774.25,2023
+425,John Williams,Firefighter,Fire,Male,59,Bachelor,20,2002,FT,Yes,No,4,9,14.8,128469.89,21428.42,0.0,41321.01,149898.31,191219.32,2022
+426,Susan Lopez,Firefighter,Fire,Female,49,High School,16,2008,FT,No,No,5,5,13.3,144205.45,68468.78,0.0,51900.46,212674.23,264574.69,2024
+427,Brian Walker,SENIOR DATA ANALYST,Technology,Male,60,Bachelor,16,2008,FT,Yes,Yes,3,9,8.4,131997.69,0.0,0.0,40035.04,131997.69,172032.73,2024
+428,James Walker,Accountant,Controller,Male,38,Master,8,2015,FT,Yes,No,5,4,6.6,119067.26,0.0,0.0,38629.47,119067.26,157696.73,2023
+429,John Clark,Electrician,Public Works,Male,72,Associate,29,1994,FT,Yes,No,5,7,9.7,137876.27,25078.82,3017.34,44218.02,165972.43,210190.45,2023
+430,Jose Lewis,Electrician,Public Works,Male,38,Associate,4,2019,FT,Yes,No,4,4,3.6,138386.62,0.0,0.0,43786.27,138386.62,182172.89,2023
+431,Marcus Allen,Librarian,Library,Male,47,High School,5,2019,FT,Yes,No,3,7,17.8,99004.65,0.0,0.0,29290.47,99004.65,128295.12,2024
+432,Jennifer Martinez,Registered Nurse,Public Health,Female,44,Bachelor,14,2010,PT,Yes,No,5,6,4.3,62781.5,0.0,0.0,6113.11,62781.5,68894.61,2024
+433,David Wright,IT Operations Support Admin,Technology,Male,25,Master,0,2024,PT,Yes,Yes,4,4,7.3,58031.89,0.0,0.0,3445.02,58031.89,61476.91,2024
+434,Anthony Rodriguez,Firefighter,Fire,Nonbinary,36,High School,11,2012,FT,Yes,No,3,5,4.0,137217.37,22303.67,5181.73,46354.36,164702.77,211057.13,2023
+435,Eric Lee,Transit Operator,Transportation,Male,37,High School,0,2024,FT,Yes,No,5,10,9.0,55304.88,15941.07,0.0,18533.68,71245.95,89779.63,2024
+436,Priya Jackson,Registered Nurse,Public Health,Female,54,Bachelor,9,2013,FT,Yes,No,2,3,31.4,155717.71,0.0,0.0,48218.03,155717.71,203935.74,2022
+437,Eric Chen,Police Officer,Police,Male,47,Associate,13,2011,FT,Yes,No,4,10,8.8,130198.21,44687.23,0.0,37074.7,174885.44,211960.14,2024
+438,Angela Moore,Gardener,Recreation & Parks,Female,39,Associate,3,2020,FT,Yes,No,4,5,18.3,73790.14,0.0,5234.35,24570.3,79024.49,103594.79,2023
+439,Sofia Wright,Registered Nurse,Public Health,Female,43,Bachelor,0,2023,PT,Yes,No,5,8,2.6,70047.96,11276.98,0.0,5073.58,81324.94,86398.52,2023
+440,Karen Wright,Police Officer,Police,Female,58,Master,13,2009,FT,No,No,4,10,10.9,125519.23,41588.98,0.0,42468.49,167108.21,209576.7,2022
+441,Susan Hernandez,Transit Operator,Transportation,Female,26,Bachelor,0,2023,FT,Yes,No,4,6,10.1,75925.48,12138.54,0.0,21599.52,88064.02,109663.54,2023
+442,Daniel Jackson,Clerk,Administrative Services,Male,60,High School,14,2010,FT,Yes,No,3,9,41.7,66918.55,0.0,1644.8,23777.12,68563.35,92340.47,2024
+443,Marcus Kim,Fire Captain,Fire,Male,21,Associate,0,2024,FT,Yes,No,2,7,1.5,137135.88,17913.73,0.0,39257.9,155049.61,194307.51,2024
+444,Mei Patel,Firefighter,Fire,Female,19,Associate,0,2023,PT,Yes,No,4,7,15.1,37180.29,4211.49,0.0,3740.9,41391.78,45132.68,2023
+445,Mei Wright,Custodian,Public Works,Female,54,Associate,11,2013,PT,Yes,No,3,5,10.1,26532.15,20227.49,1380.76,3604.25,48140.4,51744.65,2024
+446,Hannah Jones,Accountant,Controller,Female,26,High School,8,2015,FT,Yes,Yes,3,4,6.6,99134.48,0.0,0.0,35606.6,99134.48,134741.08,2023
+447,Aisha Young,Transit Operator,Transportation,Female,35,Bachelor,0,2023,FT,Yes,No,4,12,11.1,82762.85,0.0,0.0,26800.48,82762.85,109563.33,2023
+448,Eric Davis,Deputy Sheriff,Sheriff,Male,63,Associate,32,1990,FT,Yes,No,3,7,23.4,154472.78,23087.2,0.0,54325.53,177559.98,231885.51,2022
+449,Daniel Brown,IT Operations Support Admin,Technology,Male,48,Associate,10,2015,FT,Yes,Yes,4,3,12.6,101603.06,7944.39,0.0,35711.0,109547.45,145258.45,2025
+450,Linda Anderson,Sergeant,Police,Female,32,Bachelor,9,2013,FT,Yes,No,4,10,11.7,159175.23,0.0,23054.19,45424.32,182229.42,227653.74,2022
+451,Patricia Scott,Senior Data Analyst,Technology,Female,38,Master,5,2020,FT,No,Yes,3,4,12.0,151229.79,0.0,0.0,51938.44,151229.79,203168.23,2025
+452,Anthony Scott,Electrician,Public Works,Male,42,Bachelor,12,2013,FT,Yes,No,3,10,5.2,138143.0,8521.9,0.0,47936.73,146664.9,194601.63,2025
+453,Laura Garcia,Police Officer,Police,Female,52,Bachelor,17,2007,FT,Yes,No,3,9,17.3,121627.17,25121.69,4741.25,38009.56,151490.11,189499.67,2024
+454,Kevin Thomas,Clerk,Administrative Services,Male,41,High School,15,2007,FT,Yes,Yes,3,5,1.9,56138.11,0.0,0.0,16627.01,56138.11,72765.12,2022
+455,Sofia Miller,Custodian,Public Works,Female,51,,22,2003,FT,Yes,No,3,4,6.0,79595.74,0.0,0.0,23103.08,79595.74,102698.82,2025
+456,Mary Young,Accountant,Controller,Female,51,Bachelor,20,2003,FT,Yes,Yes,4,4,1.8,130417.23,0.0,0.0,46501.99,130417.23,176919.22,2023
+457,Linda Chen,Clerk,Administrative Services,Female,35,Master,6,2017,FT,Yes,Yes,2,3,4.4,75679.88,6433.23,0.0,26705.83,82113.11,108818.94,2023
+458,Nicole Jackson,Parking Control Officer,Transportation,Female,37,Doctorate,4,2020,PT,Yes,No,5,4,4.8,39582.55,9672.33,0.0,4661.15,49254.88,53916.03,2024
+459,Jose Hall,GARDENER,Recreation & Parks,Male,43,Associate,14,2008,FT,Yes,No,4,7,10.9,79574.18,11764.16,0.0,24285.01,91338.34,115623.35,2022
+460,Eric Hernandez,Librarian,Library,Male,53,Bachelor,11,2014,FT,No,No,3,2,9.1,114319.76,0.0,0.0,39785.68,114319.76,154105.44,2025
+461,Priya Scott,Police Officer,Police,Female,36,Bachelor,3,2020,PT,No,No,2,10,14.7,47316.08,5144.79,853.37,4412.55,53314.24,57726.79,2023
+462,Kevin Anderson,Librarian,Library,Male,25,High School,3,2022,FT,Yes,No,3,6,4.9,97555.91,0.0,0.0,31922.55,97555.91,129478.46,2025
+463,Wei Moore,Accountant,Controller,Male,43,Bachelor,8,2017,FT,Yes,Yes,4,3,4.7,115917.3,0.0,0.0,35311.12,115917.3,151228.42,2025
+464,Robert Gonzalez,Registered Nurse,Public Health,Male,41,,11,2011,FT,Yes,No,3,4,3.4,117647.12,8440.15,0.0,41988.99,126087.27,168076.26,2022
+465,Mary Kim,Clerk,Administrative Services,Female,47,Doctorate,19,2006,FT,Yes,Yes,4,3,15.4,73787.85,0.0,0.0,23546.97,73787.85,97334.82,2025
+466,Steven Tran,Gardener,Recreation & Parks,Male,25,Bachelor,0,2022,FT,No,No,4,6,7.5,74575.88,0.0,0.0,23263.0,74575.88,97838.88,2022
+467,Sofia Nguyen,IT Operations Support Admin,Technology,Female,25,High School,7,2018,FT,Yes,Yes,3,8,9.2,108342.5,0.0,0.0,30783.21,108342.5,139125.71,2025
+468,Tuan Garcia,Police Officer,Police,Male,62,Master,24,2000,FT,No,No,4,7,3.7,184904.64,34658.27,0.0,66116.53,219562.91,285679.44,2024
+469,Andre Garcia,IT Operations Support Admin,Technology,Male,52,Bachelor,10,2012,FT,Yes,Yes,2,3,10.9,110784.41,0.0,0.0,35249.23,110784.41,146033.64,2022
+470,Daniel Williams,Firefighter,Fire,Male,58,,15,2008,FT,Yes,No,4,4,28.6,151651.75,19797.1,20267.3,43681.23,191716.15,235397.38,2023
+471,Priya Gonzalez,Firefighter,Fire,Female,62,High School,23,2001,FT,No,No,4,13,10.9,154917.37,14064.69,10636.71,54823.43,179618.77,234442.2,2024
+472,Kevin Garcia,Sergeant,Police,Male,23,Master,5,2018,FT,Yes,No,4,10,6.5,109374.82,11920.07,0.0,32803.49,121294.89,154098.38,2023
+473,Mei Lee,Police Officer,Police,Female,42,Master,7,2015,FT,No,No,4,11,10.3,155110.39,0.0,8039.88,52384.13,163150.27,215534.4,2022
+474,Robert Lewis,Transit Operator,Transportation,Male,19,Bachelor,1,2021,FT,Yes,No,2,8,18.4,63201.91,0.0,0.0,21834.99,63201.91,85036.9,2022
+475,Sofia Tran,Custodian,Public Works,Female,72,Master,32,1992,FT,Yes,No,5,4,8.0,89893.83,15942.05,0.0,30874.65,105835.88,136710.53,2024
+476,David Johnson,Firefighter,Fire,Male,40,Bachelor,7,2018,FT,No,No,3,9,8.5,137339.69,5554.18,0.0,48578.36,142893.87,191472.23,2025
+477,Wei Allen,Custodian,Public Works,Male,60,Master,16,2009,FT,Yes,No,3,3,17.6,60262.82,10275.03,0.0,,70537.85,88400.99,2025
+478,Raj Hernandez,Firefighter,Fire,Male,69,Associate,12,2010,FT,No,No,2,6,8.8,166928.05,52176.33,7891.1,56272.41,226995.48,283267.89,2022
+479,Mary Nguyen,Police Officer,Police,Female,39,Bachelor,0,2023,FT,Yes,No,3,16,14.2,115510.4,0.0,4794.98,38271.47,120305.38,158576.85,2023
+480,Robert Gonzalez,Deputy Sheriff,Sheriff,Male,60,Bachelor,13,2010,FT,Yes,No,4,8,7.9,108040.17,17886.67,2209.98,33673.52,128136.82,161810.34,2023
+481,Wei Tran,Registered Nurse,Public Health,Male,50,Bachelor,12,2012,FT,Yes,No,1,3,6.2,158223.21,79004.98,2728.15,49008.05,239956.34,288964.39,2024
+482,Rosa Hernandez,Police Officer,Police,Female,35,Associate,0,2024,FT,No,No,2,17,3.8,117986.91,60348.43,8150.48,35923.12,186485.82,222408.94,2024
+483,David Kim,IT Operations Support Admin,Technology,Male,35,Associate,5,2018,PT,Yes,No,3,7,13.5,49222.75,0.0,0.0,6441.94,49222.75,55664.69,2023
+484,Maria Johnson,Electrician,Public Works,Female,47,Associate,16,2007,FT,Yes,No,2,4,4.1,143374.53,2654.5,22881.36,45963.02,168910.39,214873.41,2023
+485,Andre Smith,Nursing Assistant,Public Health,Male,41,Bachelor,4,2021,FT,Yes,No,2,5,13.2,77590.25,0.0,6759.88,27474.78,84350.13,111824.91,2025
+486,Steven Scott,Gardener,Recreation & Parks,Male,53,High School,12,2013,PT,No,No,3,3,,28571.82,0.0,0.0,3831.61,28571.82,32403.43,2025
+487,Andre Lopez,Gardener,Recreation & Parks,Male,48,High School,8,2014,FT,Yes,No,3,7,22.8,58165.16,4359.42,0.0,20111.54,62524.58,82636.12,2022
+488,Emily Garcia,Firefighter,Fire,Female,47,Bachelor,25,1998,FT,Yes,No,1,11,8.9,158304.0,73639.22,36711.61,51585.6,268654.83,320240.43,2023
+489,John Chen,Clerk,Administrative Services,Male,55,Master,11,2012,FT,Yes,No,5,6,15.4,80512.92,0.0,0.0,27047.59,80512.92,107560.51,2023
+490,Tuan Thomas,Police Officer,Police,Male,41,High School,7,2016,PT,Yes,No,4,13,7.7,72975.92,5960.21,0.0,5654.63,78936.13,84590.76,2023
+491,William Patel,Transit Operator,Transportation,Male,57,Doctorate,12,2011,FT,Yes,No,3,7,37.0,89009.61,18262.41,5478.89,27708.52,112750.91,140459.43,2023
+492,Linda Anderson,Transit Operator,Transportation,Female,58,High School,24,1998,FT,Yes,No,3,7,10.2,91027.24,21076.99,0.0,28423.39,112104.23,140527.62,2022
+493,Laura Jones,Police Officer,Police,Female,54,Bachelor,10,2013,FT,Yes,No,3,9,13.5,108296.48,50246.61,0.0,30687.74,158543.09,189230.83,2023
+494,Karen Martin,Police Officer,Police,Female,43,Master,7,2018,FT,No,No,3,11,9.2,129665.98,65597.61,0.0,40089.55,195263.59,235353.14,2025
+495,Lisa Wilson,Transit Operator,Transportation,Nonbinary,52,Master,9,2014,FT,Yes,No,3,9,5.0,84871.87,10948.03,0.0,25502.91,95819.9,121322.81,2023
+496,Jose Williams,Sergeant,Police,Male,48,High School,11,2011,FT,No,No,3,9,7.1,145727.72,39260.48,622.1,50461.46,185610.3,236071.76,2022
+497,Eric Clark,Firefighter,Fire,Male,35,High School,0,2024,PT,Yes,No,3,12,6.5,70189.39,2885.18,0.0,4576.6,73074.57,77651.17,2024
+498,Raj Rodriguez,Gardener,Recreation & Parks,Male,56,Bachelor,15,2007,FT,No,No,5,6,28.1,66611.82,0.0,0.0,19920.97,66611.82,86532.79,2022
+499,Robert Gonzalez,Police Officer,Police,Male,61,Master,16,2006,FT,No,No,4,7,8.0,133507.97,43432.93,0.0,46729.17,176940.9,223670.07,2022
+500,Brian Smith,Custodian,Public Works,F,37,Master,6,2017,FT,No,No,4,8,3.5,67567.56,6721.32,0.0,19569.83,74288.88,93858.71,2023
+501,Luis Davis,Librarian,Library,Male,47,Doctorate,16,2007,FT,No,No,4,6,2.3,120546.23,0.0,1923.63,41934.99,122469.86,164404.85,2023
+502,James Nguyen,Police Officer,Police,Male,36,Master,2,2023,FT,Yes,No,4,5,2.6,103136.23,22965.87,2289.53,30979.73,128391.63,159371.36,2025
+503,Jose Scott,Transit Operator,Transportation,Male,,Bachelor,6,2016,FT,Yes,No,2,8,15.2,68570.22,6571.44,0.0,19383.04,75141.66,94524.7,2022
+504,Andre Anderson,Nursing Assistant,Public Health,Male,49,Associate,9,2014,FT,Yes,No,4,14,11.5,79014.37,5745.86,9510.01,22857.67,94270.24,117127.91,2023
+505,Daniel Wilson,Gardener,Recreation & Parks,Male,42,Bachelor,6,2017,PT,No,No,3,9,31.5,38385.35,1384.65,0.0,2114.39,39770.0,41884.39,2023
+506,Carlos Jones,Senior Data Analyst,Technology,Male,33,Associate,1,2022,FT,Yes,No,4,2,5.5,137992.5,0.0,0.0,47678.14,137992.5,185670.64,2023
+507,Priya Johnson,Transit Operator,Transportation,Female,23,Bachelor,1,2024,FT,Yes,No,4,9,6.3,76122.77,1199.35,0.0,21468.58,77322.12,98790.7,2025
+508,Marcus Wright,Library Technician,Library,Male,53,High School,13,2011,FT,Yes,No,2,4,5.5,66856.19,0.0,0.0,23639.16,66856.19,90495.35,2024
+509,Jose Miller,Clerk,Administrative Services,Male,33,High School,9,2013,FT,Yes,Yes,4,5,2.8,65673.7,0.0,0.0,21353.86,65673.7,87027.56,2022
+510,Steven Garcia,Sergeant,Police,Male,30,Bachelor,5,2017,FT,Yes,No,3,13,21.8,155989.7,4757.84,0.0,44181.29,160747.54,204928.83,2022
+511,William Jones,Parking Control Officer,Transportation,Male,57,Associate,10,2013,FT,Yes,No,5,4,16.3,90581.79,0.0,0.0,32001.69,90581.79,122583.48,2023
+512,Aisha Davis,IT Operations Support Admin,Technology,Female,42,Bachelor,9,2013,FT,Yes,Yes,3,3,4.9,113278.38,19404.22,0.0,40314.45,132682.6,172997.05,2022
+513,Daniel Moore,Gardener,Recreation & Parks,Male,49,Master,7,2018,FT,Yes,No,3,4,12.4,67692.29,0.0,4918.29,22505.33,72610.58,95115.91,2025
+514,Carlos Martinez,Sergeant,Police,Male,26,High School,4,2018,FT,Yes,No,2,8,7.4,126883.09,20625.6,0.0,37686.14,147508.69,185194.83,2022
+515,Mei Rodriguez,Firefighter,Fire,Female,42,Doctorate,3,2020,FT,Yes,No,5,11,5.6,157476.91,34917.16,0.0,52260.78,192394.07,244654.85,2023
+516,Jose Williams,Senior Data Analyst,Technology,Male,54,Bachelor,14,2011,FT,Yes,Yes,2,8,12.3,149319.85,0.0,0.0,53189.34,149319.85,202509.19,2025
+517,Carlos Lee,Transit Operator,Transportation,Male,33,Master,11,2014,FT,Yes,No,3,12,6.6,100051.48,11843.13,0.0,31850.17,111894.61,143744.78,2025
+518,Aisha Gonzalez,Sergeant,Police,Female,23,Bachelor,0,2023,PT,Yes,No,3,5,8.3,57883.01,994.1,2839.93,3163.81,61717.04,64880.85,2023
+519,Priya Wilson,Clerk,Administrative Services,Female,46,Master,21,2004,FT,Yes,No,2,3,5.6,77625.32,32671.31,0.0,24566.99,110296.63,134863.62,2025
+520,Steven Thomas,Transit Operator,Transportation,Male,68,Master,19,2004,PT,Yes,No,3,14,7.4,57484.96,17895.6,1885.27,,77265.83,82683.13,2023
+521,Tuan Scott,Sergeant,Police,Male,48,Associate,12,2013,FT,No,No,3,7,6.5,142813.74,18642.31,1023.28,48754.85,162479.33,211234.18,2025
+522,Brian Nguyen,Recreation Leader,Recreation & Parks,Male,40,Bachelor,0,2024,FT,Yes,No,3,4,3.0,36423.84,1107.45,0.0,11642.82,37531.29,49174.11,2024
+523,Steven Brown,Custodian,Public Works,Male,36,Bachelor,10,2013,FT,Yes,No,3,8,3.2,70408.36,16967.59,0.0,23443.75,87375.95,110819.7,2023
+524,Sofia Walker,Custodian,Public Works,Female,46,High School,12,2013,FT,Yes,No,3,11,29.1,58451.76,0.0,0.0,17634.16,58451.76,76085.92,2025
+525,Anthony Miller,Police Officer,Police,Male,44,Associate,15,2008,FT,Yes,No,2,8,49.1,136916.07,4478.15,5543.32,39972.81,146937.54,186910.35,2023
+526,Susan Wright,Transit Operator,Transportation,Female,45,Bachelor,9,2015,FT,Yes,No,3,9,29.1,108240.21,12732.76,0.0,30865.1,120972.97,151838.07,2024
+527,William Smith,Transit Operator,Transportation,Male,,High School,8,2014,FT,No,No,4,12,13.8,76994.32,0.0,0.0,23788.91,76994.32,100783.23,2022
+528,Wei Moore,Deputy Sheriff,Sheriff,Male,50,Bachelor,16,2009,FT,Yes,No,2,11,7.6,127535.21,18548.76,0.0,43915.57,146083.97,189999.54,2025
+529,Carlos Lewis,Firefighter,Fire,Male,50,Associate,11,2012,PT,Yes,No,4,9,39.8,80240.37,22421.71,518.33,8542.64,103180.41,111723.05,2023
+530,Angela Taylor,Electrician,Public Works,Female,37,Bachelor,0,2023,FT,Yes,No,4,5,9.6,103500.58,0.0,9524.25,36135.27,113024.83,149160.1,2023
+531,Robert Jackson,Firefighter,Fire,Male,47,Associate,9,2013,FT,Yes,No,3,5,9.6,129031.7,59162.25,17.62,45131.2,188211.57,233342.77,2022
+532,Raj Tran,Custodian,Public Works,Male,53,Bachelor,14,2010,FT,Yes,No,3,4,27.9,74736.94,10556.15,0.0,24289.29,85293.09,109582.38,2024
+533,Sofia Garcia,Registered Nurse,Public Health,Nonbinary,44,Bachelor,12,2012,FT,No,No,5,6,4.8,165298.5,0.0,0.0,49106.23,165298.5,214404.73,2024
+534,Laura Lee,Nursing Assistant,Public Health,Female,33,Bachelor,6,2018,FT,Yes,No,3,5,13.0,65247.9,0.0,4578.63,19601.44,69826.53,89427.97,2024
+535,John Clark,Custodian,Public Works,Male,72,Associate,25,1997,FT,Yes,No,2,4,8.2,64509.81,0.0,0.0,21775.65,64509.81,86285.46,2022
+536,Mei Allen,Transit Operator,Transportation,Female,58,Associate,23,1999,FT,Yes,No,3,7,25.6,119455.18,15653.3,0.0,42607.27,135108.48,177715.75,2022
+537,Andre Young,Parking Control Officer,Transportation,Male,30,Bachelor,0,2022,FT,Yes,No,3,5,7.8,78437.58,0.0,0.0,22587.63,78437.58,101025.21,2022
+538,Emily Gonzalez,IT Operations Support Admin,Technology,Female,30,Bachelor,1,2022,FT,Yes,Yes,3,10,9.5,121639.84,0.0,34138.95,42121.58,155778.79,197900.37,2023
+539,Sofia Martin,Transit Operator,Transportation,Female,48,Associate,19,2006,FT,No,No,3,4,11.0,85335.52,4738.44,0.0,28525.83,90073.96,118599.79,2025
+540,Robert Williams,Custodian,Public Works,Male,42,Bachelor,7,2017,PT,Yes,No,2,8,8.6,33659.82,0.0,0.0,2021.35,33659.82,35681.17,2024
+541,Karen Smith,Firefighter,Fire,Female,69,Doctorate,25,2000,FT,Yes,No,3,5,4.8,179736.74,16248.02,0.0,57101.48,195984.76,253086.24,2025
+542,Priya Brown,Registered Nurse,Public Health,Female,59,High School,21,2001,FT,Yes,No,3,5,,200271.93,31563.67,6031.95,71249.2,237867.55,309116.75,2022
+543,Lisa Lewis,Accountant,Controller,Female,47,High School,21,2001,FT,No,Yes,5,2,20.7,146906.04,0.0,0.0,51822.79,146906.04,198728.83,2022
+544,Jose Davis,Senior Data Analyst,Technology,Male,47,Master,19,2006,FT,Yes,Yes,1,6,23.7,146471.77,0.0,0.0,49229.6,146471.77,195701.37,2025
+545,Daniel Wright,Librarian,Library,Male,33,Bachelor,7,2016,FT,Yes,No,3,5,6.0,110327.85,0.0,0.0,38026.95,110327.85,148354.8,2023
+546,John Rodriguez,Gardener,Recreation & Parks,Male,22,Bachelor,4,2018,FT,Yes,No,3,5,5.7,67520.02,4440.78,0.0,20824.7,71960.8,92785.5,2022
+547,Michael Miller,Parking Control Officer,Transportation,Male,46,High School,7,2016,FT,Yes,No,4,8,4.8,63054.45,0.0,0.0,19754.64,63054.45,82809.09,2023
+548,Linda Hall,Fire Captain,Fire,Female,36,High School,6,2017,FT,Yes,No,1,11,5.1,145782.12,17372.5,10413.35,43356.75,173567.97,216924.72,2023
+549,Carlos Clark,Custodian,Public Works,Male,60,Bachelor,21,2001,FT,No,No,4,8,2.8,86548.24,0.0,0.0,26196.94,86548.24,112745.18,2022
+550,Patricia Martinez,Gardener,Recreation & Parks,Female,34,High School,16,2008,FT,Yes,No,3,5,15.1,74311.56,0.0,1606.8,21271.83,75918.36,97190.19,2024
+551,Kevin Lopez,CLERK,Administrative Services,Male,24,Master,0,2025,FT,Yes,No,4,2,4.9,51445.42,0.0,8631.59,16760.41,60077.01,76837.42,2025
+552,Laura Young,Registered Nurse,Public Health,Female,51,Bachelor,6,2019,FT,Yes,No,3,10,11.0,160335.96,9168.87,5046.49,48662.74,174551.32,223214.06,2025
+553,Grace Hall,Parking Control Officer,Transportation,Female,37,Bachelor,9,2014,FT,No,No,3,3,2.4,88447.7,0.0,6022.14,30177.03,94469.84,124646.87,2023
+554,Tuan Wong,Clerk,Administrative Services,Male,59,Bachelor,21,2004,FT,Yes,Yes,4,7,18.3,63704.78,0.0,1763.17,20987.6,65467.95,86455.55,2025
+555,Raj Williams,Firefighter,Fire,Male,53,High School,12,2011,FT,Yes,No,3,8,,108386.44,9225.93,2626.02,36390.53,120238.39,156628.92,2023
+556,Karen Walker,Parking Control Officer,Transportation,Female,52,Associate,6,2016,FT,No,No,2,6,19.1,72969.48,0.0,0.0,23152.27,72969.48,96121.75,2022
+557,Tuan Wong,Recreation Leader,Recreation & Parks,Male,28,High School,2,2021,FT,Yes,No,4,4,6.0,40984.7,10106.73,0.0,12130.2,51091.43,63221.63,2023
+558,Linda Davis,Deputy Sheriff,Sheriff,Female,43,Bachelor,9,2015,FT,Yes,No,2,10,8.9,82806.08,3109.32,7975.51,27939.33,93890.91,121830.24,2024
+559,Sofia Davis,IT Operations Support Admin,Technology,F,31,Associate,9,2015,FT,No,No,3,6,12.7,127214.62,0.0,0.0,45413.95,127214.62,172628.57,2024
+560,Wei Tran,Clerk,Administrative Services,Male,26,Master,4,2018,FT,No,No,1,6,5.0,80565.83,0.0,0.0,26247.9,80565.83,106813.73,2022
+561,Nicole Scott,Deputy Sheriff,Sheriff,Female,55,Bachelor,22,2002,FT,Yes,No,3,9,15.2,118928.77,53148.88,9716.52,36812.97,181794.17,218607.14,2024
+562,Jennifer Gonzalez,Firefighter,Fire,Female,56,Master,12,2012,FT,Yes,No,4,19,17.8,145516.24,139660.62,0.0,42491.02,285176.86,327667.88,2024
+563,Andre Garcia,Firefighter,Fire,Male,51,High School,12,2012,PT,Yes,No,2,10,24.1,76948.07,10913.43,0.0,9494.76,87861.5,97356.26,2024
+564,Anthony Anderson,Registered Nurse,Public Health,Male,44,Associate,14,2008,FT,No,No,3,1,20.6,155447.25,0.0,0.0,46785.28,155447.25,202232.53,2022
+565,Wei Walker,IT Operations Support Admin,Technology,Male,49,Bachelor,17,2008,FT,No,No,2,3,7.9,128759.52,0.0,0.0,38095.29,128759.52,166854.81,2025
+566,Lisa Tran,Police Officer,Police,Female,29,Bachelor,3,2019,FT,Yes,No,4,6,3.3,103502.09,28262.48,6619.72,36604.59,138384.29,174988.88,2022
+567,Mary Miller,Deputy Sheriff,Sheriff,M,61,Bachelor,17,2005,FT,Yes,No,3,5,13.0,112338.48,8646.42,0.0,33927.69,120984.9,154912.59,2022
+568,Nicole Wright,Registered Nurse,Public Health,Female,46,Bachelor,12,2013,PT,No,No,4,5,36.6,76181.7,19006.08,0.0,5935.21,95187.78,101122.99,2025
+569,Robert Thomas,Registered Nurse,Public Health,Male,54,Associate,19,2006,PT,No,No,3,4,13.6,61442.18,0.0,1792.61,8010.07,63234.79,71244.86,2025
+570,Anthony Jackson,Recreation Leader,Recreation & Parks,Male,40,High School,0,2023,FT,Yes,No,3,3,30.3,34058.37,0.0,0.0,10953.98,34058.37,45012.35,2023
+571,Karen Johnson,Firefighter,Fire,Female,49,Associate,16,2007,FT,Yes,No,5,11,3.3,164166.1,42653.22,0.0,57117.35,206819.32,263936.67,2023
+572,John Kim,Custodian,Public Works,Male,50,Master,7,2017,FT,Yes,No,3,8,8.0,60660.58,0.0,0.0,18414.88,60660.58,79075.46,2024
+573,Nicole Jones,Sergeant,Police,Female,55,High School,16,2006,FT,No,No,5,14,5.8,0.0,43513.99,3259.39,61999.52,241144.38,303143.9,2022
+574,Tuan Garcia,Clerk,Administrative Services,Male,38,Bachelor,8,2014,FT,Yes,Yes,5,8,23.3,64648.9,0.0,0.0,19154.74,64648.9,83803.64,2022
+575,Steven Miller,Police Officer,Police,Male,27,Bachelor,0,2024,FT,Yes,No,5,9,19.1,111793.94,9243.07,0.0,39235.73,121037.01,160272.74,2024
+576,Aisha Davis,Gardener,Recreation & Parks,Female,42,Bachelor,2,2020,PT,Yes,No,3,5,14.1,45580.54,0.0,0.0,4118.25,45580.54,49698.79,2022
+577,Daniel Garcia,IT Operations Support Admin,Technology,Male,54,Associate,19,2003,FT,No,Yes,3,4,4.1,168250.64,0.0,0.0,49909.3,168250.64,218159.94,2022
+578,Rosa Smith,Registered Nurse,Public Health,Female,52,Associate,12,2010,FT,No,No,4,3,42.6,173721.06,17634.39,0.0,52666.25,191355.45,244021.7,2022
+579,William Garcia,Electrician,Public Works,Male,44,Bachelor,5,2019,FT,Yes,No,4,3,13.2,133797.94,18169.26,0.0,39147.63,151967.2,191114.83,2024
+580,Carlos Scott,Firefighter,Fire,Male,41,,12,2010,FT,No,No,3,8,11.2,172544.43,24268.6,5351.81,,202164.84,255216.79,2022
+581,Jose Moore,Police Officer,Police,Male,44,High School,9,2016,FT,No,No,4,8,22.8,114848.19,2853.41,0.0,,117701.6,152694.61,2025
+582,Jennifer Lopez,ELECTRICIAN,Public Works,Female,42,High School,7,2018,FT,Yes,No,3,9,6.2,138459.51,21973.2,0.0,48231.88,160432.71,208664.59,2025
+583,Tanya Hall,Police Officer,Police,Female,29,Bachelor,11,2012,FT,Yes,No,3,15,2.6,126928.01,63017.32,0.0,36228.8,189945.33,226174.13,2023
+584,Marcus Rodriguez,Transit Operator,Transportation,Male,42,High School,13,2011,FT,Yes,No,4,9,2.4,75087.96,16194.25,668.58,26207.74,91950.79,118158.53,2024
+585,Steven Martin,Sergeant,Police,Male,36,Bachelor,8,2017,FT,Yes,No,3,11,14.3,152556.9,3642.89,0.0,46380.33,156199.79,202580.12,2025
+586,Jose Scott,Firefighter,Fire,Male,22,Doctorate,3,2020,PT,No,No,4,11,7.9,59062.95,1543.49,0.0,7747.72,60606.44,68354.16,2023
+587,Laura Wong,Deputy Sheriff,Sheriff,Female,,High School,17,2005,FT,Yes,No,3,7,12.7,146188.89,76418.32,0.0,48265.4,222607.21,270872.61,2022
+588,William Scott,Nursing Assistant,Public Health,Male,50,Associate,13,2012,FT,No,No,3,5,18.0,81920.06,0.0,0.0,24511.05,81920.06,106431.11,2025
+589,Grace Davis,Recreation Leader,Recreation & Parks,Female,20,Master,0,2024,FT,Yes,No,3,3,18.0,35811.78,0.0,265.97,10412.77,36077.75,46490.52,2024
+590,Carlos Brown,Library Technician,Library,Male,52,Associate,8,2014,FT,Yes,No,4,4,16.4,46452.46,0.0,0.0,13831.85,46452.46,60284.31,2022
+591,Mei Patel,Library Technician,Library,Female,27,High School,9,2013,FT,No,No,4,8,6.1,65801.49,0.0,0.0,,65801.49,88755.71,2022
+592,James Martin,Transit Operator,Transportation,Male,37,Master,19,2003,FT,Yes,No,4,14,11.1,92186.88,25580.63,0.0,27788.1,117767.51,145555.61,2022
+593,Maria Jones,Gardener,Recreation & Parks,Female,46,Master,11,2012,FT,Yes,No,3,6,3.4,87653.87,0.0,0.0,30355.82,87653.87,118009.69,2023
+594,Daniel Smith,Police Officer,Police,Male,42,Bachelor,13,2010,FT,Yes,No,4,11,4.5,135785.55,19276.75,0.0,39450.93,155062.3,194513.23,2023
+595,Andre Wright,Fire Captain,Fire,Nonbinary,42,Bachelor,15,2007,FT,No,No,3,9,9.1,177685.14,20735.26,0.0,63597.04,198420.4,262017.44,2022
+596,Patricia Gonzalez,Parking Control Officer,Transportation,Female,46,Bachelor,12,2012,PT,Yes,No,3,4,10.1,37133.47,0.0,0.0,4926.05,37133.47,42059.52,2024
+597,Anthony Walker,Senior Data Analyst,Technology,Male,21,Bachelor,0,2023,FT,No,Yes,5,5,10.8,124840.22,0.0,0.0,41852.17,124840.22,166692.39,2023
+598,Brian Lewis,Registered Nurse,Public Health,Male,58,Master,8,2017,PT,No,No,4,5,6.8,67583.65,13098.25,4304.75,3826.74,84986.65,88813.39,2025
+599,Tuan Williams,Accountant,Controller,Male,60,High School,15,2007,FT,Yes,No,4,7,12.9,113057.11,0.0,0.0,35298.09,113057.11,148355.2,2022
+600,Marcus Davis,Transit Operator,Transportation,Male,53,Associate,10,2014,FT,Yes,No,4,14,12.5,87221.61,22515.96,0.0,25909.15,109737.57,135646.72,2024
+601,Marcus Kim,ELECTRICIAN,Public Works,Male,64,Master,23,2000,FT,Yes,No,3,5,5.2,144946.66,17236.08,13350.96,49286.69,175533.7,224820.39,2023
+602,Laura Garcia,Deputy Sheriff,Sheriff,Female,59,High School,20,2003,FT,Yes,No,3,12,13.7,133709.16,17669.75,0.0,,151378.91,193904.58,2023
+603,Eric Moore,Department Head,Administrative Services,Male,54,Bachelor,6,2018,FT,No,Yes,3,7,41.1,327733.99,0.0,0.0,109194.64,327733.99,436928.63,2024
+604,Hannah Young,Clerk,Administrative Services,Female,35,High School,0,2025,FT,No,Yes,3,9,11.3,40881.45,19571.57,0.0,13167.3,60453.02,73620.32,2025
+605,Maria Gonzalez,Police Officer,Police,Female,47,Bachelor,12,2012,FT,Yes,No,3,9,18.9,151839.34,32260.64,9611.87,44011.06,193711.85,237722.91,2024
+606,Nicole Johnson,Librarian,Library,Female,27,Bachelor,0,2025,PT,Yes,No,4,6,8.0,53863.74,0.0,0.0,3757.34,53863.74,57621.08,2025
+607,Karen Martin,Firefighter,Fire,Female,51,Bachelor,9,2013,FT,Yes,No,3,5,7.6,148925.99,25882.26,5700.99,53332.69,180509.24,233841.93,2022
+608,Maria Taylor,Registered Nurse,Public Health,Female,35,Bachelor,2,2023,FT,No,No,4,5,21.9,149973.71,19889.92,0.0,43169.39,169863.63,213033.02,2025
+609,Laura Lopez,Electrician,Public Works,Female,42,Master,11,2012,FT,Yes,No,3,8,19.2,146142.43,84661.0,9731.48,45250.0,240534.91,285784.91,2023
+610,Michael Anderson,Fire Captain,Fire,Male,48,Bachelor,8,2016,FT,No,No,3,7,14.1,168727.45,29479.25,0.0,58166.99,198206.7,256373.69,2024
+611,Marcus Brown,Deputy Sheriff,Sheriff,Male,42,Bachelor,7,2018,FT,Yes,No,3,11,20.7,135775.9,12419.55,16504.69,39929.45,164700.14,204629.59,2025
+612,Raj Jones,Transit Operator,Transportation,Male,47,Master,13,2012,FT,Yes,No,4,11,9.1,90060.46,13280.33,3715.78,32176.73,107056.57,139233.3,2025
+613,Nicole Hall,Custodian,Public Works,Female,62,High School,20,2004,FT,Yes,No,5,6,6.7,85290.04,0.0,0.0,24112.98,85290.04,109403.02,2024
+614,Raj Young,Registered Nurse,Public Health,Nonbinary,51,Bachelor,11,2012,FT,No,No,3,7,9.4,168277.14,0.0,20454.85,53599.49,188731.99,242331.48,2023
+615,William Wong,Custodian,Public Works,Male,47,Bachelor,20,2003,FT,Yes,No,4,9,8.9,71119.47,11834.33,0.0,23664.39,82953.8,106618.19,2023
+616,Steven Martinez,Library Technician,Library,Male,47,Associate,9,2013,FT,Yes,No,3,4,4.1,75262.74,0.0,0.0,21496.06,75262.74,96758.8,2022
+617,Lisa Scott,IT Operations Support Admin,Technology,Female,50,High School,20,2004,PT,Yes,Yes,4,8,41.8,67117.78,0.0,0.0,3463.97,67117.78,70581.75,2024
+618,Tuan Kim,Registered Nurse,Public Health,Male,39,High School,7,2017,FT,Yes,No,3,9,10.9,179279.92,0.0,0.0,62364.34,179279.92,241644.26,2024
+619,Maria Lewis,Police Officer,Police,Female,61,Associate,6,2019,FT,Yes,No,3,8,20.9,137348.04,70717.52,0.0,41372.44,208065.56,249438.0,2025
+620,Marcus Martin,Custodian,Public Works,Male,33,High School,7,2015,FT,Yes,No,4,7,9.5,55912.92,788.46,0.0,15843.7,56701.38,72545.08,2022
+621,Nicole Young,Clerk,Administrative Services,Female,38,Bachelor,7,2016,FT,Yes,Yes,3,3,6.3,71814.23,0.0,0.0,25244.5,71814.23,97058.73,2023
+622,Steven Clark,Transit Operator,Transportation,Male,27,Bachelor,0,2023,PT,No,No,4,8,33.4,44913.88,2141.16,5855.17,2259.83,52910.21,55170.04,2023
+623,Emily Lewis,Firefighter,Fire,Female,53,High School,17,2007,PT,No,No,4,9,4.3,60308.14,11919.52,0.0,8735.25,72227.66,80962.91,2024
+624,Patricia Martin,Transit Operator,Transportation,Female,48,,11,2012,PT,Yes,No,3,9,4.5,46567.66,13137.6,1148.91,3196.79,60854.17,64050.96,2023
+625,Anthony Gonzalez,CUSTODIAN,Public Works,Male,50,High School,10,2012,FT,Yes,No,3,4,20.0,77668.33,17239.84,0.0,27110.64,94908.17,122018.81,2022
+626,Jose Scott,Senior Data Analyst,Technology,Male,40,Associate,14,2010,FT,Yes,Yes,3,7,11.3,135939.76,0.0,0.0,46040.6,135939.76,181980.36,2024
+627,Andre Wong,Transit Operator,Transportation,Nonbinary,27,Associate,0,2025,FT,Yes,No,3,8,9.0,80660.69,42914.0,5416.07,24680.6,128990.76,153671.36,2025
+628,Hannah Taylor,Firefighter,Fire,Female,39,Doctorate,14,2008,FT,Yes,No,3,11,12.8,138287.84,64471.71,6169.25,49152.95,208928.8,258081.75,2022
+629,David Jones,Transit Operator,Transportation,Male,41,Master,9,2013,FT,Yes,No,4,8,3.2,99114.39,39185.66,6439.2,34314.37,144739.25,179053.62,2022
+630,Aisha Moore,Deputy Sheriff,Sheriff,Female,48,Master,6,2016,FT,Yes,No,2,15,13.7,122009.39,0.0,0.0,36289.76,122009.39,158299.15,2022
+631,Carlos Wright,Accountant,Controller,Male,44,High School,8,2017,FT,No,Yes,3,4,15.5,85806.38,0.0,0.0,24375.49,85806.38,110181.87,2025
+632,Sofia Clark,Parking Control Officer,Transportation,Female,55,High School,13,2009,FT,No,No,5,7,6.7,80304.84,0.0,0.0,27455.58,80304.84,107760.42,2022
+633,Priya Johnson,Police Officer,Police,Nonbinary,52,Bachelor,18,2007,FT,Yes,No,3,12,9.1,155723.59,5449.93,0.0,52312.93,161173.52,213486.45,2025
+634,Rosa Thomas,Registered Nurse,Public Health,Female,42,High School,10,2012,FT,Yes,No,5,3,8.8,131781.38,0.0,11342.77,44112.82,143124.15,187236.97,2022
+635,Angela Johnson,Nursing Assistant,Public Health,Female,36,Bachelor,0,2024,FT,No,No,3,8,11.1,72359.27,0.0,11957.68,21803.91,84316.95,106120.86,2024
+636,John Martinez,Custodian,Public Works,Male,42,Bachelor,3,2021,FT,Yes,No,2,5,12.0,66914.16,7469.8,0.0,23744.98,74383.96,98128.94,2024
+637,William Martin,Electrician,Public Works,Male,38,Master,9,2016,PT,Yes,No,2,8,6.4,68190.12,4798.35,0.0,3654.43,72988.47,76642.9,2025
+638,David Thomas,Transit Operator,Transportation,Male,54,Master,18,2006,FT,No,No,3,12,5.9,93975.83,0.0,0.0,31150.77,93975.83,125126.6,2024
+639,Carlos Thomas,Gardener,Recreation & Parks,Male,47,Bachelor,9,2015,FT,No,No,5,6,22.4,71179.78,7821.34,8553.91,23315.85,87555.03,110870.88,2024
+640,Mary Walker,Custodian,Public Works,Female,,Master,2,2020,FT,Yes,No,3,11,38.7,57132.22,4591.19,0.0,17646.89,61723.41,79370.3,2022
+641,Carlos Moore,Clerk,Administrative Services,Male,38,Bachelor,4,2020,PT,Yes,No,5,5,9.0,28007.18,0.0,0.0,2158.61,28007.18,30165.79,2024
+642,Aisha Gonzalez,Accountant,Controller,Female,35,High School,4,2021,FT,Yes,Yes,4,3,31.2,101316.63,0.0,0.0,,101316.63,135376.08,2025
+643,Karen Taylor,Transit Operator,Transportation,Female,38,Bachelor,1,2023,FT,Yes,No,3,9,3.1,75692.68,35497.65,0.0,25613.51,111190.33,136803.84,2024
+644,Maria Rodriguez,Nursing Assistant,Public Health,Female,44,Bachelor,0,2023,FT,Yes,No,2,2,13.5,65703.01,13502.74,0.0,19620.67,79205.75,98826.42,2023
+645,Lisa Davis,Police Officer,Police,Female,38,High School,7,2016,FT,Yes,No,5,5,20.3,110309.2,10751.4,0.0,35973.42,121060.6,157034.02,2023
+646,Marcus Wright,IT Operations Support Admin,Technology,Male,29,Doctorate,11,2011,FT,Yes,Yes,3,3,4.1,143784.63,0.0,0.0,43889.24,143784.63,187673.87,2022
+647,Nicole Moore,Registered Nurse,Public Health,Female,53,Master,17,2006,FT,Yes,No,3,5,8.5,156271.28,13421.85,6080.02,54315.49,175773.15,230088.64,2023
+648,Karen Brown,Nursing Assistant,Public Health,Female,60,Bachelor,25,1998,FT,Yes,No,5,4,10.4,92255.04,0.0,0.0,27238.58,92255.04,119493.62,2023
+649,Jose Kim,Sergeant,Police,Male,32,Master,0,2025,FT,No,No,5,6,33.1,144441.6,0.0,11946.26,44223.05,156387.86,200610.91,2025
+650,Michael Gonzalez,Department Head,Administrative Services,Male,36,Bachelor,4,2018,FT,No,Yes,4,7,3.1,329704.86,0.0,0.0,99587.5,329704.86,429292.36,2022
+651,Anthony Hall,Accountant,Controller,Male,40,High School,11,2011,FT,Yes,Yes,4,6,7.6,129368.84,0.0,0.0,,129368.84,169110.01,2022
+652,Daniel Lee,Custodian,Public Works,Male,57,High School,5,2017,FT,Yes,No,5,11,,56116.53,9377.46,0.0,17358.97,65493.99,82852.96,2022
+653,David Jackson,Registered Nurse,Public Health,Male,28,Bachelor,0,2024,FT,Yes,No,3,6,34.0,184836.17,31531.21,26760.76,52136.65,243128.14,295264.79,2024
+654,John Smith,Gardener,Recreation & Parks,Male,36,Bachelor,5,2017,FT,No,No,4,5,8.9,73646.91,28840.47,3215.85,26190.61,105703.23,131893.84,2022
+655,Lisa Nguyen,IT Operations Support Admin,Technology,Female,49,Bachelor,5,2018,FT,No,Yes,5,2,5.4,118674.51,0.0,0.0,41969.44,118674.51,160643.95,2023
+656,Linda Gonzalez,Custodian,Public Works,Female,32,Bachelor,3,2020,FT,Yes,No,4,9,23.3,50463.56,0.0,0.0,15739.16,50463.56,66202.72,2023
+657,Eric Smith,Parking Control Officer,Transportation,Male,42,Associate,5,2018,FT,Yes,No,5,6,5.3,64766.67,0.0,0.0,22684.02,64766.67,87450.69,2023
+658,Daniel Taylor,Firefighter,Fire,Male,29,Master,2,2022,FT,Yes,No,3,9,22.9,119105.81,7469.75,0.0,36994.43,126575.56,163569.99,2024
+659,Tanya Brown,Firefighter,Fire,Female,46,Bachelor,3,2019,PT,Yes,No,4,11,6.2,45161.45,8104.57,0.0,4164.72,53266.02,57430.74,2022
+660,Aisha Kim,Registered Nurse,Public Health,Female,47,High School,4,2019,FT,Yes,No,5,4,31.7,146962.96,22487.35,0.0,,169450.31,213086.51,2023
+661,James Martin,Department Head,Administrative Services,Male,30,High School,6,2016,PT,No,No,3,7,3.4,79546.9,0.0,0.0,,79546.9,90317.99,2022
+662,Tuan Martin,Recreation Leader,Recreation & Parks,Male,54,Bachelor,15,2007,FT,Yes,No,3,8,6.8,47135.72,0.0,0.0,13986.59,47135.72,61122.31,2022
+663,Angela Smith,Transit Operator,Transportation,Female,22,Bachelor,1,2021,FT,Yes,No,4,8,5.0,76784.89,5746.12,901.92,26330.4,83432.93,109763.33,2022
+664,Hannah Anderson,Firefighter,Fire,Female,67,Doctorate,17,2007,FT,Yes,No,4,7,4.8,166840.73,15287.73,0.0,47649.34,182128.46,229777.8,2024
+665,Angela Lopez,Department Head,Administrative Services,Female,44,High School,13,2010,FT,No,No,3,12,8.1,238175.05,0.0,23587.26,82446.24,261762.31,344208.55,2023
+666,Karen Brown,Library Technician,Library,Female,49,Bachelor,13,2009,FT,Yes,No,2,9,7.5,74741.13,0.0,0.0,22729.02,74741.13,97470.15,2022
+667,Robert Williams,Accountant,Controller,Male,51,Bachelor,7,2017,FT,Yes,Yes,4,11,2.8,132865.1,0.0,0.0,37931.61,132865.1,170796.71,2024
+668,Nicole Nguyen,Clerk,Administrative Services,Female,42,Bachelor,5,2020,FT,Yes,No,3,5,13.0,72065.8,0.0,0.0,25465.62,72065.8,97531.42,2025
+669,Linda Hall,Transit Operator,Transportation,Female,40,Master,9,2014,FT,Yes,No,5,11,37.4,101647.37,61758.77,6760.49,29736.03,170166.63,199902.66,2023
+670,Maria Thomas,Sergeant,Police,M,34,Master,0,2022,FT,Yes,No,1,14,9.4,159032.91,13942.87,7407.64,55472.59,180383.42,235856.01,2022
+671,Luis Hall,Clerk,Administrative Services,Male,37,Associate,14,2008,FT,No,Yes,5,5,11.0,87362.0,0.0,0.0,30436.1,87362.0,117798.1,2022
+672,Luis Tran,Librarian,Library,Male,33,Bachelor,6,2017,FT,No,No,3,8,8.8,97994.74,0.0,0.0,28700.29,97994.74,126695.03,2023
+673,Lisa Smith,IT Operations Support Admin,Technology,Female,44,High School,4,2021,PT,Yes,No,5,3,26.9,62369.79,0.0,0.0,6757.7,62369.79,69127.49,2025
+674,Angela Kim,Transit Operator,Transportation,Female,25,High School,1,2022,FT,No,No,3,10,7.1,72785.68,36796.6,0.0,24791.37,109582.28,134373.65,2023
+675,Sofia Martin,Sergeant,Police,Female,40,Master,2,2020,FT,Yes,No,3,4,7.0,158642.22,55385.25,26867.97,44486.82,240895.44,285382.26,2022
+676,Robert Chen,Nursing Assistant,Public Health,Male,45,Bachelor,17,2007,FT,Yes,No,4,8,3.9,100864.3,0.0,0.0,34767.67,100864.3,135631.97,2024
+677,Susan Nguyen,Firefighter,Fire,Female,48,Associate,10,2013,FT,Yes,No,4,6,8.6,136786.24,49669.79,2180.4,48799.5,188636.43,237435.93,2023
+678,Jennifer Moore,Transit Operator,Transportation,Female,36,High School,0,2023,FT,Yes,No,4,8,5.8,76526.29,7580.91,0.0,27450.46,84107.2,111557.66,2023
+679,Susan Kim,SERGEANT,Police,Female,48,Master,8,2017,FT,Yes,No,4,8,4.8,183932.47,39884.56,724.35,56034.89,224541.38,280576.27,2025
+680,Tuan Rodriguez,Clerk,Administrative Services,Male,50,Associate,4,2020,FT,Yes,Yes,5,1,55.4,59615.84,0.0,0.0,17814.35,59615.84,77430.19,2024
+681,Robert Wright,Library Technician,Library,Male,46,High School,8,2016,FT,Yes,No,3,4,2.9,78028.87,0.0,0.0,24928.56,78028.87,102957.43,2024
+682,Susan Jones,Police Officer,Police,Female,48,Associate,16,2007,FT,Yes,No,3,11,14.8,135337.38,48684.02,0.0,38480.08,184021.4,222501.48,2023
+683,Patricia Kim,Parking Control Officer,Transportation,Female,42,Bachelor,8,2014,FT,No,No,5,8,53.6,80004.12,0.0,0.0,27266.35,80004.12,107270.47,2022
+684,Andre Chen,Police Officer,Police,Male,50,High School,15,2008,FT,Yes,No,3,7,40.4,115914.65,76615.27,1521.27,36266.02,194051.19,230317.21,2023
+685,Priya Scott,SENIOR DATA ANALYST,Technology,Female,51,Associate,15,2008,PT,Yes,Yes,3,6,3.6,86326.79,0.0,0.0,4865.44,86326.79,91192.23,2023
+686,Grace Wilson,Police Officer,Police,Female,37,Associate,2,2020,FT,No,No,4,11,11.7,129830.12,25829.49,9572.65,38750.25,165232.26,203982.51,2022
+687,Robert Thomas,Librarian,Library,Male,56,Bachelor,13,2011,PT,Yes,No,4,11,2.5,51805.65,0.0,0.0,6279.82,51805.65,58085.47,2024
+688,Jennifer Hall,Electrician,Public Works,Female,23,Bachelor,0,2022,PT,Yes,No,3,1,4.7,65094.03,1822.3,0.0,6678.58,66916.33,73594.91,2022
+689,Jose Jones,Transit Operator,Transportation,Male,45,High School,0,2024,FT,Yes,No,4,5,,53688.44,4188.14,3529.27,17782.86,61405.85,79188.71,2024
+690,John Martin,Firefighter,Fire,Male,43,Master,17,2006,FT,Yes,No,4,11,3.9,142180.2,62061.79,0.0,47965.34,204241.99,252207.33,2023
+691,Jennifer Gonzalez,Senior Data Analyst,Technology,Female,39,Master,14,2008,FT,Yes,No,4,8,16.9,166425.12,0.0,7387.31,47380.13,173812.43,221192.56,2022
+692,Wei Allen,LIBRARY TECHNICIAN,Library,Male,57,Bachelor,23,2000,FT,Yes,No,3,4,28.4,70043.51,12585.18,0.0,23825.17,82628.69,106453.86,2023
+693,Michael Hall,Gardener,Recreation & Parks,Male,43,High School,12,2010,FT,No,No,5,5,10.0,84456.95,0.0,0.0,24076.28,84456.95,108533.23,2022
+694,Carlos Kim,Parking Control Officer,Transportation,Male,40,High School,5,2018,FT,Yes,No,4,8,8.8,68648.6,27705.73,0.0,21947.95,96354.33,118302.28,2023
+695,Lisa Williams,IT Operations Support Admin,Technology,Female,47,High School,17,2006,FT,No,Yes,3,6,7.1,125876.07,0.0,0.0,39350.4,125876.07,165226.47,2023
+696,Wei Young,Registered Nurse,Public Health,Male,53,Master,6,2018,FT,No,No,3,8,13.4,150961.84,0.0,0.0,44413.23,150961.84,195375.07,2024
+697,Anthony Williams,ACCOUNTANT,Controller,Male,44,Associate,14,2008,FT,Yes,No,5,6,5.1,130985.17,0.0,0.0,37104.9,130985.17,168090.07,2022
+698,David Jones,Custodian,Public Works,Male,43,High School,5,2019,FT,Yes,No,3,6,10.0,53236.95,0.0,0.0,17779.18,53236.95,71016.13,2024
+699,Grace Anderson,Firefighter,Fire,Female,51,Master,12,2010,FT,Yes,No,3,8,7.1,141632.52,18392.8,2265.1,40341.91,162290.42,202632.33,2022
+700,Emily Lopez,Deputy Sheriff,Sheriff,Female,32,Associate,14,2011,PT,No,No,4,7,9.0,47236.54,5381.48,2370.25,3176.64,54988.27,58164.91,2025
+701,James Martinez,Sergeant,Police,Male,31,Bachelor,6,2017,FT,No,No,3,11,8.6,157401.71,15114.46,0.0,46808.96,172516.17,219325.13,2023
+702,Rosa Wong,IT Operations Support Admin,Technology,Female,41,Bachelor,6,2016,FT,Yes,Yes,3,7,38.2,133737.34,0.0,0.0,47799.85,133737.34,181537.19,2022
+703,Aisha Scott,Police Officer,Police,Female,63,Associate,16,2006,FT,Yes,No,3,8,15.1,147857.91,6045.67,0.0,50773.17,153903.58,204676.75,2022
+704,Susan Chen,Recreation Leader,Recreation & Parks,Female,54,Associate,19,2004,FT,Yes,No,4,6,11.4,49323.21,0.0,0.0,14253.85,49323.21,63577.06,2023
+705,Linda Garcia,Clerk,Administrative Services,Female,43,Master,11,2014,PT,Yes,Yes,4,10,5.2,22713.81,0.0,0.0,2459.51,22713.81,25173.32,2025
+706,Jose Patel,Firefighter,Fire,Male,70,Bachelor,25,2000,FT,Yes,No,3,9,6.8,178846.51,0.0,6068.81,62155.63,184915.32,247070.95,2025
+707,Anthony Allen,NURSING ASSISTANT,Public Health,Male,62,Associate,15,2010,FT,No,No,4,4,3.3,74688.8,0.0,0.0,24795.14,74688.8,99483.94,2025
+708,Mei Garcia,Registered Nurse,Public Health,Female,47,Master,11,2014,FT,Yes,No,3,7,19.4,150962.86,76171.22,65.71,46801.31,227199.79,274001.1,2025
+709,Linda Allen,Parking Control Officer,Transportation,Female,43,Bachelor,17,2006,FT,Yes,No,5,5,7.7,77196.76,0.0,0.0,27422.23,77196.76,104618.99,2023
+710,Emily Wright,Custodian,Public Works,Female,49,Associate,6,2019,FT,Yes,No,4,6,1.7,67917.52,0.0,0.0,21698.95,67917.52,89616.47,2025
+711,Luis Young,Firefighter,Fire,Male,41,Bachelor,7,2018,FT,No,No,5,5,11.4,150267.0,45887.8,13240.86,53154.88,209395.66,262550.54,2025
+712,Emily Patel,Clerk,Administrative Services,Female,53,High School,9,2013,FT,Yes,Yes,4,6,38.6,58688.66,0.0,0.0,20663.6,58688.66,79352.26,2022
+713,Emily Lee,Sergeant,Police,Female,41,High School,5,2020,FT,Yes,No,5,8,11.5,166253.48,45962.38,2497.71,51406.85,214713.57,266120.42,2025
+714,Sofia Garcia,Custodian,Public Works,Female,23,Bachelor,0,2025,FT,Yes,No,3,9,2.2,60758.22,24554.39,0.0,21455.72,85312.61,106768.33,2025
+715,Michael Martinez,Clerk,Administrative Services,Male,42,High School,12,2013,FT,No,No,3,7,2.5,67126.36,0.0,0.0,23368.54,67126.36,90494.9,2025
+716,Tanya Davis,Police Officer,Police,Female,30,Associate,6,2018,FT,Yes,No,3,7,6.8,126205.68,3746.29,0.0,41262.47,129951.97,171214.44,2024
+717,Jose Gonzalez,Firefighter,Fire,Male,34,Master,3,2021,FT,Yes,No,3,8,7.2,135456.85,20268.55,0.0,45519.42,155725.4,201244.82,2024
+718,Emily Wong,Transit Operator,Transportation,Female,49,High School,4,2020,FT,No,No,4,4,23.8,75687.26,9545.11,10829.75,26634.81,96062.12,122696.93,2024
+719,Grace Rodriguez,Clerk,Administrative Services,Female,35,Master,0,2022,FT,Yes,No,3,2,4.0,0.0,0.0,9922.1,20815.3,76358.35,97173.65,2022
+720,Linda Allen,Nursing Assistant,Public Health,Female,59,High School,13,2011,FT,Yes,No,3,5,12.9,96175.17,14436.28,0.0,28747.61,110611.45,139359.06,2024
+721,Emily Davis,Nursing Assistant,Public Health,Female,56,Bachelor,14,2010,FT,Yes,No,4,6,4.6,91108.24,18157.32,0.0,30661.27,109265.56,139926.83,2024
+722,Michael Young,Registered Nurse,Public Health,Male,34,Master,7,2016,FT,Yes,No,4,8,15.1,182294.57,0.0,0.0,59381.97,182294.57,241676.54,2023
+723,William Hall,Police Officer,Police,Male,36,,12,2010,FT,Yes,No,3,13,14.2,117228.32,29724.89,0.0,34840.62,146953.21,181793.83,2022
+724,Rosa Taylor,Deputy Sheriff,Sheriff,Female,43,Associate,6,2017,FT,No,No,2,10,18.9,107252.18,14973.56,5465.4,33615.66,127691.14,161306.8,2023
+725,Rosa Jackson,Transit Operator,Transportation,Female,42,Master,3,2022,FT,No,No,4,6,5.4,83860.05,7895.34,0.0,28863.38,91755.39,120618.77,2025
+726,Linda Young,Accountant,Controller,Female,45,High School,7,2016,FT,Yes,No,4,6,45.3,119774.19,0.0,0.0,42443.63,119774.19,162217.82,2023
+727,Mary Lopez,Electrician,Public Works,Female,35,Master,3,2021,FT,Yes,No,3,5,4.1,125686.59,21819.7,0.0,41987.27,147506.29,189493.56,2024
+728,Mary Hernandez,Custodian,Public Works,Female,53,High School,12,2011,FT,Yes,No,3,7,3.0,69933.83,19690.59,6922.04,21238.03,96546.46,117784.49,2023
+729,Mei Wilson,Clerk,Administrative Services,Female,49,High School,4,2021,FT,No,Yes,4,6,3.9,64055.0,0.0,0.0,18142.06,64055.0,82197.06,2025
+730,William Jones,Recreation Leader,Recreation & Parks,Male,41,Associate,5,2018,FT,No,No,3,4,10.7,37107.04,0.0,0.0,12729.42,37107.04,49836.46,2023
+731,Jennifer Johnson,Deputy Sheriff,Sheriff,Female,37,Master,4,2018,FT,Yes,No,5,9,7.1,115957.62,15540.58,26696.62,36910.12,158194.82,195104.94,2022
+732,Maria Rodriguez,Nursing Assistant,Public Health,Female,25,High School,0,2025,FT,Yes,No,4,7,3.0,66423.08,21426.35,0.0,23434.92,87849.43,111284.35,2025
+733,Michael Wong,Transit Operator,Transportation,Male,42,Bachelor,12,2013,FT,Yes,No,3,6,3.3,91326.13,40545.92,0.0,32631.17,131872.05,164503.22,2025
+734,Raj Williams,Clerk,Administrative Services,Male,52,High School,0,2022,FT,Yes,Yes,3,10,8.1,56034.48,0.0,0.0,18598.74,56034.48,74633.22,2022
+735,Andre Thomas,Senior Data Analyst,Technology,Male,23,High School,5,2020,FT,Yes,No,4,4,11.8,133869.21,0.0,0.0,39251.76,133869.21,173120.97,2025
+736,Daniel Lee,Accountant,Controller,Male,60,High School,19,2003,FT,No,Yes,3,8,6.9,119379.49,0.0,0.0,39133.31,119379.49,158512.8,2022
+737,Karen Jackson,Library Technician,Library,Female,40,Doctorate,9,2014,PT,No,No,4,9,10.4,44706.27,0.0,2785.77,4027.71,47492.04,51519.75,2023
+738,Michael Gonzalez,Registered Nurse,Public Health,Male,47,Master,20,2005,FT,Yes,No,3,8,9.5,199242.3,24737.42,0.0,69209.12,223979.72,293188.84,2025
+739,Emily Scott,Electrician,Public Works,Female,23,Bachelor,5,2020,FT,Yes,No,3,6,5.8,116975.6,20690.18,318.29,38285.65,137984.07,176269.72,2025
+740,Susan Miller,Clerk,Administrative Services,Female,38,Bachelor,9,2016,FT,Yes,Yes,3,8,23.1,74146.19,0.0,0.0,21033.46,74146.19,95179.65,2025
+741,Luis Gonzalez,ACCOUNTANT,Controller,Male,45,High School,15,2010,FT,Yes,No,5,6,6.2,113921.92,0.0,0.0,,113921.92,146702.36,2025
+742,Anthony Wright,Deputy Sheriff,Sheriff,Male,47,Bachelor,8,2014,FT,Yes,No,3,10,25.9,99955.13,6185.46,4053.54,28032.89,110194.13,138227.02,2022
+743,Patricia Miller,Electrician,Public Works,Female,41,Master,6,2018,FT,Yes,No,3,7,5.4,159846.39,70700.75,1251.89,52693.61,231799.03,284492.64,2024
+744,Robert Jackson,Sergeant,Police,Male,55,Associate,20,2002,FT,Yes,No,3,10,23.3,128599.14,0.0,0.0,38374.05,128599.14,166973.19,2022
+745,Karen Smith,Police Officer,Police,Female,31,High School,7,2016,FT,Yes,No,5,6,16.5,112188.13,22939.66,2420.78,38139.28,137548.57,175687.85,2023
+746,Wei Taylor,ACCOUNTANT,Controller,Male,41,Master,3,2021,FT,Yes,Yes,3,2,23.6,112678.46,0.0,0.0,35887.46,112678.46,148565.92,2024
+747,Eric Nguyen,FIREFIGHTER,Fire,Male,51,,14,2009,FT,No,No,3,14,21.4,152490.95,31080.72,1820.8,43954.96,185392.47,229347.43,2023
+748,Karen Jones,Clerk,Administrative Services,Female,22,Bachelor,3,2022,FT,Yes,Yes,5,3,3.0,59189.47,0.0,967.37,20073.45,60156.84,80230.29,2025
+749,Marcus Williams,Recreation Leader,Recreation & Parks,Male,25,Bachelor,4,2018,FT,No,No,5,5,10.0,36110.32,0.0,776.65,11306.66,36886.97,48193.63,2022
+750,Lisa Tran,NURSING ASSISTANT,Public Health,Female,35,High School,9,2013,FT,Yes,No,2,7,6.2,71458.84,0.0,0.0,20129.75,71458.84,91588.59,2022
+751,Susan Walker,Gardener,Recreation & Parks,Female,54,Associate,4,2018,FT,Yes,No,3,7,13.2,72159.82,42281.91,408.58,21492.99,114850.31,136343.3,2022
+752,Mei Williams,Registered Nurse,Public Health,Female,38,Associate,11,2011,FT,No,No,3,2,7.8,176848.27,5830.27,0.0,59890.65,182678.54,242569.19,2022
+753,William Wong,Clerk,Administrative Services,Male,36,High School,10,2012,FT,Yes,No,3,5,6.6,57275.89,0.0,0.0,18775.67,57275.89,76051.56,2022
+754,Anthony Anderson,Electrician,Public Works,Male,30,Bachelor,3,2020,FT,Yes,No,4,10,24.4,139154.11,23683.78,0.0,39084.11,162837.89,201922.0,2023
+755,Emily Young,Firefighter,Fire,Female,40,Bachelor,12,2011,FT,Yes,No,4,8,17.0,155726.89,31209.57,17641.67,52097.36,204578.13,256675.49,2023
+756,Robert Wilson,Deputy Sheriff,Sheriff,Male,48,High School,7,2018,FT,Yes,No,4,4,18.8,113266.69,96854.13,9478.35,36913.89,219599.17,256513.06,2025
+757,Jose Martinez,Transit Operator,Transportation,Male,38,Bachelor,9,2016,PT,Yes,No,3,13,32.2,39424.43,655.66,254.07,2864.97,40334.16,43199.13,2025
+758,Maria Patel,Electrician,Public Works,Female,37,High School,1,2023,FT,Yes,No,3,6,7.8,130329.11,21939.54,0.0,44437.31,152268.65,196705.96,2024
+759,Steven Martinez,Nursing Assistant,Public Health,Male,34,High School,2,2020,FT,Yes,No,3,4,3.2,69179.49,23550.69,0.0,20400.78,92730.18,113130.96,2022
+760,Sofia Smith,Transit Operator,Transportation,Female,38,Bachelor,17,2006,FT,Yes,No,5,4,9.7,107065.12,12564.79,0.0,34866.2,119629.91,154496.11,2023
+761,Wei Allen,Fire Captain,Fire,Male,29,High School,6,2016,FT,Yes,No,4,13,7.3,156410.78,30750.49,12610.36,55608.6,199771.63,255380.23,2022
+762,Angela Thomas,Sergeant,Police,Female,31,Bachelor,8,2014,PT,Yes,No,4,9,28.5,76017.85,3856.73,4300.47,7100.34,84175.05,91275.39,2022
+763,Daniel Hernandez,Transit Operator,Transportation,Male,50,,19,2004,FT,Yes,No,4,2,11.0,85356.0,7226.25,0.0,26879.18,92582.25,119461.43,2023
+764,David Lee,Custodian,Public Works,Male,55,Associate,9,2013,FT,No,No,3,9,6.0,66145.32,0.0,2758.88,19443.63,68904.2,88347.83,2022
+765,Angela Clark,IT Operations Support Admin,Technology,Female,27,High School,0,2022,FT,Yes,Yes,1,7,21.6,103183.39,0.0,0.0,29524.8,103183.39,132708.19,2022
+766,Andre Rodriguez,Police Officer,Police,Male,36,Bachelor,0,2022,FT,Yes,No,4,10,7.6,125136.5,13737.49,1904.92,41097.37,140778.91,181876.28,2022
+767,Angela Martin,Transit Operator,Transportation,Female,28,Associate,1,2024,FT,Yes,No,4,8,20.0,67290.27,12100.72,0.0,22460.27,79390.99,101851.26,2025
+768,Marcus Jackson,Custodian,Public Works,Male,57,Bachelor,10,2014,PT,Yes,No,5,2,6.8,25720.92,0.0,0.0,2267.45,25720.92,27988.37,2024
+769,James Wilson,Nursing Assistant,Public Health,Male,65,Master,24,1999,FT,Yes,No,3,5,2.9,101377.37,0.0,1144.77,36045.98,102522.14,138568.12,2023
+770,Aisha Wilson,Firefighter,Fire,Female,38,High School,1,2023,FT,Yes,No,3,5,18.8,143192.42,12182.94,0.0,41618.05,155375.36,196993.41,2024
+771,Emily Lopez,Deputy Sheriff,Sheriff,Female,32,Associate,14,2011,PT,No,No,4,7,9.0,47236.54,5381.48,2370.25,3176.64,54988.27,58164.91,2025
+772,Mei Jackson,Electrician,Public Works,Female,42,Bachelor,7,2015,FT,Yes,No,3,2,4.4,131011.67,60147.85,0.0,38837.71,191159.52,229997.23,2022
+773,Jennifer Garcia,Parking Control Officer,Transportation,Female,42,Master,2,2021,FT,Yes,No,3,5,9.8,68955.49,0.0,3484.72,24616.26,72440.21,97056.47,2023
+774,Nicole Lopez,Senior Data Analyst,Technology,Female,19,High School,0,2023,FT,Yes,Yes,5,5,,131635.94,0.0,0.0,41093.8,131635.94,172729.74,2023
+775,Patricia Martinez,Transit Operator,Transportation,Female,42,Associate,11,2014,FT,No,No,3,7,13.4,76700.9,5523.64,630.18,23596.49,82854.72,106451.21,2025
+776,Daniel Hall,Library Technician,Library,Male,45,Associate,10,2015,FT,Yes,No,4,9,10.0,69370.29,0.0,0.0,22169.9,69370.29,91540.19,2025
+777,James Chen,Fire Captain,Fire,F,40,Associate,6,2019,FT,No,No,3,11,6.8,138098.48,15929.22,18515.06,41616.69,172542.76,214159.45,2025
+778,Brian Lee,Electrician,Public Works,Male,36,Associate,4,2018,FT,Yes,No,4,12,4.9,116226.56,0.0,0.0,35315.41,116226.56,151541.97,2022
+779,Angela Lopez,Accountant,Controller,Female,45,High School,11,2013,FT,No,Yes,4,6,5.6,131070.66,0.0,0.0,39909.69,131070.66,170980.35,2024
+780,Eric Allen,Firefighter,Fire,Male,19,Master,0,2025,FT,Yes,No,3,9,7.5,123783.55,9548.02,0.0,42309.52,133331.57,175641.09,2025
+781,Tanya Scott,Transit Operator,Transportation,Nonbinary,35,Associate,7,2017,FT,No,No,3,7,11.3,65066.18,1629.16,687.75,20077.42,67383.09,87460.51,2024
+782,James Rodriguez,Gardener,Recreation & Parks,Male,50,High School,12,2013,FT,Yes,No,4,7,14.8,62622.15,5193.82,0.0,,67815.97,89340.29,2025
+783,Jose Tran,Fire Captain,Fire,Male,48,Master,12,2011,FT,Yes,No,5,7,12.9,206346.64,60726.84,20694.16,60120.27,287767.64,347887.91,2023
+784,Mary Johnson,Nursing Assistant,Public Health,Female,41,Bachelor,10,2013,FT,Yes,No,1,4,8.2,84534.32,32052.82,0.0,25195.9,116587.14,141783.04,2023
+785,Jose Anderson,Senior Data Analyst,Technology,Male,70,High School,30,1992,FT,Yes,No,3,6,9.0,150073.59,0.0,0.0,47046.94,150073.59,197120.53,2022
+786,Wei Hernandez,Police Officer,Police,Male,54,Master,22,2002,FT,Yes,No,3,11,35.5,138491.19,6399.91,0.0,40349.86,144891.1,185240.96,2024
+787,Wei Williams,Electrician,Public Works,Male,36,Bachelor,0,2022,PT,Yes,No,3,7,4.4,67356.25,609.34,8226.78,8337.05,76192.37,84529.42,2022
+788,Luis Johnson,Recreation Leader,Recreation & Parks,Male,46,Associate,10,2012,FT,Yes,No,4,7,12.9,49099.23,0.0,0.0,14819.9,49099.23,63919.13,2022
+789,Marcus Lewis,Sergeant,Police,Male,19,Bachelor,1,2023,FT,Yes,No,3,8,2.6,154345.45,50614.45,2165.85,48634.42,207125.75,255760.17,2024
+790,Hannah Wong,Firefighter,Fire,Female,40,Bachelor,20,2002,PT,Yes,No,2,3,5.1,49745.51,23914.35,551.91,5863.96,74211.77,80075.73,2022
+791,Karen Johnson,Firefighter,Fire,Female,37,Associate,3,2021,FT,No,No,4,7,10.9,108095.27,25554.09,2778.04,35831.09,136427.4,172258.49,2024
+792,Brian Martin,Firefighter,Fire,Male,40,Master,13,2011,FT,Yes,No,3,12,7.2,151955.94,20377.17,0.0,47244.61,172333.11,219577.72,2024
+793,James Gonzalez,Sergeant,Police,Male,39,Associate,11,2011,FT,Yes,No,2,5,7.9,198969.08,4413.77,0.0,69141.99,203382.85,272524.84,2022
+794,Maria Miller,Clerk,Administrative Services,Female,32,Bachelor,0,2024,FT,Yes,Yes,3,6,19.2,54402.49,0.0,979.32,18408.42,55381.81,73790.23,2024
+795,Carlos Johnson,Deputy Sheriff,Sheriff,Male,60,,11,2013,FT,Yes,No,5,8,39.2,133567.06,16610.61,2261.0,39849.66,152438.67,192288.33,2024
+796,Mary Jones,Firefighter,Fire,Female,49,Bachelor,16,2009,FT,No,No,3,12,9.3,134948.34,26564.27,7874.65,45324.49,169387.26,214711.75,2025
+797,Sofia Rodriguez,Custodian,Public Works,Female,32,Bachelor,9,2016,FT,Yes,No,4,13,33.8,66327.46,19390.47,0.0,23033.06,85717.93,108750.99,2025
+798,Karen Garcia,Registered Nurse,Public Health,Female,45,Associate,4,2018,FT,Yes,No,4,6,8.6,112620.42,16452.47,0.0,32463.2,129072.89,161536.09,2022
+799,Wei Chen,Recreation Leader,Recreation & Parks,Male,32,High School,12,2012,FT,Yes,No,5,10,24.9,38965.47,0.0,0.0,13543.41,38965.47,52508.88,2024
+800,Nicole Jackson,Custodian,Public Works,Female,48,Bachelor,9,2014,FT,Yes,No,3,4,13.4,65273.21,15028.98,0.0,18983.39,80302.19,99285.58,2023
+801,Mary Kim,Police Officer,Police,Female,19,Master,0,2024,FT,Yes,No,3,8,15.8,115911.39,0.0,0.0,32909.45,115911.39,148820.84,2024
+802,Marcus Walker,Nursing Assistant,Public Health,Male,64,High School,22,2003,FT,No,No,3,9,2.4,78847.25,0.0,2817.06,23149.55,81664.31,104813.86,2025
+803,Linda Anderson,Nursing Assistant,Public Health,Female,62,Bachelor,28,1997,FT,Yes,No,3,5,3.9,62615.79,0.0,0.0,21943.78,62615.79,84559.57,2025
+804,Maria Martinez,Gardener,Recreation & Parks,Female,59,Doctorate,14,2009,FT,No,No,3,3,16.9,81043.13,0.0,3161.66,23918.25,84204.79,108123.04,2023
+805,Jennifer Wilson,Police Officer,Police,Female,60,Master,22,2001,FT,Yes,No,3,8,9.0,139050.61,8490.38,4226.77,48158.15,151767.76,199925.91,2023
+806,Luis Garcia,Recreation Leader,Recreation & Parks,Male,44,Doctorate,8,2014,FT,Yes,No,5,4,7.0,42775.04,0.0,0.0,15359.75,42775.04,58134.79,2022
+807,Anthony Williams,Clerk,Administrative Services,Male,51,High School,9,2015,FT,Yes,No,2,3,7.1,57425.51,0.0,0.0,16791.15,57425.51,74216.66,2024
+808,Aisha Wright,Police Officer,Police,Female,34,Bachelor,11,2013,FT,No,No,3,8,3.7,133759.5,7002.45,1658.36,46606.45,142420.31,189026.76,2024
+809,Tuan Gonzalez,RECREATION LEADER,Recreation & Parks,Male,29,Bachelor,3,2021,FT,Yes,No,3,8,3.8,42216.95,0.0,0.0,13750.35,42216.95,55967.3,2024
+810,Priya Clark,Electrician,Public Works,M,40,High School,5,2019,FT,Yes,No,2,5,49.9,127499.94,24595.15,11954.33,45251.78,164049.42,209301.2,2024
+811,Brian Nguyen,Police Officer,Police,Male,45,Associate,10,2012,FT,Yes,No,5,8,6.5,119625.77,144488.2,519.41,35761.99,264633.38,300395.37,2022
+812,Eric Clark,IT Operations Support Admin,Technology,Male,57,Associate,18,2004,FT,Yes,Yes,4,14,16.6,144480.63,0.0,0.0,46538.3,144480.63,191018.93,2022
+813,Jose Wilson,Registered Nurse,Public Health,Male,30,Bachelor,0,2025,FT,No,No,3,4,4.0,143545.19,13866.09,4628.91,43915.02,162040.19,205955.21,2025
+814,Jose Young,Custodian,Public Works,Male,46,Bachelor,13,2012,FT,Yes,No,4,7,4.4,63671.07,8523.51,0.0,21656.93,72194.58,93851.51,2025
+815,Patricia Thomas,Deputy Sheriff,Sheriff,Nonbinary,33,Bachelor,3,2021,FT,No,No,2,11,37.5,124260.14,55940.32,13615.62,43589.88,193816.08,237405.96,2024
+816,Andre Chen,Recreation Leader,Recreation & Parks,Male,51,Doctorate,7,2015,FT,Yes,No,4,9,14.3,44810.34,0.0,0.0,13346.1,44810.34,58156.44,2022
+817,Grace Hall,Registered Nurse,Public Health,Female,53,,13,2012,FT,Yes,No,3,4,2.9,159883.4,0.0,0.0,51476.1,159883.4,211359.5,2025
+818,Brian Scott,Recreation Leader,Recreation & Parks,Male,44,High School,1,2024,FT,No,No,3,7,4.7,43946.07,0.0,0.0,12686.94,43946.07,56633.01,2025
+819,Mary Williams,Deputy Sheriff,Sheriff,Female,36,Associate,6,2018,FT,Yes,No,3,12,8.0,119356.79,17796.92,0.0,42049.37,137153.71,179203.08,2024
+820,Wei Anderson,Firefighter,Fire,Male,40,Bachelor,12,2011,PT,Yes,No,5,13,25.6,63339.39,4327.73,4117.54,8561.1,71784.66,80345.76,2023
+821,Jose Miller,Deputy Sheriff,Sheriff,Male,53,Associate,8,2014,PT,Yes,No,4,11,23.4,43069.15,9821.82,0.0,6207.71,52890.97,59098.68,2022
+822,Jose Davis,Transit Operator,Transportation,Male,44,Bachelor,8,2014,FT,Yes,No,3,15,23.9,80963.04,38798.73,0.0,23688.99,119761.77,143450.76,2022
+823,Lisa Scott,Parking Control Officer,Transportation,Female,37,High School,6,2018,PT,Yes,No,4,7,7.5,33536.65,18925.17,0.0,2406.59,52461.82,54868.41,2024
+824,Sofia Davis,Custodian,Public Works,Female,40,Associate,4,2021,FT,Yes,No,4,4,2.4,53443.91,13605.6,0.0,16451.67,67049.51,83501.18,2025
+825,William Moore,Electrician,Public Works,Male,29,Master,0,2023,FT,Yes,No,4,8,2.2,143452.12,36778.42,20937.63,47476.08,201168.17,248644.25,2023
+826,Andre Allen,Nursing Assistant,Public Health,Male,47,High School,10,2014,FT,Yes,No,3,3,10.3,74972.04,0.0,0.0,24215.13,74972.04,99187.17,2024
+827,Michael Brown,Police Officer,Police,Male,33,Associate,4,2020,FT,Yes,No,3,7,3.6,155355.49,0.0,20031.05,48388.19,175386.54,223774.73,2024
+828,Kevin Davis,Gardener,Recreation & Parks,Male,49,High School,17,2008,FT,Yes,No,3,6,7.1,73854.74,0.0,7745.16,21123.63,81599.9,102723.53,2025
+829,John Allen,Deputy Sheriff,Sheriff,Male,19,Master,1,2022,FT,Yes,No,2,12,18.9,141676.89,53074.84,4630.87,45133.27,199382.6,244515.87,2023
+830,Rosa Garcia,Nursing Assistant,Public Health,Female,37,Bachelor,6,2017,FT,Yes,No,3,9,11.5,70054.54,7405.86,3415.04,23501.36,80875.44,104376.8,2023
+831,Michael Hall,Transit Operator,Transportation,Male,46,Associate,14,2008,FT,Yes,No,4,10,36.5,71645.12,14831.53,1456.9,20461.45,87933.55,108395.0,2022
+832,Brian Gonzalez,Transit Operator,Transportation,Male,50,Bachelor,19,2005,FT,Yes,No,4,12,11.8,88201.47,38822.37,934.82,28537.78,127958.66,156496.44,2024
+833,Linda Martin,IT Operations Support Admin,Technology,Female,48,Bachelor,21,2002,FT,Yes,Yes,3,6,7.5,128477.33,28349.61,0.0,44318.21,156826.94,201145.15,2023
+834,Eric Kim,Senior Data Analyst,Technology,Male,28,Associate,0,2024,FT,No,Yes,3,7,7.7,178575.71,0.0,0.0,56916.72,178575.71,235492.43,2024
+835,Mary Nguyen,Nursing Assistant,Public Health,Female,26,Doctorate,5,2019,FT,Yes,No,3,5,5.4,69839.43,5348.37,0.0,21602.02,75187.8,96789.82,2024
+836,Eric Young,Electrician,Public Works,Male,55,Bachelor,18,2004,FT,Yes,No,3,8,7.5,175818.27,37188.97,0.0,60644.6,213007.24,273651.84,2022
+837,Luis Wong,Custodian,Public Works,Male,55,Master,18,2006,FT,No,No,3,7,12.4,89516.47,9170.75,0.0,26563.7,98687.22,125250.92,2024
+838,Mary Allen,Police Officer,Police,Female,54,Associate,11,2014,FT,No,No,3,7,2.8,133116.74,20123.06,1896.27,41605.43,155136.07,196741.5,2025
+839,Michael Davis,Transit Operator,Transportation,Male,37,Associate,3,2021,PT,Yes,No,4,10,10.4,30839.84,1688.09,25.02,2490.77,32552.95,35043.72,2024
+840,Andre Williams,Electrician,Public Works,Male,41,Bachelor,3,2021,FT,Yes,No,3,5,8.9,127449.29,29094.66,0.0,38044.88,156543.95,194588.83,2024
+841,Patricia Garcia,Transit Operator,Transportation,Female,28,Doctorate,0,2024,FT,Yes,No,4,5,2.8,78078.26,13327.98,0.0,26794.9,91406.24,118201.14,2024
+842,Anthony Clark,Registered Nurse,Public Health,Male,34,Bachelor,13,2009,PT,Yes,No,4,10,4.3,84293.59,0.0,1472.32,12587.13,85765.91,98353.04,2022
+843,Raj Davis,Custodian,Public Works,Male,54,High School,16,2006,FT,Yes,No,5,2,8.6,58933.22,0.0,0.0,16771.21,58933.22,75704.43,2022
+844,Angela Lee,Electrician,Public Works,Female,49,Bachelor,10,2013,FT,Yes,No,3,8,3.4,162516.33,0.0,4384.3,55378.92,166900.63,222279.55,2023
+845,Mei Lopez,Clerk,Administrative Services,Female,48,Associate,10,2013,PT,Yes,Yes,3,9,16.3,29957.65,0.0,0.0,2749.34,29957.65,32706.99,2023
+846,Luis Wilson,Registered Nurse,Public Health,Male,62,Bachelor,15,2008,FT,No,No,3,8,6.4,142421.62,0.0,0.0,42174.11,142421.62,184595.73,2023
+847,Jennifer Hernandez,Registered Nurse,Public Health,Female,63,Associate,10,2012,PT,Yes,No,4,4,18.9,82470.56,10829.46,1801.34,7879.74,95101.36,102981.1,2022
+848,William Brown,Accountant,Controller,Male,36,Associate,2,2021,PT,Yes,Yes,3,8,15.4,51024.0,22578.94,0.0,,73602.94,76181.17,2023
+849,Linda Moore,Accountant,Controller,Female,45,High School,17,2005,FT,Yes,Yes,1,10,7.0,117156.02,0.0,0.0,36643.6,117156.02,153799.62,2022
+850,Grace Gonzalez,Registered Nurse,Public Health,Female,56,Master,19,2004,FT,Yes,No,3,1,8.4,174246.6,16262.46,9427.24,50913.91,199936.3,250850.21,2023
+851,David Nguyen,Firefighter,Fire,Male,52,Master,21,2001,PT,Yes,No,3,7,14.3,73221.6,18379.57,3981.73,9146.65,95582.9,104729.55,2022
+852,John Davis,Accountant,Controller,Male,29,Associate,8,2014,FT,Yes,No,3,6,,116558.21,6326.14,0.0,33210.56,122884.35,156094.91,2022
+853,Luis Kim,RECREATION LEADER,Recreation & Parks,Male,63,Bachelor,29,1995,FT,Yes,No,3,6,18.5,56085.14,0.0,0.0,15987.44,56085.14,72072.58,2024
+854,Patricia Johnson,Police Officer,Police,Female,38,Associate,0,2023,FT,Yes,No,5,8,22.9,114723.2,0.0,0.0,33262.62,114723.2,147985.82,2023
+855,Jennifer Allen,Firefighter,Fire,Female,46,Bachelor,13,2011,FT,Yes,No,5,10,7.9,160248.51,33379.61,8497.49,53677.54,202125.61,255803.15,2024
+856,John Johnson,Police Officer,Police,Male,46,Master,5,2020,FT,No,No,3,9,10.8,102554.79,23119.37,9683.78,30731.85,135357.94,166089.79,2025
+857,Mary Taylor,Accountant,Controller,Female,40,High School,0,2022,FT,Yes,No,3,8,19.4,113064.42,0.0,0.0,37198.45,113064.42,150262.87,2022
+858,Hannah Wilson,Transit Operator,Transportation,Female,35,Bachelor,1,2023,FT,Yes,No,4,7,15.7,72026.43,18099.07,0.0,24911.35,90125.5,115036.85,2024
+859,Carlos Clark,Nursing Assistant,Public Health,Male,45,High School,10,2015,FT,Yes,No,3,6,10.7,94700.2,0.0,0.0,31774.31,94700.2,126474.51,2025
+860,Carlos Jackson,Police Officer,Police,Nonbinary,65,High School,22,2002,FT,Yes,No,3,5,5.7,154838.83,25768.71,0.0,46542.46,180607.54,227150.0,2024
+861,Tuan Hernandez,Clerk,Administrative Services,Male,38,,2,2023,FT,Yes,Yes,3,3,10.0,46293.77,0.0,0.0,16240.22,46293.77,62533.99,2025
+862,Anthony Anderson,Police Officer,Police,Male,48,Bachelor,11,2013,FT,Yes,No,3,4,6.2,112927.33,62297.67,0.0,33148.75,175225.0,208373.75,2024
+863,Andre Young,Department Head,Administrative Services,Male,20,Bachelor,2,2022,FT,No,Yes,4,4,5.3,245711.56,0.0,0.0,87938.48,245711.56,333650.04,2024
+864,Susan Lee,Firefighter,Fire,Female,57,Associate,14,2010,FT,Yes,No,3,10,3.5,153363.91,16872.59,0.0,49178.83,170236.5,219415.33,2024
+865,Aisha Lewis,Sergeant,Police,Female,48,Associate,12,2010,FT,No,No,4,5,14.3,222475.66,46701.39,0.0,68204.23,269177.05,337381.28,2022
+866,Carlos Kim,Clerk,Administrative Services,Male,38,Bachelor,4,2018,PT,Yes,Yes,3,9,6.5,22697.35,0.0,0.0,2111.68,22697.35,24809.03,2022
+867,Mary Brown,Deputy Sheriff,Sheriff,Female,52,Bachelor,15,2010,FT,Yes,No,3,4,16.6,131955.78,1523.0,1088.1,44156.57,134566.88,178723.45,2025
+868,Aisha Nguyen,Firefighter,Fire,Female,54,Associate,12,2012,FT,Yes,No,5,15,6.5,150701.57,11613.13,0.0,45645.31,162314.7,207960.01,2024
+869,Wei Davis,Department Head,Administrative Services,Male,48,High School,10,2013,FT,No,Yes,2,2,,292628.85,0.0,9132.88,105247.35,301761.73,407009.08,2023
+870,Emily Martinez,Librarian,Library,Female,49,Master,4,2020,FT,Yes,No,4,8,15.3,114477.3,0.0,0.0,33264.88,114477.3,147742.18,2024
+871,Jose Clark,Transit Operator,Transportation,Male,65,Associate,26,1999,FT,Yes,No,4,8,11.4,89485.74,27435.65,4198.53,30983.88,121119.92,152103.8,2025
+872,Tuan Rodriguez,Recreation Leader,Recreation & Parks,Male,37,Bachelor,0,2025,PT,No,No,4,2,8.5,25785.68,0.0,0.0,2983.81,25785.68,28769.49,2025
+873,Kevin Wong,Sergeant,Police,Male,50,Master,12,2011,FT,No,No,4,7,2.9,141902.54,0.0,5280.82,42355.5,147183.36,189538.86,2023
+874,William Miller,Custodian,Public Works,Male,43,High School,2,2020,FT,Yes,No,2,10,7.5,62131.16,7796.86,0.0,20402.63,69928.02,90330.65,2022
+875,Nicole Wilson,Firefighter,Fire,Female,32,High School,6,2019,FT,No,No,2,11,8.0,133901.81,7375.67,0.0,40784.69,141277.48,182062.17,2025
+876,Rosa Patel,IT Operations Support Admin,Technology,Female,40,Master,6,2016,FT,Yes,No,5,6,5.3,131407.48,13102.89,0.0,42786.12,144510.37,187296.49,2022
+877,David Hernandez,Registered Nurse,Public Health,M,53,High School,15,2009,FT,Yes,No,3,4,7.1,177630.33,188697.87,0.0,51696.44,366328.2,418024.64,2024
+878,Laura Hall,IT Operations Support Admin,Technology,Female,26,Associate,0,2022,FT,No,Yes,3,5,12.3,97064.0,0.0,17357.06,33990.01,114421.06,148411.07,2022
+879,Patricia Kim,Police Officer,Police,Female,52,High School,17,2005,FT,No,No,3,9,6.8,138811.55,12930.94,0.0,41979.17,151742.49,193721.66,2022
+880,Kevin Wright,Firefighter,Fire,Male,51,Associate,18,2004,FT,No,No,4,7,34.8,155503.15,2707.48,5841.8,54025.06,164052.43,218077.49,2022
+881,Mei Gonzalez,Police Officer,Police,Female,61,Associate,25,1998,FT,No,No,4,9,25.0,174587.86,40478.24,7390.43,49059.68,222456.53,271516.21,2023
+882,Luis Davis,Parking Control Officer,Transportation,Male,39,Associate,11,2012,PT,Yes,No,3,6,6.7,28705.69,0.0,0.0,3099.65,28705.69,31805.34,2023
+883,Brian Wright,Sergeant,Police,F,51,Master,5,2020,FT,No,No,3,8,21.3,187563.12,17638.12,6854.08,63025.06,212055.32,275080.38,2025
+884,Wei Kim,Sergeant,Police,Male,45,Associate,15,2008,FT,Yes,No,4,7,4.3,172571.62,26552.27,7448.51,61429.6,206572.4,268002.0,2023
+885,Laura Smith,Electrician,Public Works,Female,31,High School,0,2025,FT,No,No,4,7,5.9,103425.75,0.0,0.0,30481.53,103425.75,133907.28,2025
+886,Andre Moore,Recreation Leader,Recreation & Parks,Male,35,Bachelor,13,2010,PT,Yes,No,4,3,8.0,24500.11,9682.23,0.0,2534.24,34182.34,36716.58,2023
+887,Jennifer Wright,Custodian,Public Works,Female,50,Associate,18,2006,FT,Yes,No,3,6,12.0,74834.48,0.0,3869.75,22739.07,78704.23,101443.3,2024
+888,Andre Wright,Deputy Sheriff,Sheriff,Male,36,Associate,10,2012,FT,Yes,No,4,9,25.8,117009.38,12370.43,0.0,39205.27,129379.81,168585.08,2022
+889,Michael Rodriguez,Clerk,Administrative Services,Male,22,High School,4,2020,FT,Yes,No,2,6,50.6,66757.1,0.0,0.0,18726.96,66757.1,85484.06,2024
+890,Nicole Young,Sergeant,Police,Female,42,Bachelor,10,2015,PT,No,No,3,7,5.1,81188.91,4998.38,0.0,8203.46,86187.29,94390.75,2025
+891,Mary Martin,Firefighter,Fire,Female,39,Associate,6,2019,PT,Yes,No,4,11,3.8,60579.12,7501.26,4994.27,6596.76,73074.65,79671.41,2025
+892,Lisa Lee,Custodian,Public Works,Female,29,Doctorate,0,2024,FT,Yes,No,4,2,22.2,78995.3,51268.92,1118.33,27293.6,131382.55,158676.15,2024
+893,Karen Anderson,Department Head,Administrative Services,Female,58,Master,9,2016,FT,No,Yes,2,7,6.2,295122.44,0.0,17128.17,96373.35,312250.61,408623.96,2025
+894,Robert Patel,Recreation Leader,Recreation & Parks,Male,39,Bachelor,10,2014,PT,Yes,No,3,6,41.7,21760.26,0.0,0.0,2151.1,21760.26,23911.36,2024
+895,Priya Gonzalez,IT Operations Support Admin,Technology,Female,60,High School,19,2005,FT,Yes,Yes,3,6,7.8,122218.9,0.0,103.19,37562.75,122322.09,159884.84,2024
+896,Emily Tran,Parking Control Officer,Transportation,Female,44,Associate,4,2020,FT,No,No,4,9,2.3,68021.7,7118.54,0.0,20740.54,75140.24,95880.78,2024
+897,Karen Jackson,Recreation Leader,Recreation & Parks,Female,53,Associate,7,2016,FT,Yes,No,1,6,,34077.94,0.0,0.0,10210.38,34077.94,44288.32,2023
+898,Tanya Johnson,Sergeant,Police,Female,45,High School,7,2018,FT,Yes,No,4,10,12.4,173137.84,0.0,0.0,56116.48,173137.84,229254.32,2025
+899,Lisa Lewis,Firefighter,Fire,Female,32,Bachelor,0,2024,FT,Yes,No,5,14,9.3,130132.62,18720.64,4961.37,41157.93,153814.63,194972.56,2024
+900,Rosa Anderson,Nursing Assistant,Public Health,Female,46,Bachelor,2,2023,FT,Yes,No,4,5,21.3,82133.49,10164.66,0.0,24660.18,92298.15,116958.33,2025
+901,Patricia Taylor,REGISTERED NURSE,Public Health,Female,59,High School,16,2007,FT,Yes,No,3,5,18.3,148507.59,11583.61,0.0,42930.4,160091.2,203021.6,2023
+902,John Hernandez,Deputy Sheriff,Sheriff,Male,32,Master,12,2011,FT,Yes,No,4,10,31.2,127717.62,0.0,0.0,38137.84,127717.62,165855.46,2023
+903,Emily Wilson,Clerk,Administrative Services,Female,27,Bachelor,9,2013,PT,Yes,Yes,3,9,5.5,32910.59,4368.99,0.0,2703.13,37279.58,39982.71,2022
+904,Carlos Chen,Custodian,Public Works,Nonbinary,44,Associate,15,2007,FT,Yes,No,4,5,12.5,72350.86,0.0,0.0,24951.59,72350.86,97302.45,2022
+905,Carlos Moore,LIBRARIAN,Library,Male,38,Master,6,2018,FT,Yes,No,4,5,33.2,127218.22,0.0,0.0,37713.64,127218.22,164931.86,2024
+906,Michael Moore,Police Officer,Police,Male,58,Associate,19,2006,FT,Yes,No,1,13,5.0,139494.85,71918.88,0.0,47041.74,211413.73,258455.47,2025
+907,Raj Martinez,Transit Operator,Transportation,Male,38,Master,4,2021,FT,Yes,No,5,6,7.2,98992.27,12990.57,0.0,33646.91,111982.84,145629.75,2025
+908,Aisha Walker,Clerk,Administrative Services,Female,53,Bachelor,10,2015,FT,No,Yes,4,8,9.6,61151.85,0.0,0.0,19904.98,61151.85,81056.83,2025
+909,Marcus Wright,Police Officer,Police,Male,55,High School,8,2017,FT,Yes,No,4,9,18.5,108839.12,22886.5,0.0,32994.77,131725.62,164720.39,2025
+910,Tuan Martinez,Sergeant,Police,Male,46,Doctorate,10,2012,PT,Yes,No,4,7,8.8,75512.79,16616.62,0.0,3898.2,92129.41,96027.61,2022
+911,Carlos Allen,Police Officer,Police,Male,45,High School,10,2015,FT,Yes,No,3,12,34.3,123405.56,10276.33,16053.03,42188.7,149734.92,191923.62,2025
+912,Michael Rodriguez,Transit Operator,Transportation,Male,33,Bachelor,4,2021,FT,No,No,3,10,13.1,75048.15,7411.29,0.0,22455.96,82459.44,104915.4,2025
+913,Steven Chen,Sergeant,Police,Male,27,Associate,4,2020,FT,Yes,No,3,10,9.1,166072.83,80843.74,0.0,50750.34,246916.57,297666.91,2024
+914,Michael Wright,IT Operations Support Admin,Technology,Male,48,High School,16,2007,FT,Yes,Yes,4,10,8.7,118524.45,0.0,0.0,40613.58,118524.45,159138.03,2023
+915,Hannah Martinez,Gardener,Recreation & Parks,Female,29,Associate,3,2021,FT,Yes,No,4,8,15.1,70526.29,17484.62,0.0,22379.06,88010.91,110389.97,2024
+916,Mary Lee,Transit Operator,Transportation,Female,39,High School,2,2021,PT,Yes,No,4,6,7.6,27067.29,6549.82,0.0,,33617.11,37307.09,2023
+917,Karen Young,Firefighter,Fire,Female,58,Doctorate,24,1998,PT,Yes,No,3,10,5.8,92971.06,10039.08,0.0,6549.09,103010.14,109559.23,2022
+918,Hannah Johnson,Fire Captain,Fire,Female,47,Bachelor,3,2019,FT,Yes,No,4,12,16.8,151080.17,46107.9,8795.63,52929.12,205983.7,258912.82,2022
+919,Michael Johnson,Sergeant,Police,Male,29,Associate,3,2021,FT,No,No,4,11,9.7,152225.01,7460.75,0.0,47450.14,159685.76,207135.9,2024
+920,Emily Moore,FIREFIGHTER,Fire,Female,49,High School,16,2007,FT,Yes,No,3,9,8.0,145256.34,37153.64,0.0,44260.92,182409.98,226670.9,2023
+921,Andre Garcia,Gardener,Recreation & Parks,Male,38,Bachelor,5,2017,PT,No,No,3,6,9.2,25422.71,0.0,0.0,3074.65,25422.71,28497.36,2022
+922,William Lopez,Accountant,Controller,Male,48,Associate,9,2013,FT,Yes,Yes,3,6,11.4,103967.81,0.0,0.0,,103967.81,141195.78,2022
+923,Sofia Clark,Recreation Leader,Recreation & Parks,Female,40,Bachelor,10,2013,FT,Yes,No,3,10,3.4,43231.57,0.0,0.0,14694.91,43231.57,57926.48,2023
+924,Raj Rodriguez,Police Officer,Police,Male,49,Associate,4,2019,FT,Yes,No,3,8,7.6,100107.49,12598.71,2227.68,32259.94,114933.88,147193.82,2023
+925,Priya Nguyen,Recreation Leader,Recreation & Parks,Female,37,Associate,0,2024,FT,No,No,3,5,18.4,41248.24,0.0,0.0,12594.27,41248.24,53842.51,2024
+926,Lisa Tran,Nursing Assistant,Public Health,Female,48,Associate,16,2006,FT,Yes,No,4,6,8.1,67814.58,31446.92,0.0,19285.5,99261.5,118547.0,2022
+927,Lisa Patel,Custodian,Public Works,Female,50,Bachelor,8,2015,FT,Yes,No,3,9,14.0,72212.2,0.0,2161.48,21296.49,74373.68,95670.17,2023
+928,Robert Anderson,Sergeant,Police,Male,44,High School,3,2022,FT,Yes,No,3,8,3.0,108869.09,13971.37,0.0,35755.82,122840.46,158596.28,2025
+929,Jose Williams,Accountant,Controller,Male,51,Associate,11,2012,FT,No,Yes,4,12,9.1,113833.32,0.0,5170.64,33038.46,119003.96,152042.42,2023
+930,Kevin Hall,Accountant,Controller,Male,31,Bachelor,5,2018,FT,No,Yes,3,8,8.8,132679.39,18040.98,0.0,43564.53,150720.37,194284.9,2023
+931,Steven Clark,Transit Operator,Transportation,Male,50,Bachelor,12,2013,FT,Yes,No,3,8,7.5,86955.43,6098.28,5162.2,28517.36,98215.91,126733.27,2025
+932,Carlos Nguyen,Library Technician,Library,Male,34,High School,10,2014,FT,Yes,No,4,5,9.0,65532.75,0.0,0.0,20571.03,65532.75,86103.78,2024
+933,Robert Wright,Transit Operator,Transportation,Male,71,Bachelor,19,2006,FT,Yes,No,3,7,13.9,88340.13,11109.21,5661.91,25774.74,105111.25,130885.99,2025
+934,Andre Moore,Sergeant,Police,Male,42,Bachelor,13,2012,PT,No,No,4,15,28.0,94628.88,14124.63,8052.84,4768.78,116806.35,121575.13,2025
+935,Daniel Hernandez,Deputy Sheriff,Sheriff,Male,30,High School,0,2023,FT,Yes,No,4,8,18.9,115512.25,9153.1,15199.91,39748.76,139865.26,179614.02,2023
+936,Brian Clark,Parking Control Officer,Transportation,Male,43,Associate,0,2025,FT,Yes,No,5,7,24.1,65534.94,606.52,0.0,23215.07,66141.46,89356.53,2025
+937,Daniel Johnson,Firefighter,Fire,Male,57,High School,14,2011,FT,Yes,No,1,13,8.5,100560.98,13055.13,704.58,,114320.69,149809.34,2025
+938,John Tran,Firefighter,Fire,Male,49,Bachelor,8,2015,FT,Yes,No,3,5,11.2,115304.94,62716.89,0.0,36637.37,178021.83,214659.2,2023
+939,Angela Anderson,Accountant,Controller,Female,37,Associate,14,2009,FT,Yes,Yes,4,3,14.6,107603.31,0.0,0.0,34525.14,107603.31,142128.45,2023
+940,Mei Hall,Senior Data Analyst,Technology,Female,50,High School,6,2016,FT,No,Yes,3,6,8.6,149165.45,0.0,0.0,46743.12,149165.45,195908.57,2022
+941,Jose Brown,Transit Operator,Transportation,Male,41,Associate,7,2016,FT,Yes,No,4,16,11.3,89763.11,35384.95,0.0,29707.21,125148.06,154855.27,2023
+942,Rosa Hernandez,Custodian,Public Works,Female,42,Associate,21,2004,FT,Yes,No,3,9,13.3,78980.64,0.0,0.0,22831.3,78980.64,101811.94,2025
+943,James Tran,Nursing Assistant,Public Health,Male,56,High School,10,2013,FT,Yes,No,3,6,4.1,76895.88,0.0,0.0,24377.26,76895.88,101273.14,2023
+944,Brian Anderson,Parking Control Officer,Transportation,Male,30,Bachelor,12,2012,FT,Yes,No,3,6,3.0,61310.65,0.0,0.0,21531.81,61310.65,82842.46,2024
+945,Eric Thomas,Gardener,Recreation & Parks,Male,37,Associate,10,2012,FT,Yes,No,4,3,16.7,71669.74,12219.22,0.0,23051.08,83888.96,106940.04,2022
+946,Luis Patel,Library Technician,Library,Male,44,Associate,4,2020,FT,No,No,4,3,4.1,62374.84,0.0,0.0,19974.9,62374.84,82349.74,2024
+947,Mary Williams,Firefighter,Fire,Female,32,Associate,0,2022,FT,Yes,No,4,7,18.4,99821.02,19093.17,11343.79,33073.98,130257.98,163331.96,2022
+948,Steven Patel,Registered Nurse,Public Health,Male,40,High School,4,2020,FT,Yes,No,3,7,13.3,108727.27,23712.37,0.0,35472.73,132439.64,167912.37,2024
+949,Andre Martin,FIRE CAPTAIN,Fire,Male,56,Bachelor,16,2006,FT,Yes,No,3,10,10.0,241620.39,43462.96,20831.91,83650.13,305915.26,389565.39,2022
+950,Priya Wilson,Police Officer,Police,Female,63,Master,21,2003,FT,Yes,No,3,8,3.3,173479.1,14782.11,7487.76,55751.03,195748.97,251500.0,2024
+951,Tuan Jackson,Police Officer,Police,Male,42,Bachelor,9,2013,FT,No,No,3,5,14.2,143578.81,5486.47,0.0,,149065.28,191747.93,2022
+952,Jose Hall,Fire Captain,Fire,Male,46,High School,9,2013,FT,Yes,No,3,13,8.1,166450.87,14255.26,582.58,49612.72,181288.71,230901.43,2022
+953,Anthony Smith,Police Officer,Police,Male,,Bachelor,9,2015,FT,No,No,3,15,8.6,125124.46,36128.32,0.0,,161252.78,204380.17,2024
+954,Angela Miller,NURSING ASSISTANT,Public Health,Female,43,High School,12,2010,FT,Yes,No,5,6,21.8,67704.97,0.0,7182.83,24005.98,74887.8,98893.78,2022
+955,James Young,Firefighter,Fire,Male,22,Bachelor,1,2023,FT,Yes,No,3,6,21.1,126286.75,32315.97,0.0,38471.27,158602.72,197073.99,2024
+956,Hannah Thomas,Custodian,Public Works,Female,28,Bachelor,1,2023,FT,Yes,No,4,6,20.9,51266.09,10056.87,0.0,17139.75,61322.96,78462.71,2024
+957,Tanya Rodriguez,DEPUTY SHERIFF,Sheriff,Female,50,Associate,17,2007,FT,Yes,No,3,3,2.1,123612.56,21488.82,6515.76,35691.59,151617.14,187308.73,2024
+958,Raj Davis,Transit Operator,Transportation,Male,44,Associate,8,2017,PT,Yes,No,4,7,18.3,30850.93,3109.78,0.0,4408.34,33960.71,38369.05,2025
+959,Maria Taylor,Gardener,Recreation & Parks,Female,56,Bachelor,17,2007,FT,Yes,No,2,9,13.7,68057.2,11611.36,0.0,19225.65,79668.56,98894.21,2024
+960,David Rodriguez,Nursing Assistant,Public Health,Male,22,High School,3,2022,FT,Yes,No,3,11,7.1,55486.57,1682.84,2644.33,18089.38,59813.74,77903.12,2025
+961,Jose Wright,TRANSIT OPERATOR,Transportation,Male,40,Bachelor,3,2019,PT,No,No,5,8,3.1,35365.49,15049.08,0.0,3206.18,50414.57,53620.75,2022
+962,Sofia Garcia,Clerk,Administrative Services,Female,31,High School,0,2023,FT,Yes,Yes,3,7,13.0,58771.21,0.0,0.0,19413.45,58771.21,78184.66,2023
+963,Grace Scott,Recreation Leader,Recreation & Parks,Female,56,Bachelor,4,2019,FT,Yes,No,3,10,1.5,42118.62,0.0,0.0,14754.2,42118.62,56872.82,2023
+964,Lisa Miller,IT Operations Support Admin,Technology,Female,35,Doctorate,11,2012,FT,Yes,Yes,5,8,5.2,170869.42,67347.51,0.0,55298.97,238216.93,293515.9,2023
+965,William Smith,Police Officer,Police,Male,36,Associate,2,2023,FT,Yes,No,3,7,5.7,127548.26,16895.93,0.0,39825.24,144444.19,184269.43,2025
+966,Priya Martinez,Transit Operator,Transportation,Female,50,Bachelor,17,2006,PT,No,No,4,11,11.5,47156.38,6102.88,0.0,4206.66,53259.26,57465.92,2023
+967,Brian Johnson,Clerk,Administrative Services,Nonbinary,56,High School,14,2008,FT,Yes,Yes,3,10,21.9,64471.1,0.0,0.0,19025.87,64471.1,83496.97,2022
+968,Patricia Nguyen,Transit Operator,Transportation,Female,52,,6,2017,FT,Yes,No,1,9,2.8,69021.27,13151.34,0.0,20215.74,82172.61,102388.35,2023
+969,Robert Patel,Gardener,Recreation & Parks,Male,45,High School,18,2006,PT,Yes,No,3,8,5.6,42614.69,0.0,2575.2,,45189.89,50087.21,2024
+970,John Walker,Library Technician,Library,Male,50,Bachelor,22,2002,FT,Yes,No,3,5,5.7,86760.19,0.0,19171.12,26496.66,105931.31,132427.97,2024
+971,Rosa Hall,Deputy Sheriff,Sheriff,Female,45,Associate,3,2020,PT,Yes,No,3,8,4.8,66077.81,0.0,3080.84,3324.76,69158.65,72483.41,2023
+972,Raj Williams,IT Operations Support Admin,Technology,Male,68,Bachelor,19,2006,FT,Yes,No,5,8,4.2,142195.09,0.0,0.0,45013.54,142195.09,187208.63,2025
+973,John Rodriguez,Librarian,Library,Male,42,High School,8,2016,FT,Yes,No,4,3,11.4,94481.05,0.0,0.0,28138.88,94481.05,122619.93,2024
+974,Brian Lee,Clerk,Administrative Services,Male,35,,3,2020,FT,Yes,Yes,4,7,3.9,76091.04,0.0,0.0,23419.05,76091.04,99510.09,2023
+975,Maria Young,Police Officer,Police,Nonbinary,54,Master,9,2015,FT,Yes,No,3,15,30.2,119974.66,45027.61,0.0,42134.07,165002.27,207136.34,2024
+976,Rosa Jackson,Transit Operator,Transportation,Female,49,Associate,15,2007,FT,Yes,No,4,11,6.4,82364.72,8088.53,0.0,27553.23,90453.25,118006.48,2022
+977,Sofia Chen,Transit Operator,Transportation,Female,41,Bachelor,6,2017,FT,Yes,No,2,4,7.4,83725.22,21749.93,2756.75,25744.98,108231.9,133976.88,2023
+978,David Lewis,Police Officer,Police,Male,42,Bachelor,11,2012,FT,Yes,No,3,8,11.4,121928.64,36802.6,0.0,43861.09,158731.24,202592.33,2023
+979,Tuan Anderson,IT Operations Support Admin,Technology,Male,41,Bachelor,15,2010,FT,Yes,Yes,3,8,6.4,145266.62,0.0,0.0,42287.5,145266.62,187554.12,2025
+980,Grace Hall,Fire Captain,Fire,Female,38,Bachelor,5,2017,FT,No,No,2,7,20.9,171387.15,20931.64,9254.2,56028.57,201572.99,257601.56,2022
+981,Mei Jones,Nursing Assistant,Public Health,Female,38,Associate,10,2012,FT,Yes,No,5,4,5.7,68266.66,18433.06,0.0,21235.81,86699.72,107935.53,2022
+982,Sofia Johnson,Deputy Sheriff,Sheriff,Female,28,Bachelor,2,2022,FT,Yes,No,5,9,5.8,90549.07,5017.41,0.0,29699.31,95566.48,125265.79,2024
+983,Tanya Moore,Senior Data Analyst,Technology,Female,43,Master,16,2006,FT,Yes,Yes,1,6,6.4,204401.46,0.0,0.0,62330.53,204401.46,266731.99,2022
+984,John Lopez,Registered Nurse,Public Health,Male,,Bachelor,16,2006,FT,Yes,No,2,7,10.7,174786.27,40631.74,0.0,55610.22,215418.01,271028.23,2022
+985,Mei Davis,Department Head,Administrative Services,Female,44,Bachelor,15,2007,FT,No,Yes,3,7,11.2,351944.18,0.0,0.0,118805.23,351944.18,470749.41,2022
+986,James Chen,Police Officer,Police,Male,44,Master,12,2012,PT,Yes,No,3,11,9.2,54207.93,5649.4,0.0,7113.31,59857.33,66970.64,2024
+987,Angela Lopez,Deputy Sheriff,Sheriff,Female,53,Bachelor,17,2007,PT,Yes,No,4,8,13.2,45789.09,563.64,2368.58,3810.18,48721.31,52531.49,2024
+988,Anthony Tran,Firefighter,Fire,Male,55,Bachelor,13,2012,FT,Yes,No,3,7,6.4,153518.0,5967.55,5464.21,45760.99,164949.76,210710.75,2025
+989,Maria Garcia,Clerk,Administrative Services,Female,40,,19,2005,FT,Yes,Yes,2,3,21.4,70203.92,0.0,0.0,21429.22,70203.92,91633.14,2024
+990,Robert Chen,Deputy Sheriff,Sheriff,Male,58,Master,10,2012,FT,No,No,3,11,6.9,147121.69,0.0,0.0,49694.87,147121.69,196816.56,2022
+991,Michael Young,Parking Control Officer,Transportation,Male,30,Bachelor,3,2019,FT,Yes,No,5,7,15.2,62683.24,4883.8,0.0,19677.6,67567.04,87244.64,2022
+992,Aisha Martinez,Librarian,Library,Nonbinary,41,Bachelor,20,2004,FT,Yes,No,3,6,14.2,121938.72,0.0,0.0,37554.06,121938.72,159492.78,2024
+993,Karen Lewis,Police Officer,Police,Female,31,High School,2,2022,FT,No,No,5,8,21.4,114560.03,25665.7,3219.61,38638.31,143445.34,182083.65,2024
+994,Tanya Davis,Deputy Sheriff,Sheriff,Female,43,Bachelor,12,2011,FT,Yes,No,4,6,7.5,104821.05,3351.19,0.0,29475.15,108172.24,137647.39,2023
+995,Maria Jackson,REGISTERED NURSE,Public Health,Female,57,Master,10,2014,FT,No,No,4,5,11.2,169706.1,0.0,974.47,52621.99,170680.57,223302.56,2024
+996,David Smith,Fire Captain,Fire,Male,38,Master,20,2004,PT,Yes,No,4,4,14.3,95592.71,0.0,23704.15,11700.76,119296.86,130997.62,2024
+997,Nicole Moore,Clerk,Administrative Services,Female,44,High School,2,2023,FT,Yes,No,5,4,20.4,64735.34,0.0,0.0,22007.36,64735.34,86742.7,2025
+998,Maria Young,Nursing Assistant,Public Health,Female,32,Master,0,2024,FT,Yes,No,3,10,5.0,81448.53,0.0,0.0,27373.79,81448.53,108822.32,2024
+999,Karen Rodriguez,Parking Control Officer,Transportation,Female,25,Bachelor,7,2015,FT,Yes,No,4,9,6.6,72560.93,12267.63,0.0,24756.19,84828.56,109584.75,2022
+1000,Susan Jackson,Accountant,Controller,Female,54,Bachelor,8,2014,PT,Yes,Yes,2,3,19.5,51552.13,0.0,0.0,3690.62,51552.13,55242.75,2022
+1001,Priya Chen,Senior Data Analyst,Technology,Female,62,Bachelor,19,2004,FT,Yes,Yes,4,6,24.0,144878.55,0.0,0.0,45572.5,144878.55,190451.05,2023
+1002,Rosa Wilson,Firefighter,Fire,Female,42,Master,16,2006,FT,Yes,No,3,11,18.1,160205.6,46851.31,4092.45,50443.63,211149.36,261592.99,2022
+1003,Robert Jackson,LIBRARY TECHNICIAN,Library,Male,56,Bachelor,17,2006,FT,Yes,No,3,2,5.8,86662.56,0.0,0.0,24691.73,86662.56,111354.29,2023
+1004,Jose Tran,Police Officer,Police,Male,,Master,13,2010,FT,No,No,2,9,4.4,128612.75,12988.55,0.0,42431.39,141601.3,184032.69,2023
+1005,Tanya Lewis,GARDENER,Recreation & Parks,Female,31,Master,8,2016,FT,Yes,No,4,8,9.0,72869.2,0.0,0.0,,72869.2,96914.56,2024
+1006,Marcus Jones,Police Officer,Police,Male,23,High School,5,2019,FT,Yes,No,5,10,16.1,112026.11,36256.74,360.38,36715.23,148643.23,185358.46,2024
+1007,Anthony Garcia,Transit Operator,Transportation,Male,46,High School,12,2013,FT,Yes,No,3,8,19.4,75235.56,0.0,0.0,23319.14,75235.56,98554.7,2025
+1008,William Johnson,Gardener,Recreation & Parks,Male,64,Bachelor,16,2007,PT,Yes,No,3,6,14.9,33278.94,0.0,1860.31,3975.09,35139.25,39114.34,2023
+1009,David Martin,Police Officer,Police,Male,43,Master,14,2011,FT,Yes,No,3,7,8.3,148963.89,82459.79,0.0,53171.22,231423.68,284594.9,2025
+1010,Rosa Jones,Sergeant,Police,Female,37,High School,0,2022,FT,Yes,No,5,9,8.0,131688.25,26391.58,0.0,38983.44,158079.83,197063.27,2022
+1011,Nicole Lopez,IT Operations Support Admin,Technology,Female,48,High School,9,2013,PT,Yes,No,4,8,16.5,60688.56,0.0,0.0,4256.8,60688.56,64945.36,2022
+1012,Jose Lee,Firefighter,Fire,Male,46,Associate,0,2023,FT,No,No,5,8,14.6,108180.91,16906.18,888.9,33390.58,125975.99,159366.57,2023
+1013,Aisha Miller,Transit Operator,Transportation,Female,40,Bachelor,15,2010,FT,No,No,2,7,4.8,68287.05,7118.33,0.0,20655.15,75405.38,96060.53,2025
+1014,Luis Martin,Registered Nurse,Public Health,Male,43,High School,10,2014,FT,No,No,3,11,5.0,131494.99,0.0,309.98,44043.98,131804.97,175848.95,2024
+1015,Aisha Lee,Parking Control Officer,Transportation,Female,58,High School,17,2005,FT,Yes,No,5,7,18.1,88607.58,22694.57,0.0,30434.63,111302.15,141736.78,2022
+1016,Emily Wong,Gardener,Recreation & Parks,Female,41,Associate,9,2015,FT,Yes,No,3,5,11.2,81089.15,0.0,7202.57,25256.03,88291.72,113547.75,2024
+1017,Grace Hall,Library Technician,Library,Female,31,Bachelor,5,2017,FT,Yes,No,3,4,3.4,68595.36,0.0,0.0,20733.15,68595.36,89328.51,2022
+1018,Tuan Garcia,Clerk,Administrative Services,Male,38,Bachelor,8,2014,FT,Yes,Yes,5,8,23.3,64648.9,0.0,0.0,19154.74,64648.9,83803.64,2022
+1019,William Wilson,Sergeant,Police,Male,39,Associate,2,2022,PT,No,No,5,6,9.5,72193.64,17735.56,1113.42,8928.56,91042.62,99971.18,2024
+1020,Wei Miller,Transit Operator,Transportation,Male,48,Bachelor,9,2013,FT,Yes,No,3,13,10.9,65991.39,23319.38,0.0,23636.63,89310.77,112947.4,2022
+1021,Tanya Lewis,Senior Data Analyst,Technology,Female,48,Associate,15,2007,FT,Yes,Yes,5,6,3.0,151317.75,0.0,0.0,54288.79,151317.75,205606.54,2022
+1022,Robert Hernandez,Transit Operator,Transportation,Male,58,Master,19,2005,FT,Yes,No,4,9,6.4,72704.28,16479.12,0.0,20851.45,89183.4,110034.85,2024
+1023,Daniel Miller,Nursing Assistant,Public Health,Male,25,Bachelor,0,2023,FT,Yes,No,2,4,7.0,73708.05,16046.03,4983.41,25656.51,94737.49,120394.0,2023
+1024,Anthony Tran,IT Operations Support Admin,Technology,Male,46,Associate,12,2010,FT,Yes,No,3,5,3.9,113956.85,0.0,0.0,39002.64,113956.85,152959.49,2022
+1025,Michael Jones,Registered Nurse,Public Health,Male,52,High School,8,2016,FT,Yes,No,4,8,15.5,137119.7,11015.05,4641.58,47470.13,152776.33,200246.46,2024
+1026,Mary Lopez,Clerk,Administrative Services,Female,39,Associate,4,2019,FT,Yes,Yes,3,10,3.8,63548.53,0.0,0.0,19260.38,63548.53,82808.91,2023
+1027,Andre Rodriguez,Deputy Sheriff,Sheriff,Male,19,High School,0,2023,PT,Yes,No,5,9,7.9,39604.33,14576.4,0.0,5300.23,54180.73,59480.96,2023
+1028,Susan Wilson,Sergeant,Police,Female,47,High School,12,2010,PT,Yes,No,3,14,7.0,64975.04,44060.15,568.2,8591.37,109603.39,118194.76,2022
+1029,Karen Jones,Library Technician,Library,Female,30,Associate,2,2022,PT,Yes,No,4,5,4.4,28440.09,0.0,0.0,1847.66,28440.09,30287.75,2024
+1030,Kevin Clark,Librarian,Library,Male,32,High School,4,2020,FT,Yes,No,3,4,7.9,95068.73,0.0,0.0,32657.43,95068.73,127726.16,2024
+1031,Daniel Lewis,Police Officer,Police,Male,59,Bachelor,21,2004,FT,No,No,3,9,12.0,159819.46,23124.03,5207.26,55723.97,188150.75,243874.72,2025
+1032,Kevin Hernandez,Transit Operator,Transportation,Male,49,Associate,10,2012,FT,Yes,No,3,11,6.0,108258.58,12323.46,0.0,32437.36,120582.04,153019.4,2022
+1033,Wei Young,Transit Operator,Transportation,Male,45,Bachelor,2,2022,FT,Yes,No,3,18,4.3,73632.47,28665.84,519.67,26134.37,102817.98,128952.35,2024
+1034,Eric Kim,ELECTRICIAN,Public Works,Male,25,High School,7,2015,FT,Yes,No,4,6,4.9,164878.07,62419.9,0.0,53294.88,227297.97,280592.85,2022
+1035,Jennifer Smith,TRANSIT OPERATOR,Transportation,Female,47,Doctorate,6,2016,FT,Yes,No,2,9,11.6,93609.6,20949.6,0.0,32221.52,114559.2,146780.72,2022
+1036,Robert Lopez,Sergeant,Police,Male,47,High School,19,2005,FT,Yes,No,3,12,10.9,186868.76,91499.74,0.0,61028.46,278368.5,339396.96,2024
+1037,Hannah Brown,Deputy Sheriff,Sheriff,Female,57,,17,2005,FT,Yes,No,5,7,14.4,124362.85,33715.19,0.0,41572.4,158078.04,199650.44,2022
+1038,Jennifer Wright,Transit Operator,Transportation,Female,46,Bachelor,22,2001,FT,No,No,4,9,8.9,87069.04,25595.18,0.0,30072.88,112664.22,142737.1,2023
+1039,Laura Jones,Electrician,Public Works,Female,41,Master,10,2015,FT,Yes,No,4,7,5.9,139059.71,42059.96,9876.8,46889.19,190996.47,237885.66,2025
+1040,Eric Nguyen,Clerk,Administrative Services,Male,21,High School,0,2023,PT,Yes,Yes,4,10,29.5,25236.78,0.0,510.81,3009.42,25747.59,28757.01,2023
+1041,Maria Hernandez,Nursing Assistant,Public Health,Female,54,Bachelor,11,2011,FT,Yes,No,5,6,10.7,59557.19,0.0,7344.97,17433.43,66902.16,84335.59,2022
+1042,Emily Wong,Gardener,Recreation & Parks,Female,,Bachelor,6,2017,FT,Yes,No,4,7,5.5,52424.95,13184.04,0.0,14747.72,65608.99,80356.71,2023
+1043,David Taylor,Custodian,Public Works,Male,41,Bachelor,7,2016,FT,Yes,No,4,3,31.7,72236.99,16786.0,0.0,22810.7,89022.99,111833.69,2023
+1044,Michael Williams,Transit Operator,Transportation,Male,31,Bachelor,0,2025,FT,Yes,No,4,15,15.4,86915.91,0.0,6152.27,25843.31,93068.18,118911.49,2025
+1045,Raj Hernandez,Clerk,Administrative Services,Male,20,Bachelor,0,2024,FT,No,Yes,4,8,7.6,53909.61,0.0,0.0,16406.55,53909.61,70316.16,2024
+1046,Kevin Garcia,Registered Nurse,Public Health,Male,44,Bachelor,8,2017,FT,Yes,No,3,7,3.1,157221.79,44928.25,0.0,51772.73,202150.04,253922.77,2025
+1047,Tuan Garcia,Police Officer,Police,Male,28,High School,3,2022,FT,Yes,No,3,3,7.4,131237.63,30706.98,2230.78,45663.18,164175.39,209838.57,2025
+1048,Priya Garcia,Recreation Leader,Recreation & Parks,Female,46,High School,10,2012,FT,Yes,No,3,5,8.9,46678.05,0.0,0.0,16141.67,46678.05,62819.72,2022
+1049,Kevin Williams,Transit Operator,Transportation,Male,31,Bachelor,3,2020,FT,Yes,No,3,9,18.4,89124.51,23542.86,3244.68,27054.98,115912.05,142967.03,2023
+1050,Emily Wong,Registered Nurse,Public Health,Female,63,Master,17,2007,FT,No,No,4,6,5.4,167155.03,87646.18,0.0,54762.41,254801.21,309563.62,2024
+1051,Kevin Anderson,Clerk,Administrative Services,Male,37,Bachelor,14,2008,FT,Yes,Yes,4,8,13.9,57881.09,0.0,0.0,20471.25,57881.09,78352.34,2022
+1052,Steven Allen,Sergeant,Police,Male,43,High School,6,2019,FT,Yes,No,4,10,10.1,157406.36,0.0,0.0,47171.27,157406.36,204577.63,2025
+1053,Priya Young,Deputy Sheriff,Sheriff,Female,36,Bachelor,6,2016,FT,Yes,No,3,13,4.2,117285.89,32910.99,11379.97,40059.16,161576.85,201636.01,2022
+1054,Susan Tran,IT Operations Support Admin,Technology,Female,70,Master,17,2005,FT,Yes,No,4,7,16.4,148895.55,0.0,0.0,42256.34,148895.55,191151.89,2022
+1055,Rosa Gonzalez,Firefighter,Fire,Female,55,Associate,26,1996,FT,Yes,No,4,12,6.3,175013.57,29977.63,5586.09,52807.73,210577.29,263385.02,2022
+1056,Jennifer Nguyen,Electrician,Public Works,Female,38,Associate,0,2022,FT,Yes,No,4,3,12.2,124615.5,13571.29,125.14,37927.75,138311.93,176239.68,2022
+1057,Angela Wong,Police Officer,Police,Female,47,Bachelor,16,2009,FT,Yes,No,3,11,7.8,158934.71,41677.54,0.0,53930.22,200612.25,254542.47,2025
+1058,Marcus Garcia,Sergeant,Police,Male,29,Bachelor,11,2011,FT,Yes,No,4,9,15.7,176253.17,18591.08,20702.3,61280.41,215546.55,276826.96,2022
+1059,Brian Martin,Senior Data Analyst,Technology,Male,47,Bachelor,11,2014,FT,Yes,Yes,2,6,6.3,140386.62,0.0,0.0,42573.71,140386.62,182960.33,2025
+1060,David Kim,Transit Operator,Transportation,Male,47,Bachelor,14,2008,PT,Yes,No,3,6,16.8,0.0,39867.69,747.3,3462.58,98405.92,101868.5,2022
+1061,Andre Davis,Police Officer,Police,Male,44,Associate,0,2025,FT,No,No,5,9,5.9,112524.4,26572.8,3855.61,40181.63,142952.81,183134.44,2025
+1062,Patricia Williams,Firefighter,Fire,Female,42,Associate,9,2014,FT,Yes,No,3,9,8.5,154952.11,47890.9,2170.5,54717.14,205013.51,259730.65,2023
+1063,Michael Walker,RECREATION LEADER,Recreation & Parks,Male,62,Bachelor,14,2009,FT,Yes,No,3,5,8.3,46265.56,0.0,0.0,13115.76,46265.56,59381.32,2023
+1064,Patricia Moore,SERGEANT,Police,Female,42,Master,17,2006,FT,Yes,No,3,9,5.5,181226.1,25311.08,8409.62,56389.51,214946.8,271336.31,2023
+1065,Karen Smith,Nursing Assistant,Public Health,Female,43,Associate,11,2014,FT,Yes,No,1,9,8.3,64478.97,22207.23,0.0,21791.39,86686.2,108477.59,2025
+1066,Raj Allen,Police Officer,Police,Male,40,High School,4,2019,PT,Yes,No,3,6,8.8,62349.23,0.0,4763.43,5073.37,67112.66,72186.03,2023
+1067,Karen Chen,Police Officer,Police,Female,42,Master,0,2023,PT,Yes,No,4,9,10.8,52494.42,4057.7,0.0,6895.97,56552.12,63448.09,2023
+1068,Sofia Thomas,Nursing Assistant,Public Health,Female,34,Bachelor,10,2013,FT,No,No,2,6,5.3,95091.29,22333.74,0.0,32145.74,117425.03,149570.77,2023
+1069,Raj Wright,Nursing Assistant,Public Health,Male,,Bachelor,5,2018,PT,No,No,2,8,11.5,36503.88,10990.69,4098.68,5170.39,51593.25,56763.64,2023
+1070,Lisa Nguyen,Transit Operator,Transportation,Female,47,High School,9,2016,FT,Yes,No,5,8,14.0,64206.22,2589.35,0.0,21149.52,66795.57,87945.09,2025
+1071,Luis Hall,Transit Operator,Transportation,Male,34,High School,6,2016,FT,Yes,No,4,7,13.0,72438.11,15914.03,0.0,24023.7,88352.14,112375.84,2022
+1072,Mary Jones,Custodian,Public Works,Female,51,Bachelor,8,2017,FT,Yes,No,3,6,18.9,60336.68,24762.97,0.0,20285.88,85099.65,105385.53,2025
+1073,Daniel Smith,Accountant,Controller,Male,43,Bachelor,12,2010,PT,Yes,Yes,4,8,10.0,61024.62,7160.6,0.0,5848.45,68185.22,74033.67,2022
+1074,Aisha Rodriguez,Electrician,Public Works,Female,32,High School,6,2017,FT,Yes,No,5,5,5.7,116955.73,78675.56,4931.62,35962.91,200562.91,236525.82,2023
+1075,Luis Smith,IT Operations Support Admin,Technology,Male,46,Master,6,2016,FT,Yes,Yes,4,10,7.1,122665.17,0.0,0.0,35693.5,122665.17,158358.67,2022
+1076,Michael Jones,Police Officer,Police,Male,45,High School,14,2008,FT,Yes,No,3,12,6.1,133707.08,0.0,1733.99,42813.1,135441.07,178254.17,2022
+1077,Robert Young,Accountant,Controller,Male,35,High School,4,2020,FT,Yes,Yes,5,5,29.6,101725.07,0.0,0.0,34823.53,101725.07,136548.6,2024
+1078,Susan Martinez,Parking Control Officer,Transportation,Female,38,Bachelor,13,2010,FT,Yes,No,5,7,5.1,77475.57,9458.76,0.0,24919.62,86934.33,111853.95,2023
+1079,Andre Hernandez,Library Technician,Library,M,40,Associate,10,2014,FT,Yes,No,3,5,12.0,71708.03,0.0,0.0,21402.56,71708.03,93110.59,2024
+1080,John Jackson,Fire Captain,Fire,Male,55,Bachelor,11,2011,FT,Yes,No,4,7,6.6,175442.64,22547.48,15297.9,59418.76,213288.02,272706.78,2022
+1081,Hannah Davis,Transit Operator,Transportation,Female,31,Bachelor,9,2016,FT,Yes,No,3,14,4.7,86225.06,9768.93,0.0,29994.42,95993.99,125988.41,2025
+1082,Jose Walker,Firefighter,Fire,Male,38,Master,4,2021,FT,No,No,3,8,13.7,148905.6,38456.99,10452.24,47713.47,197814.83,245528.3,2025
+1083,Eric Rodriguez,Deputy Sheriff,Sheriff,Male,37,Master,3,2022,PT,No,No,3,6,13.1,55536.47,17627.23,0.0,4445.58,73163.7,77609.28,2025
+1084,Grace Moore,Senior Data Analyst,Technology,Female,70,Bachelor,16,2007,PT,Yes,No,4,6,1.8,65332.26,0.0,0.0,7666.35,65332.26,72998.61,2023
+1085,Anthony Anderson,NURSING ASSISTANT,Public Health,Male,33,Associate,6,2019,FT,Yes,No,4,6,6.2,74254.4,0.0,13969.09,22033.55,88223.49,110257.04,2025
+1086,Priya Lopez,Nursing Assistant,Public Health,Female,58,Master,20,2004,FT,Yes,No,3,5,3.8,102399.25,15044.68,0.0,31206.46,117443.93,148650.39,2024
+1087,Brian Garcia,Transit Operator,Transportation,Male,33,Master,5,2019,FT,Yes,No,3,15,,73619.11,9282.38,5968.01,25291.57,88869.5,114161.07,2024
+1088,James Tran,Police Officer,Police,Male,29,Bachelor,4,2020,FT,No,No,3,2,4.1,131321.45,36808.01,0.0,46400.39,168129.46,214529.85,2024
+1089,Linda Williams,Transit Operator,Transportation,Female,45,High School,7,2018,FT,Yes,No,5,6,8.3,79059.61,11542.3,0.0,23782.02,90601.91,114383.93,2025
+1090,Steven Lewis,Electrician,Public Works,Male,42,Master,16,2008,FT,Yes,No,4,2,21.5,179153.56,12467.23,28957.72,52454.19,220578.51,273032.7,2024
+1091,James Wilson,Police Officer,Police,Male,29,Bachelor,11,2011,FT,Yes,No,4,12,3.2,160631.81,25153.38,45964.39,47546.49,231749.58,279296.07,2022
+1092,Wei Hernandez,Firefighter,Fire,Male,27,Bachelor,0,2023,FT,Yes,No,3,9,,139575.04,67951.72,16663.8,49291.5,224190.56,273482.06,2023
+1093,John Miller,Custodian,Public Works,Male,42,Bachelor,14,2010,FT,Yes,No,3,8,15.2,61833.57,55198.42,0.0,20438.72,117031.99,137470.71,2024
+1094,Brian Nguyen,Firefighter,Fire,Male,58,Master,25,1997,FT,No,No,3,10,5.2,188174.49,54285.77,12405.59,53500.03,254865.85,308365.88,2022
+1095,Tuan Brown,Registered Nurse,Public Health,Male,62,Associate,7,2016,FT,Yes,No,3,12,11.8,107066.73,70340.63,13544.09,35430.18,190951.45,226381.63,2023
+1096,Brian Clark,CUSTODIAN,Public Works,Male,55,Master,21,2003,FT,Yes,No,3,8,8.0,85064.49,902.76,0.0,26881.67,85967.25,112848.92,2024
+1097,Anthony Wong,Police Officer,Police,Male,36,High School,7,2015,FT,Yes,No,3,6,34.7,108570.11,12459.67,7149.82,32169.5,128179.6,160349.1,2022
+1098,William Garcia,Transit Operator,Transportation,Male,54,High School,25,1998,FT,Yes,No,4,14,22.0,81396.04,5433.18,3246.27,22912.99,90075.49,112988.48,2023
+1099,Karen Lewis,Registered Nurse,Public Health,Female,47,Doctorate,10,2014,PT,Yes,No,5,3,7.8,72527.32,0.0,0.0,6570.73,72527.32,79098.05,2024
+1100,Kevin Wilson,Police Officer,Police,Male,30,Bachelor,9,2015,PT,Yes,No,3,6,6.5,85725.18,0.0,2220.9,4546.8,87946.08,92492.88,2024
+1101,Patricia Nguyen,Sergeant,Police,Female,55,Bachelor,20,2002,FT,Yes,No,4,9,23.5,199679.17,0.0,0.0,57330.74,199679.17,257009.91,2022
+1102,Robert Walker,Transit Operator,Transportation,Male,55,Bachelor,13,2010,FT,Yes,No,3,15,4.9,105375.08,6024.76,0.0,,111399.84,144421.8,2023
+1103,Linda Miller,Nursing Assistant,Public Health,Female,49,Bachelor,9,2013,FT,Yes,No,3,8,5.3,80801.49,10448.82,8006.23,25039.33,99256.54,124295.87,2022
+1104,Emily Brown,Registered Nurse,Public Health,Female,63,Associate,19,2006,FT,Yes,No,3,3,2.4,139998.9,0.0,0.0,39804.19,139998.9,179803.09,2025
+1105,Michael Scott,Transit Operator,Transportation,Male,,High School,7,2016,FT,Yes,No,4,4,12.0,74060.71,30407.16,2294.34,25965.23,106762.21,132727.44,2023
+1106,Wei Gonzalez,Gardener,Recreation & Parks,Male,25,Associate,7,2018,PT,Yes,No,5,7,3.0,25600.96,0.0,545.27,1548.22,26146.23,27694.45,2025
+1107,Luis Lee,Transit Operator,Transportation,Male,51,Bachelor,4,2018,FT,Yes,No,3,21,28.9,78858.86,6466.23,130.34,26397.57,85455.43,111853.0,2022
+1108,Emily Lewis,Firefighter,Fire,Female,57,High School,15,2009,FT,Yes,No,4,13,5.4,125969.8,51461.13,3074.14,39397.31,180505.07,219902.38,2024
+1109,Robert Gonzalez,Police Officer,Police,Male,45,Master,4,2021,FT,Yes,No,4,10,7.0,108070.77,44853.25,0.0,35563.15,152924.02,188487.17,2025
+1110,Wei Jones,Registered Nurse,Public Health,Male,39,Master,6,2016,FT,No,No,3,5,14.2,176746.9,37367.83,0.0,53195.57,214114.73,267310.3,2022
+1111,Mary Miller,Firefighter,Fire,Female,48,High School,15,2010,FT,Yes,No,4,11,9.1,138638.99,15568.53,4069.26,39917.73,158276.78,198194.51,2025
+1112,Carlos Hernandez,Electrician,Public Works,Male,48,Bachelor,24,2000,FT,Yes,No,3,8,11.6,129444.61,58245.66,0.0,45894.06,187690.27,233584.33,2024
+1113,Angela Lopez,Firefighter,Fire,Female,27,Master,6,2017,FT,No,No,4,4,27.4,139772.62,36690.31,12000.45,45710.16,188463.38,234173.54,2023
+1114,Michael Rodriguez,Librarian,Library,Male,39,Bachelor,11,2012,FT,Yes,No,2,3,14.5,107138.13,0.0,0.0,35197.59,107138.13,142335.72,2023
+1115,Lisa Lee,Department Head,Administrative Services,Female,27,High School,0,2023,FT,No,No,4,7,7.9,288563.03,0.0,0.0,82232.13,288563.03,370795.16,2023
+1116,Lisa Anderson,Transit Operator,Transportation,Female,64,Bachelor,14,2010,FT,No,No,4,6,22.4,101376.27,43687.1,0.0,32121.42,145063.37,177184.79,2024
+1117,Raj Scott,Deputy Sheriff,Sheriff,Male,57,Bachelor,6,2018,PT,Yes,No,4,12,7.4,45751.86,12763.38,0.0,5136.52,58515.24,63651.76,2024
+1118,Carlos Davis,Deputy Sheriff,Sheriff,Male,34,Master,12,2012,FT,Yes,No,3,8,4.4,122797.22,0.0,7891.28,37011.4,130688.5,167699.9,2024
+1119,James Smith,Parking Control Officer,Transportation,Male,40,Master,6,2019,FT,No,No,2,5,2.4,87426.52,0.0,0.0,24495.44,87426.52,111921.96,2025
+1120,Kevin Martin,Transit Operator,Transportation,Male,45,High School,10,2015,FT,No,No,5,9,6.5,75050.09,0.0,4149.78,21905.74,79199.87,101105.61,2025
+1121,Kevin Martin,Police Officer,Police,Male,51,Associate,13,2010,FT,No,No,3,1,3.5,128980.96,2917.94,0.0,,131898.9,174747.57,2023
+1122,Grace Moore,Clerk,Administrative Services,Female,22,Master,0,2024,FT,Yes,Yes,3,5,5.1,60147.8,0.0,0.0,19426.16,60147.8,79573.96,2024
+1123,Mei Nguyen,Recreation Leader,Recreation & Parks,Female,39,Associate,14,2008,FT,Yes,No,3,5,7.5,36791.32,0.0,0.0,11420.35,36791.32,48211.67,2022
+1124,Patricia Chen,Registered Nurse,Public Health,Female,46,Master,7,2017,FT,Yes,No,4,3,21.4,197055.28,33677.85,0.0,68493.0,230733.13,299226.13,2024
+1125,James Brown,Sergeant,Police,Male,55,Bachelor,19,2006,FT,Yes,No,3,8,6.6,146678.37,64182.2,19152.47,48225.27,230013.04,278238.31,2025
+1126,Susan Taylor,Senior Data Analyst,Technology,Female,49,Bachelor,9,2013,FT,Yes,Yes,4,5,4.5,178570.76,0.0,0.0,60626.51,178570.76,239197.27,2022
+1127,Robert Lewis,Librarian,Library,Male,44,Associate,11,2012,FT,No,No,4,5,12.2,89082.92,0.0,14065.54,25312.25,103148.46,128460.71,2023
+1128,Kevin Johnson,Custodian,Public Works,Male,32,High School,7,2016,FT,Yes,No,4,2,9.4,58811.16,1163.32,0.0,18894.04,59974.48,78868.52,2023
+1129,Susan Scott,Librarian,Library,Female,27,High School,0,2023,FT,Yes,No,2,5,6.5,85666.95,0.0,0.0,26626.44,85666.95,112293.39,2023
+1130,Robert Patel,Police Officer,Police,Male,45,Bachelor,9,2013,FT,No,No,4,8,1.5,148010.67,72109.04,0.0,,220119.71,265381.67,2022
+1131,Angela Miller,Electrician,Public Works,F,59,Bachelor,13,2011,PT,Yes,No,3,5,6.2,81597.14,0.0,1159.33,8492.91,82756.47,91249.38,2024
+1132,John Kim,Registered Nurse,Public Health,Male,31,Master,7,2016,PT,No,No,3,7,24.5,86489.8,44268.4,0.0,11109.95,130758.2,141868.15,2023
+1133,Laura Moore,Recreation Leader,Recreation & Parks,Female,39,High School,7,2015,FT,No,No,5,6,20.9,34447.76,0.0,0.0,10194.4,34447.76,44642.16,2022
+1134,John Garcia,Sergeant,Police,Nonbinary,52,Bachelor,10,2013,FT,No,No,4,8,12.6,143479.23,27822.13,2544.17,50692.32,173845.53,224537.85,2023
+1135,Wei Walker,Firefighter,Fire,Male,,Associate,8,2016,FT,Yes,No,1,6,17.7,144101.2,30811.46,7460.2,44704.08,182372.86,227076.94,2024
+1136,Mei Martinez,Firefighter,Fire,Female,39,Master,11,2011,FT,No,No,1,7,3.5,145173.61,8254.95,5930.22,51372.81,159358.78,210731.59,2022
+1137,Luis Hall,Sergeant,Police,Male,41,High School,10,2015,PT,Yes,No,3,9,11.8,57661.75,3623.98,3275.53,8353.88,64561.26,72915.14,2025
+1138,Wei Chen,Registered Nurse,Public Health,Male,41,Associate,0,2022,FT,Yes,No,4,7,10.5,137374.4,40797.96,3682.87,41611.91,181855.23,223467.14,2022
+1139,Kevin Clark,Librarian,Library,Male,32,High School,4,2020,FT,Yes,No,3,4,7.9,95068.73,0.0,0.0,32657.43,95068.73,127726.16,2024
+1140,Sofia Martin,Clerk,Administrative Services,Female,32,Doctorate,10,2014,FT,No,Yes,3,9,3.2,75726.65,0.0,0.0,22132.16,75726.65,97858.81,2024
+1141,Brian Wright,Recreation Leader,Recreation & Parks,Male,47,High School,4,2019,FT,Yes,No,2,9,12.4,36211.67,5480.87,0.0,10363.67,41692.54,52056.21,2023
+1142,William Garcia,Police Officer,Police,Male,42,High School,13,2009,FT,Yes,No,4,11,4.2,137414.96,47035.17,0.0,45072.89,184450.13,229523.02,2022
+1143,Emily Taylor,Librarian,Library,Female,42,Bachelor,2,2020,FT,No,No,4,5,,117817.19,0.0,0.0,38394.45,117817.19,156211.64,2022
+1144,Brian Lewis,Fire Captain,Fire,Male,39,High School,0,2024,FT,Yes,No,4,8,2.7,174613.23,89297.65,15045.24,60856.15,278956.12,339812.27,2024
+1145,Robert Wright,Police Officer,Police,Male,39,Bachelor,1,2021,FT,No,No,4,11,16.6,113934.66,133483.43,0.0,32480.78,247418.09,279898.87,2022
+1146,Susan Scott,Sergeant,Police,Female,49,Bachelor,12,2012,FT,Yes,No,4,6,5.0,187450.41,40742.79,4054.22,62046.38,232247.42,294293.8,2024
+1147,Luis Gonzalez,Recreation Leader,Recreation & Parks,Male,42,Master,6,2019,FT,No,No,3,6,7.1,42687.79,0.0,0.0,12216.53,42687.79,54904.32,2025
+1148,Mary Moore,Registered Nurse,Public Health,Female,55,Bachelor,9,2016,FT,No,No,2,4,7.8,112179.06,5457.8,0.0,36778.29,117636.86,154415.15,2025
+1149,Michael Brown,Sergeant,Police,Male,40,High School,7,2015,FT,Yes,No,4,6,12.2,129458.72,28334.63,577.98,41339.89,158371.33,199711.22,2022
+1150,Luis Garcia,Registered Nurse,Public Health,Male,37,Bachelor,13,2012,FT,Yes,No,4,7,2.9,159213.62,39143.6,0.0,56270.68,198357.22,254627.9,2025
+1151,John Brown,Accountant,Controller,Male,48,Associate,13,2012,FT,Yes,Yes,4,4,30.6,102730.98,0.0,0.0,31960.6,102730.98,134691.58,2025
+1152,Michael Williams,Nursing Assistant,Public Health,Male,47,High School,8,2014,FT,Yes,No,5,8,8.0,87806.93,0.0,0.0,25814.25,87806.93,113621.18,2022
+1153,Carlos Moore,Accountant,Controller,Male,,Bachelor,0,2025,PT,Yes,No,3,2,6.8,40660.92,0.0,0.0,4676.25,40660.92,45337.17,2025
+1154,Andre Rodriguez,Police Officer,Police,Male,35,Bachelor,10,2015,PT,Yes,No,3,6,10.1,49589.14,10700.24,368.03,3900.63,60657.41,64558.04,2025
+1155,Luis Wong,Accountant,Controller,Male,57,,16,2008,FT,Yes,No,3,6,11.9,104237.55,0.0,0.0,32228.08,104237.55,136465.63,2024
+1156,Maria Brown,Nursing Assistant,Public Health,Female,33,Master,11,2013,FT,No,No,3,3,36.6,83568.61,0.0,1312.46,25123.36,84881.07,110004.43,2024
+1157,Eric Chen,Registered Nurse,Public Health,Male,57,Associate,22,2003,FT,Yes,No,3,11,9.9,211409.75,60166.06,0.0,67666.88,271575.81,339242.69,2025
+1158,Jennifer Davis,Parking Control Officer,Transportation,Female,48,Bachelor,6,2018,FT,Yes,No,3,5,9.0,77436.0,0.0,3050.29,26482.16,80486.29,106968.45,2024
+1159,Maria Taylor,Gardener,Recreation & Parks,Female,55,Master,9,2015,FT,No,No,3,7,8.4,64546.61,0.0,0.0,19629.08,64546.61,84175.69,2024
+1160,Sofia Moore,Recreation Leader,Recreation & Parks,Female,48,Bachelor,6,2017,FT,No,No,2,12,8.8,41322.07,12127.91,0.0,12085.81,53449.98,65535.79,2023
+1161,Raj Clark,Registered Nurse,Public Health,Male,34,Doctorate,10,2012,FT,Yes,No,4,5,15.9,153824.21,86878.49,20080.63,44880.91,260783.33,305664.24,2022
+1162,Wei Lewis,Firefighter,Fire,Male,36,Master,3,2022,FT,Yes,No,3,9,7.0,141011.34,0.0,876.1,47550.08,141887.44,189437.52,2025
+1163,Lisa Martin,Nursing Assistant,Public Health,Female,29,Bachelor,0,2024,PT,Yes,No,4,8,7.9,39529.12,3763.31,0.0,2038.04,43292.43,45330.47,2024
+1164,William Jackson,Senior Data Analyst,Technology,Male,44,Bachelor,10,2015,FT,No,Yes,5,4,2.2,143852.14,0.0,0.0,50569.58,143852.14,194421.72,2025
+1165,Laura Martinez,Transit Operator,Transportation,Female,61,Associate,13,2011,FT,Yes,No,3,12,11.1,88102.04,34046.53,0.0,29575.32,122148.57,151723.89,2024
+1166,Maria Gonzalez,Transit Operator,Transportation,Female,34,Bachelor,3,2021,FT,Yes,No,4,7,6.6,73084.98,6166.44,0.0,22303.78,79251.42,101555.2,2024
+1167,Nicole Rodriguez,Custodian,Public Works,Female,26,Doctorate,0,2023,FT,Yes,No,3,3,18.3,57087.35,2582.27,0.0,20280.88,59669.62,79950.5,2023
+1168,Hannah Kim,Transit Operator,Transportation,Female,45,Associate,9,2016,FT,Yes,No,4,12,8.0,71078.29,10419.12,0.0,24826.17,81497.41,106323.58,2025
+1169,Steven Allen,Clerk,Administrative Services,Male,60,Master,16,2008,FT,No,Yes,3,1,13.4,63292.66,0.0,0.0,21841.88,63292.66,85134.54,2024
+1170,Anthony Jones,Electrician,Public Works,Male,30,High School,8,2017,FT,Yes,No,3,9,10.9,165672.85,19313.9,0.0,52442.87,184986.75,237429.62,2025
+1171,Tuan Clark,Recreation Leader,Recreation & Parks,Male,,Bachelor,14,2010,FT,Yes,No,3,6,10.0,51791.39,0.0,0.0,17027.38,51791.39,68818.77,2024
+1172,Maria Davis,Recreation Leader,Recreation & Parks,Nonbinary,57,Master,16,2006,FT,No,No,1,6,24.8,45753.61,0.0,0.0,14616.1,45753.61,60369.71,2022
+1173,Laura Jackson,Registered Nurse,Public Health,Female,50,Master,13,2009,FT,Yes,No,3,7,4.3,186769.79,0.0,0.0,55064.03,186769.79,241833.82,2022
+1174,Raj Kim,Police Officer,Police,Male,47,High School,10,2012,FT,Yes,No,3,12,13.1,0.0,14281.29,0.0,42395.55,136857.9,179253.45,2022
+1175,Jose Rodriguez,Transit Operator,Transportation,Male,29,Bachelor,9,2014,PT,No,No,3,9,8.1,40596.56,3119.06,0.0,,43715.62,48003.46,2023
+1176,Eric Lewis,Firefighter,Fire,Male,35,Master,3,2021,FT,Yes,No,3,6,28.1,128893.25,76003.75,742.6,43400.73,205639.6,249040.33,2024
+1177,Michael Anderson,Gardener,Recreation & Parks,Male,45,Master,15,2010,FT,Yes,No,3,8,31.4,83409.64,7426.33,0.0,25692.96,90835.97,116528.93,2025
+1178,Eric Taylor,Accountant,Controller,Male,26,Bachelor,0,2025,PT,Yes,No,2,4,2.5,67321.88,0.0,0.0,7568.35,67321.88,74890.23,2025
+1179,Linda Martin,Custodian,Public Works,Female,49,Bachelor,6,2019,FT,Yes,No,3,6,4.7,48895.5,0.0,0.0,13960.76,48895.5,62856.26,2025
+1180,Raj Chen,Transit Operator,Transportation,Male,48,High School,16,2007,PT,Yes,No,3,11,6.3,33725.37,22521.27,877.13,2258.74,57123.77,59382.51,2023
+1181,Linda Clark,Recreation Leader,Recreation & Parks,Female,61,Master,27,1995,PT,Yes,No,5,4,9.4,22494.84,0.0,0.0,2144.48,22494.84,24639.32,2022
+1182,Luis Smith,Firefighter,Fire,Male,39,Bachelor,1,2024,FT,No,No,5,8,14.2,116108.62,1711.34,0.0,,117819.96,155037.55,2025
+1183,Robert Wilson,Clerk,Administrative Services,Male,56,High School,21,2001,FT,Yes,Yes,3,7,25.8,54428.49,0.0,0.0,16547.35,54428.49,70975.84,2022
+1184,Mary Rodriguez,Sergeant,Police,Female,20,High School,2,2022,PT,No,No,2,7,7.0,72924.63,0.0,0.0,9895.83,72924.63,82820.46,2024
+1185,Lisa Nguyen,Transit Operator,Transportation,Female,58,High School,24,1998,FT,Yes,No,3,12,16.5,68750.52,4395.46,0.0,19497.56,73145.98,92643.54,2022
+1186,Lisa Anderson,Registered Nurse,Public Health,Female,32,Bachelor,13,2009,FT,No,No,4,3,15.3,192385.43,0.0,2292.74,55167.17,194678.17,249845.34,2022
+1187,Wei Nguyen,Registered Nurse,Public Health,Male,49,Bachelor,11,2014,FT,No,No,3,5,4.5,141682.51,47782.12,0.0,,189464.63,229898.6,2025
+1188,Sofia Jackson,Transit Operator,Transportation,Female,36,High School,6,2018,FT,Yes,No,3,5,5.3,76989.12,29516.12,0.0,25561.74,106505.24,132066.98,2024
+1189,Grace Lopez,Police Officer,Police,Female,29,Bachelor,4,2019,PT,Yes,No,3,11,12.3,45328.21,8615.35,0.0,2383.37,53943.56,56326.93,2023
+1190,Kevin Lopez,Custodian,Public Works,Male,,High School,0,2023,FT,Yes,No,3,6,,57367.58,7710.27,0.0,18247.91,65077.85,83325.76,2023
+1191,Kevin Martinez,Gardener,Recreation & Parks,Male,35,Master,13,2009,FT,Yes,No,3,3,7.5,84105.82,0.0,0.0,28209.45,84105.82,112315.27,2022
+1192,Rosa Scott,Librarian,Library,Female,40,Master,10,2012,FT,Yes,No,2,9,21.5,93368.82,0.0,0.0,26715.63,93368.82,120084.45,2022
+1193,Tuan Lee,Firefighter,Fire,Male,54,Bachelor,16,2009,PT,Yes,No,3,8,16.3,72460.61,28906.08,7828.98,4879.92,109195.67,114075.59,2025
+1194,Priya Patel,Fire Captain,Fire,Female,58,Associate,21,2004,FT,No,No,5,4,9.8,213148.98,35224.7,14397.7,68370.44,262771.38,331141.82,2025
+1195,Daniel Rodriguez,Sergeant,Police,Male,48,High School,10,2013,FT,Yes,No,4,9,8.1,169776.6,23638.63,0.0,60105.41,193415.23,253520.64,2023
+1196,Raj Moore,Registered Nurse,Public Health,Male,41,Master,4,2021,FT,Yes,No,4,8,14.6,157898.88,52840.06,0.0,49111.96,210738.94,259850.9,2025
+1197,Patricia Tran,Nursing Assistant,Public Health,Female,38,Associate,6,2016,FT,Yes,No,5,10,2.4,77346.53,0.0,0.0,22411.27,77346.53,99757.8,2022
+1198,Nicole Walker,Department Head,Administrative Services,Female,54,Associate,12,2011,FT,No,No,4,6,25.1,0.0,0.0,0.0,89164.34,248449.55,337613.89,2023
+1199,Laura Kim,Registered Nurse,Public Health,Female,37,Bachelor,10,2015,PT,Yes,No,3,4,13.3,92606.47,43771.22,0.0,8519.09,136377.69,144896.78,2025
+1200,Hannah Nguyen,Police Officer,Police,Female,35,Bachelor,4,2019,FT,No,No,4,9,49.7,133241.71,5188.72,6977.35,47947.29,145407.78,193355.07,2023
+1201,Nicole Taylor,SENIOR DATA ANALYST,Technology,Female,37,High School,4,2019,FT,Yes,No,2,2,26.1,152276.57,0.0,0.0,43986.24,152276.57,196262.81,2023
+1202,Raj Scott,Accountant,Controller,Male,43,Master,16,2007,FT,Yes,Yes,5,6,3.7,103829.63,0.0,0.0,35290.38,103829.63,139120.01,2023
+1203,Carlos Anderson,Firefighter,Fire,Male,33,High School,2,2021,FT,Yes,No,5,13,4.7,117374.02,7022.05,13539.04,36448.89,137935.11,174384.0,2023
+1204,Sofia Taylor,Parking Control Officer,Transportation,Female,36,Associate,6,2017,FT,Yes,No,5,6,7.8,66756.36,17446.35,0.0,22568.42,84202.71,106771.13,2023
+1205,Kevin Miller,Custodian,Public Works,Male,28,High School,0,2024,FT,Yes,No,4,5,4.3,71909.32,26722.92,345.06,23910.81,98977.3,122888.11,2024
+1206,James Miller,Electrician,Public Works,Male,19,Bachelor,0,2024,FT,Yes,No,3,8,8.5,118976.09,0.0,14953.3,35559.43,133929.39,169488.82,2024
+1207,Luis Young,Firefighter,Fire,Male,55,High School,11,2012,FT,Yes,No,3,18,7.5,143792.24,96332.15,0.0,43404.8,240124.39,283529.19,2023
+1208,Kevin Tran,Police Officer,Police,Male,32,Bachelor,3,2019,PT,Yes,No,4,8,31.2,60084.01,24969.09,1157.74,5312.68,86210.84,91523.52,2022
